@@ -8,7 +8,9 @@ In this repo, we first extract the top 1000 actors and actresses listed on IMDb 
 The divorce rate depends on if it’s the first, second, or third marriage, according to the following statistics:
 
 First marriage divorce rate = `45% – 50%`;
+
 Second marriage divorce rate = `60% – 67%`;
+
 Third marriage divorce rate = `73% – 74%`.
 
 ## Divorce rate for the actors and actresses
