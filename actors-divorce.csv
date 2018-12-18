@@ -1,0 +1,945 @@
+,Actor_name,Born,Occupation,spouse,spouse_first,spouse_second,spouse_third,spouse_fourth
+0,Robert De Niro,['(1943-08-17)'],"['Actor, producer, director']","['Diahnne Abbott(m.\xa01976; div.\xa01988)', 'Grace Hightower(m.\xa01997; separated\xa02018)']",Diahnne Abbott(m. 1976; div. 1988),Grace Hightower(m. 1997; separated 2018),None,None
+1,Jack Nicholson,['(1937-04-22)'],"['Actor, director, producer, screenwriter']",['Sandra Knight(m.\xa01962; div.\xa01968)'],Sandra Knight(m. 1962; div. 1968),None,None,None
+2,Tom Hanks,['(1956-07-09)'],"['Actor, filmmaker']","['Samantha Lewes(m.\xa01978; div.\xa01987)', 'Rita Wilson (m.\xa01988)']",Samantha Lewes(m. 1978; div. 1987),Rita Wilson (m. 1988),None,None
+3,Marlon Brando,"['(1924-04-03)', '(2004-07-01)']","['Actor, film director, activist']","['Anna Kashfi(m.\xa01957; div.\xa01959)', 'Movita Castaneda(m.\xa01960; div.\xa01962)', 'Tarita Teriipaia(m.\xa01962; div.\xa01972)']",Anna Kashfi(m. 1957; div. 1959),Movita Castaneda(m. 1960; div. 1962),Tarita Teriipaia(m. 1962; div. 1972),None
+4,Leonardo DiCaprio,['(1974-11-11)'],['Actor\nFilm producer with Appian Way Productions'],[],Never married,None,None,None
+5,Humphrey Bogart,"['(1899-12-25)', '(1957-01-14)']",['Actor'],"['Helen Menken(m.\xa01926; div.\xa01927)', 'Mary Philips(m.\xa01928; div.\xa01937)', 'Mayo Methot(m.\xa01938; div.\xa01945)', 'Lauren Bacall (m.\xa01945)']",Helen Menken(m. 1926; div. 1927),Mary Philips(m. 1928; div. 1937),Mayo Methot(m. 1938; div. 1945),Lauren Bacall (m. 1945)
+6,Johnny Depp,['(1963-06-09)'],"['Actor, producer, musician']","['Lori Allison(m.\xa01983; div.\xa01985)', 'Amber Heard(m.\xa02015; div.\xa02017)']",Lori Allison(m. 1983; div. 1985),Amber Heard(m. 2015; div. 2017),None,None
+7,Al Pacino,['(1940-04-25)'],['Actor\nfilmmaker'],[],Never married,None,None,None
+8,Denzel Washington,['(1954-12-28)'],['Actor\ndirector\nproducer'],['Pauletta Pearson (m.\xa01983)'],Pauletta Pearson (m. 1983),None,None,None
+9,Brad Pitt,['(1963-12-18)'],['Actorfilm producer'],"['Jennifer Aniston(m.\xa02000; div.\xa02005)', 'Angelina Jolie(m.\xa02014; sep.\xa02016)']",Jennifer Aniston(m. 2000; div. 2005),Angelina Jolie(m. 2014; sep. 2016),None,None
+10,Daniel Day-Lewis,['(1957-04-29)'],['Actor'],['Rebecca Miller (m.\xa01996)'],Rebecca Miller (m. 1996),None,None,None
+11,Tom Cruise,['(1962-07-03)'],"['Actor, producer']","['Mimi Rogers(m.\xa01987; div.\xa01990)', 'Nicole Kidman(m.\xa01990; div.\xa02001)', 'Katie Holmes(m.\xa02006; div.\xa02012)']",Mimi Rogers(m. 1987; div. 1990),Nicole Kidman(m. 1990; div. 2001),Katie Holmes(m. 2006; div. 2012),None
+12,Dustin Hoffman,['(1937-08-08)'],"['Actor, film director']","['Anne Byrne(m.\xa01969; div.\xa01980)', 'Lisa Gottsegen (m.\xa01980)']",Anne Byrne(m. 1969; div. 1980),Lisa Gottsegen (m. 1980),None,None
+13,Clark Gable,"['(1901-02-01)', '(1960-11-16)']",['Actor'],"['Josephine Dillon(m.\xa01924; div.\xa01930)', 'Maria Langham(m.\xa01931; div.\xa01939)', 'Carole Lombard(m.\xa01939; died\xa01942)', 'Sylvia Ashley(m.\xa01949; div.\xa01952)', 'Kay Williams (m.\xa01955)']",Josephine Dillon(m. 1924; div. 1930),Maria Langham(m. 1931; div. 1939),Carole Lombard(m. 1939; died 1942),Sylvia Ashley(m. 1949; div. 1952)
+14,Sean Penn,['(1960-08-17)'],"['Actor, filmmaker']","['Madonna(m.\xa01985; div.\xa01989)', 'Robin Wright(m.\xa01996; div.\xa02010)']",Madonna(m. 1985; div. 1989),Robin Wright(m. 1996; div. 2010),None,None
+15,Christian Bale,['(1974-01-30)'],['Actor'],['Sandra Blažić (m.\xa02000)'],Sandra Blažić (m. 2000),None,None,None
+16,Gregory Peck,"['(1916-04-05)', '(2003-06-12)']",['Actor'],"['Greta Kukkonen(m.\xa01942; div.\xa01955)', 'Veronique Passani (m.\xa01955)']",Greta Kukkonen(m. 1942; div. 1955),Veronique Passani (m. 1955),None,None
+17,Sidney Poitier,['(1927-02-20)'],"['Actor, director, author, diplomat']","['Juanita Hardy (m.\xa01950–1965)', 'Joanna Shimkus (m.\xa01976)']",Juanita Hardy (m. 1950–1965),Joanna Shimkus (m. 1976),None,None
+18,Harrison Ford,['(1942-07-13)'],['Actorproducer'],"['Mary Marquardt(m.\xa01964; div.\xa01979)', 'Melissa Mathison(m.\xa01983; div.\xa02004)', 'Calista Flockhart (m.\xa02010)']",Mary Marquardt(m. 1964; div. 1979),Melissa Mathison(m. 1983; div. 2004),Calista Flockhart (m. 2010),None
+19,Spencer Tracy,"['(1900-04-05)', '(1967-06-10)']",['Actor'],['Louise Treadwell (m.\xa01923)'],Louise Treadwell (m. 1923),None,None,None
+20,George Clooney,['(1961-05-06)'],"['Actor, screenwriter, producer with Smoke House Pictures, director']","['Talia Balsam(m.\xa01989; div.\xa01993)', 'Amal Alamuddin (m.\xa02014)']",Talia Balsam(m. 1989; div. 1993),Amal Alamuddin (m. 2014),None,None
+21,Charlton Heston,"['(1923-10-04)', '(2008-04-05)']","['Actor, activist']",['Lydia Clarke (m.\xa01944)'],Lydia Clarke (m. 1944),None,None,None
+22,Morgan Freeman,['(1937-06-01)'],['Actor'],"['Jeanette Adair Bradshaw(m.\xa01967; div.\xa01979)', 'Myrna Colley-Lee(m.\xa01984; div.\xa02010)']",Jeanette Adair Bradshaw(m. 1967; div. 1979),Myrna Colley-Lee(m. 1984; div. 2010),None,None
+23,Katharine Hepburn,"['(1907-05-12)', '(2003-06-29)']",['Actress'],['Ludlow Ogden Smith(m.\xa01928; div.\xa01934)'],Ludlow Ogden Smith(m. 1928; div. 1934),None,None,None
+24,Meryl Streep,['(1949-06-22)'],['Actress'],['Don Gummer (m.\xa01978)'],Don Gummer (m. 1978),None,None,None
+25,Ingrid Bergman,"['(1915-08-29)', '(1982-08-29)']",['Actress'],"['Petter Lindström(m.\xa01937; div.\xa01950)', 'Roberto Rossellini(m.\xa01950; div.\xa01957)', 'Lars Schmidt(m.\xa01958; div.\xa01975)']",Petter Lindström(m. 1937; div. 1950),Roberto Rossellini(m. 1950; div. 1957),Lars Schmidt(m. 1958; div. 1975),None
+26,Marilyn Monroe,"['(1926-06-01)', '(1962-08-05)']",['Actressmodelsinger'],"['James Dougherty(m.\xa01942; div.\xa01946)', 'Joe DiMaggio(m.\xa01954; div.\xa01955)', 'Arthur Miller(m.\xa01956; div.\xa01961)']",James Dougherty(m. 1942; div. 1946),Joe DiMaggio(m. 1954; div. 1955),Arthur Miller(m. 1956; div. 1961),None
+27,Jennifer Lawrence,['(1990-08-15)'],['Actress'],[],Never married,None,None,None
+28,Kate Winslet,['(1975-10-05)'],['Actress'],"['Jim Threapleton(m.\xa01998; div.\xa02001)', 'Sam Mendes(m.\xa02003; div.\xa02011)', 'Ned Rocknroll (m.\xa02012)']",Jim Threapleton(m. 1998; div. 2001),Sam Mendes(m. 2003; div. 2011),Ned Rocknroll (m. 2012),None
+29,Elizabeth Taylor,"['(1932-02-27)', '(2011-03-23)']","['Actress, entrepreneur']","['Conrad Hilton Jr.(m.\xa01950; div.\xa01951)', 'Michael Wilding(m.\xa01952; div.\xa01957)', 'Mike Todd(m.\xa01957; d.\xa01958)', 'Eddie Fisher(m.\xa01959; div.\xa01964)', 'Richard Burton(m.\xa01964; div.\xa01974)', 'John Warner(m.\xa01976; div.\xa01982)', 'Larry Fortensky(m.\xa01991; div.\xa01996)']",Conrad Hilton Jr.(m. 1950; div. 1951),Michael Wilding(m. 1952; div. 1957),Mike Todd(m. 1957; d. 1958),Eddie Fisher(m. 1959; div. 1964)
+30,Cate Blanchett,['(1969-05-14)'],['Actress\ntheatre director'],['Andrew Upton (m.\xa01997)'],Andrew Upton (m. 1997),None,None,None
+31,Audrey Hepburn,"['(1929-05-04)', '(1993-01-20)']",['Actress (1948–1989)Humanitarian (1988–1992)'],"['Mel Ferrer(m.\xa01954; div.\xa01968)', 'Andrea Dotti(m.\xa01969; div.\xa01982)']",Mel Ferrer(m. 1954; div. 1968),Andrea Dotti(m. 1969; div. 1982),None,None
+32,Helen Mirren,['(1945-07-26)'],['Actor'],['Taylor Hackford (m.\xa01997)'],Taylor Hackford (m. 1997),None,None,None
+33,Bette Davis,"['(1908-04-05)', '(1989-10-06)']",['Actress'],"['Harmon Nelson(m.\xa01932; div.\xa01938)', 'Arthur Farnsworth(m.\xa01940; died\xa01943)', 'William Grant Sherry(m.\xa01945; div.\xa01950)', 'Gary Merrill(m.\xa01950; div.\xa01960)']",Harmon Nelson(m. 1932; div. 1938),Arthur Farnsworth(m. 1940; died 1943),William Grant Sherry(m. 1945; div. 1950),Gary Merrill(m. 1950; div. 1960)
+34,Viola Davis,['(1965-08-11)'],"['Actress, producer']",['Julius Tennon (m.\xa02003)'],Julius Tennon (m. 2003),None,None,None
+35,Nicole Kidman,['(1967-06-20)'],['Actress\nproducer'],"['Tom Cruise(m.\xa01990; div.\xa02001)', 'Keith Urban (m.\xa02006)']",Tom Cruise(m. 1990; div. 2001),Keith Urban (m. 2006),None,None
+36,Sandra Bullock,['(1964-07-26)'],"['Actress, producer, philanthropist']",['Jesse G. James(m.\xa02005; div.\xa02010)'],Jesse G. James(m. 2005; div. 2010),None,None,None
+37,Natalie Portman,['(1981-06-09)'],['Actressfilm producerdirector'],['Benjamin Millepied (m.\xa02012)'],Benjamin Millepied (m. 2012),None,None,None
+38,Jodie Foster,['(1962-11-19)'],['Actressdirectorproducer'],['Alexandra Hedison (m.\xa02014)'],Alexandra Hedison (m. 2014),None,None,None
+39,Judi Dench,['(1934-12-09)'],['Actressartistauthor'],['Michael Williams(m.\xa01971; died\xa02001)'],Michael Williams(m. 1971; died 2001),None,None,None
+40,Amy Adams,['(1974-08-20)'],['Actress'],['Darren Le Gallo (m.\xa02015)'],Darren Le Gallo (m. 2015),None,None,None
+41,Julia Roberts,['(1967-10-28)'],"['Actress, producer']","['Lyle Lovett(m.\xa01993; div.\xa01995)', 'Daniel Moder (m.\xa02002)']",Lyle Lovett(m. 1993; div. 1995),Daniel Moder (m. 2002),None,None
+42,Diane Keaton,['(1946-01-05)'],['Actress\ndirector\nproducer'],[],Never married,None,None,None
+43,Shirley MacLaine,['(1934-04-24)'],"['Actress, singer, dancer, author, activist']",['Steve Parker(m.\xa01954; div.\xa01982)'],Steve Parker(m. 1954; div. 1982),None,None,None
+44,Reese Witherspoon,['(1976-03-22)'],"['Actress, producer, entrepreneur']","['Ryan Phillippe(m.\xa01999; div.\xa02007)', 'Jim Toth (m.\xa02011)']",Ryan Phillippe(m. 1999; div. 2007),Jim Toth (m. 2011),None,None
+45,Charlize Theron,['(1975-08-07)'],"['Actress, producer']",[],Never married,None,None,None
+46,Judy Garland,"['(1922-06-10)', '(1969-06-22)']",['Singer\nactress\ndancer\nvaudevillian'],"['David Rose(m.\xa01941; div.\xa01944)', 'Vincente Minnelli(m.\xa01945; div.\xa01951)', 'Sidney Luft(m.\xa01952; div.\xa01965)', 'Mark Herron(m.\xa01965; div.\xa01969)', 'Mickey Deans (m.\xa01969)']",David Rose(m. 1941; div. 1944),Vincente Minnelli(m. 1945; div. 1951),Sidney Luft(m. 1952; div. 1965),Mark Herron(m. 1965; div. 1969)
+47,John Wayne,"['(1907-05-26)', '(1979-06-11)', '\ufeff / 33.60953; -117.85336']","['Actor, director, producer']","['Josephine Saenz(m.\xa01933; div.\xa01945)', 'Esperanza Baur(m.\xa01946; div.\xa01954)', 'Pilar Pallete (m.\xa01954)']",Josephine Saenz(m. 1933; div. 1945),Esperanza Baur(m. 1946; div. 1954),Pilar Pallete (m. 1954),None
+48,Paul Newman,"['(1925-01-26)', '(2008-09-26)']","['Actor, voice actor, film director, producer, race car driver, Indy Car owner, entrepreneur']","['Jackie Witte(m.\xa01949; div.\xa01958)', 'Joanne Woodward (m.\xa01958)']",Jackie Witte(m. 1949; div. 1958),Joanne Woodward (m. 1958),None,None
+49,Anthony Hopkins,['(1937-12-31)'],"['Actor, composer, painter']","['Petronella Barker(m.\xa01966; div.\xa01972)', 'Jennifer Lynton(m.\xa01973; div.\xa02002)', 'Stella Arroyave (m.\xa02003)']",Petronella Barker(m. 1966; div. 1972),Jennifer Lynton(m. 1973; div. 2002),Stella Arroyave (m. 2003),None
+50,Matt Damon,['(1970-10-08)'],"['Actor, filmmaker, producer with Pearl Street Films, screenwriter']",['Luciana Bozán Barroso (m.\xa02005)'],Luciana Bozán Barroso (m. 2005),None,None,None
+51,Russell Crowe,['(1964-04-07)'],['Actorfilm producermusician'],['Danielle Spencer(m.\xa02003; div.\xa02018)'],Danielle Spencer(m. 2003; div. 2018),None,None,None
+52,Robert Duvall,['(1931-01-05)'],"['Actor, filmmaker']","['Barbara Benjamin(m.\xa01964; div.\xa01975)', 'Gail Youngs(m.\xa01982; div.\xa01986)', 'Sharon Brophy(m.\xa01991; div.\xa01995)', 'Luciana Pedraza (m.\xa02005)']",Barbara Benjamin(m. 1964; div. 1975),Gail Youngs(m. 1982; div. 1986),Sharon Brophy(m. 1991; div. 1995),Luciana Pedraza (m. 2005)
+53,James Dean,"['(1931-02-08)', '(1955-09-30)']",['Actor'],[],Never married,None,None,None
+54,Kirk Douglas,['(1916-12-09)'],"['Actor, filmmaker, author']","['Diana Douglas(m.\xa01943; div.\xa01951)', 'Anne Buydens (m.\xa01954)']",Diana Douglas(m. 1943; div. 1951),Anne Buydens (m. 1954),None,None
+55,Henry Fonda,"['(1905-05-16)', '(1982-08-12)']",['Actor'],"['Margaret Sullavan(m.\xa01931; div.\xa01933)', 'Frances Seymour Brokaw(m.\xa01936; died\xa01950)', 'Susan Blanchard(m.\xa01950; div.\xa01956)', 'Afdera Franchetti(m.\xa01957; div.\xa01961)', 'Shirlee Mae Adams  (m.\xa01965)']",Margaret Sullavan(m. 1931; div. 1933),Frances Seymour Brokaw(m. 1936; died 1950),Susan Blanchard(m. 1950; div. 1956),Afdera Franchetti(m. 1957; div. 1961)
+56,Robin Williams,"['(1951-07-21)', '(2014-08-11)', '(1972)', '(2014)']","['Actor, comedian']","['Valerie Velardi(m.\xa01978; div.\xa01988)', 'Marsha Garces(m.\xa01989; div.\xa02010)', 'Susan Schneider (m.\xa02011)']",Valerie Velardi(m. 1978; div. 1988),Marsha Garces(m. 1989; div. 2010),Susan Schneider (m. 2011),None
+57,Orson Welles,"['(1915-05-06)', '(1985-10-10)']",['Actordirectorwriterproducer'],[],Never married,None,None,None
+58,Christoph Waltz,['(1956-10-04)'],"['Actor, director, voice actor']",[],Never married,None,None,None
+59,Heath Ledger,"['(1979-04-04)', '(2008-01-22)']",['Actor\nmusic video director'],[],Never married,None,None,None
+60,Sean Connery,['(1930-08-25)'],['Actor'],"['Diane Cilento(m.\xa01962; div.\xa01973)', 'Micheline Roquebrune (m.\xa01975)']",Diane Cilento(m. 1962; div. 1973),Micheline Roquebrune (m. 1975),None,None
+61,Kevin Spacey,['(1959-07-26)'],['Actor\nproducer\nsinger'],[],Never married,None,None,None
+62,Gene Hackman,['(1930-01-30)'],"['Actor, novelist']","['Faye Maltese(m.\xa01956; div.\xa01986)', 'Betsy Arakawa (m.\xa01991)']",Faye Maltese(m. 1956; div. 1986),Betsy Arakawa (m. 1991),None,None
+63,Liam Neeson,['(1952-06-07)'],['Actor'],['Natasha Richardson(m.\xa01994; died\xa02009)'],Natasha Richardson(m. 1994; died 2009),None,None,None
+64,Edward Norton,['(1969-08-18)'],['Actor\nfilmmaker\nactivist'],['Shauna Robertson (m.\xa02012)'],Shauna Robertson (m. 2012),None,None,None
+65,Bruce Willis,['(1955-03-19)'],"['Actor, producer with Cheyenne Enterprises, singer']","['Demi Moore(m.\xa01987; div.\xa02000)', 'Emma Heming (m.\xa02009)']",Demi Moore(m. 1987; div. 2000),Emma Heming (m. 2009),None,None
+66,Gary Cooper,"['(1901-05-07)', '(1961-05-13)']",['Actor'],['Veronica Balfe (m.\xa01933)'],Veronica Balfe (m. 1933),None,None,None
+67,Philip Seymour Hoffman,"['(1967-07-23)', '(2014-02-02)']",['Actorproducerdirector'],[],Never married,None,None,None
+68,Robert Redford,['(1936-08-18)'],['Actordirectorproducerbusinessman'],"['Lola Van Wagenen(m.\xa01958; div.\xa01985)', 'Sibylle Szaggars (m.\xa02009)']",Lola Van Wagenen(m. 1958; div. 1985),Sibylle Szaggars (m. 2009),None,None
+69,Ralph Fiennes,['(1962-12-22)'],"['Actor, director, producer']",['Alex Kingston(m.\xa01993; div.\xa01997)'],Alex Kingston(m. 1993; div. 1997),None,None,None
+70,Will Smith,['(1968-09-25)'],['Actor\nfilm producer\nrapper\nsongwriter\ncomedian\nmedia personality\nrecord producer'],"['Sheree Zampino(m.\xa01992; div.\xa01995)', 'Jada Pinkett (m.\xa01997)']",Sheree Zampino(m. 1992; div. 1995),Jada Pinkett (m. 1997),None,None
+71,Steve McQueen,"['(1930-03-24)', '(1980-11-07)']",['Actor'],"['Neile Adams(m.\xa01956; div.\xa01972)', 'Ali MacGraw(m.\xa01973; div.\xa01978)', 'Barbara Minty (m.\xa01980)']",Neile Adams(m. 1956; div. 1972),Ali MacGraw(m. 1973; div. 1978),Barbara Minty (m. 1980),None
+72,Vivien Leigh,"['(1913-11-05)', '(1967-07-08)']",['Actress'],"['Herbert Leigh Holman(m.\xa01932; div.\xa01940)', 'Sir Laurence Olivier(m.\xa01940; div.\xa01960)']",Herbert Leigh Holman(m. 1932; div. 1940),Sir Laurence Olivier(m. 1940; div. 1960),None,None
+73,Angelina Jolie,['(1975-06-04)'],['Actress\nfilmmaker\nactivist'],"['Jonny Lee Miller(m.\xa01996; div.\xa02000)', 'Billy Bob Thornton(m.\xa02000; div.\xa02003)', 'Brad Pitt(m.\xa02014; sep.\xa02016)']",Jonny Lee Miller(m. 1996; div. 2000),Billy Bob Thornton(m. 2000; div. 2003),Brad Pitt(m. 2014; sep. 2016),None
+74,Anne Hathaway,['(1982-11-12)'],"['Actress, singer']",['Adam Shulman (m.\xa02012)'],Adam Shulman (m. 2012),None,None,None
+75,Maggie Smith,['(1934-12-28)'],['Actress'],"['Robert Stephens(m.\xa01967; div.\xa01975)', 'Beverley Cross(m.\xa01975; died\xa01998)']",Robert Stephens(m. 1967; div. 1975),Beverley Cross(m. 1975; died 1998),None,None
+76,Olivia de Havilland,['(1916-07-01)'],['Actress'],"['Marcus Goodrich(m.\xa01946; div.\xa01953)', 'Pierre Galante(m.\xa01955; div.\xa01979)']",Marcus Goodrich(m. 1946; div. 1953),Pierre Galante(m. 1955; div. 1979),None,None
+77,Barbara Stanwyck,"['(1907-07-16)', '(1990-01-20)']","['Actress, model, dancer']","['Frank Fay(m.\xa01928; div.\xa01935)', 'Robert Taylor(m.\xa01939; div.\xa01952)']",Frank Fay(m. 1928; div. 1935),Robert Taylor(m. 1939; div. 1952),None,None
+78,Joan Fontaine,"['(1917-10-22)', '(2013-12-15)']",['Actress'],"['Brian Aherne(m.\xa01939; div.\xa01945)', 'William Dozier(m.\xa01946; div.\xa01951)', 'Collier Young(m.\xa01952; div.\xa01961)', 'Alfred Wright Jr.(m.\xa01964; div.\xa01969)']",Brian Aherne(m. 1939; div. 1945),William Dozier(m. 1946; div. 1951),Collier Young(m. 1952; div. 1961),Alfred Wright Jr.(m. 1964; div. 1969)
+79,Greer Garson,"['(1904-09-29)', '(1996-04-06)']","['Actress, singer, philanthropist']","['Edward Snelson(m.\xa01933; div.\xa01943)', 'Richard Ney(m.\xa01943; div.\xa01947)', 'Buddy Fogelson(m.\xa01949; died\xa01987)']",Edward Snelson(m. 1933; div. 1943),Richard Ney(m. 1943; div. 1947),Buddy Fogelson(m. 1949; died 1987),None
+80,Faye Dunaway,['(1941-01-14)'],['Actress'],"['Peter Wolf(m.\xa01974; div.\xa01979)', ""Terry O'Neill(m.\xa01983; div.\xa01987)""]",Peter Wolf(m. 1974; div. 1979),Terry O'Neill(m. 1983; div. 1987),None,None
+81,Susan Hayward,"['(1917-06-30)', '(1975-03-14)']","['Actress, model']","['Jess Barker (m.\xa01944–1954)', 'Floyd Eaton Chalkley(m.\xa01957; his death\xa01966)']",Jess Barker (m. 1944–1954),Floyd Eaton Chalkley(m. 1957; his death 1966),None,None
+82,Ellen Burstyn,['(1932-12-07)'],['Actress'],"['William Alexander(m.\xa01950; div.\xa01957)', 'Paul Roberts(m.\xa01958; div.\xa01961)', 'Neil Burstyn(m.\xa01964; div.\xa01972)']",William Alexander(m. 1950; div. 1957),Paul Roberts(m. 1958; div. 1961),Neil Burstyn(m. 1964; div. 1972),None
+83,Jane Wyman,"['(1917-01-05)', '(2007-09-10)']","['Actress, singer, dancer']",[],Never married,None,None,None
+84,Sophia Loren,['(1934-09-20)'],"['Beauty queen, actress, singer']",['Carlo Ponti Sr.(m.\xa01957; ann.\xa01962)'],Carlo Ponti Sr.(m. 1957; ann. 1962),None,None,None
+85,Joan Crawford,"['(1904-03-23)', '(1977-05-10)']","['Actress, dancer, business executive']","['Douglas Fairbanks, Jr.(m.\xa01929; div.\xa01933)', 'Franchot Tone(m.\xa01935; div.\xa01939)', 'Phillip Terry(m.\xa01942; div.\xa01946)', 'Alfred Steele(m.\xa01955; died\xa01959)']","Douglas Fairbanks, Jr.(m. 1929; div. 1933)",Franchot Tone(m. 1935; div. 1939),Phillip Terry(m. 1942; div. 1946),Alfred Steele(m. 1955; died 1959)
+86,Kathy Bates,['(1948-06-28)'],"['Actress, director']",['Tony Campisi(m.\xa01991; div.\xa01997)'],Tony Campisi(m. 1991; div. 1997),None,None,None
+87,Julie Andrews,['(1935-10-01)'],"['Actress, singer, author']","['Tony Walton(m.\xa01959; div.\xa01967)', 'Blake Edwards(m.\xa01969; died\xa02010)']",Tony Walton(m. 1959; div. 1967),Blake Edwards(m. 1969; died 2010),None,None
+88,Marion Cotillard,['(1975-09-30)'],"['Actress, singer, musician, environmentalist']",[],Never married,None,None,None
+89,Deborah Kerr,"['(1921-09-30)', '(2007-10-16)']",['Actress'],"['Tony Bartley(m.\xa01945; div.\xa01959)', 'Peter Viertel (m.\xa01960)']",Tony Bartley(m. 1945; div. 1959),Peter Viertel (m. 1960),None,None
+90,Sissy Spacek,['(1949-12-25)'],['Actresssinger'],['Jack Fisk (m.\xa01974)'],Jack Fisk (m. 1974),None,None,None
+91,Susan Sarandon,['(1946-10-04)'],['Actress'],['Chris Sarandon(m.\xa01967; div.\xa01979)'],Chris Sarandon(m. 1967; div. 1979),None,None,None
+92,Luise Rainer,"['(1910-01-12)', '(2014-12-30)']",['Actress'],[],Never married,None,None,None
+93,Glenn Close,['(1947-03-19)'],"['Actress, producer']","['Cabot Wade(m.\xa01969; div.\xa01971)', 'James Marlas(m.\xa01984; div.\xa01987)', 'David Evans Shaw(m.\xa02006; div.\xa02015)']",Cabot Wade(m. 1969; div. 1971),James Marlas(m. 1984; div. 1987),David Evans Shaw(m. 2006; div. 2015),None
+94,Jane Fonda,['(1937-12-21)'],['Actress\nwriter\nactivist'],"['Roger Vadim(m.\xa01965; div.\xa01973)', 'Tom Hayden(m.\xa01973; div.\xa01990)', 'Ted Turner(m.\xa01991; div.\xa02001)']",Roger Vadim(m. 1965; div. 1973),Tom Hayden(m. 1973; div. 1990),Ted Turner(m. 1991; div. 2001),None
+95,Doris Day,['(1922-04-03)'],"['Actress, singer, animal rights activist']","['Al Jorden(m.\xa01941; div.\xa01943)', 'George Weidler(m.\xa01946; div.\xa01949)', 'Martin Melcher(m.\xa01951; died\xa01968)', 'Barry Comden(m.\xa01976; div.\xa01981)']",Al Jorden(m. 1941; div. 1943),George Weidler(m. 1946; div. 1949),Martin Melcher(m. 1951; died 1968),Barry Comden(m. 1976; div. 1981)
+96,Natalie Wood,"['(1938-07-20)', '(1981-11-29)']",['Actress'],"['Robert Wagner(m.\xa01957; div.\xa01962)', 'Richard Gregson(m.\xa01969; div.\xa01972)']",Robert Wagner(m. 1957; div. 1962),Richard Gregson(m. 1969; div. 1972),None,None
+97,Jeff Bridges,['(1949-12-04)'],"['Actor, singer, producer, composer']",['Susan Geston (m.\xa01977)'],Susan Geston (m. 1977),None,None,None
+98,Chiwetel Ejiofor,['(1977-07-10)'],['Actor'],[],Never married,None,None,None
+99,Ben Kingsley,['(1943-12-31)'],['Actor'],"['Angela Morant(m.\xa01966; div.\xa01976)', 'Alison Sutcliffe(m.\xa01978; div.\xa01992)', 'Alexandra Christmann(m.\xa02003; div.\xa02005)', 'Daniela Lavender (m.\xa02007)']",Angela Morant(m. 1966; div. 1976),Alison Sutcliffe(m. 1978; div. 1992),Alexandra Christmann(m. 2003; div. 2005),Daniela Lavender (m. 2007)
+100,Tommy Lee Jones,['(1946-09-15)'],"['Actor, director, producer, screenwriter']","['Katherine ""Kate"" Lardner (m.\xa01971–1978)', 'Kimberlea Cloughley (m.\xa01981–1996)', 'Dawn Laurel (m.\xa02001)']","Katherine ""Kate"" Lardner (m. 1971–1978)",Kimberlea Cloughley (m. 1981–1996),Dawn Laurel (m. 2001),None
+101,Samuel L. Jackson,['(1948-12-21)'],"['Actor, film producer']",['LaTanya Richardson (m.\xa01980)'],LaTanya Richardson (m. 1980),None,None,None
+102,Jack Lemmon,"['(1925-02-08)', '(2001-06-27)']","['Actor, musician']","['Cynthia Stone(m.\xa01950; div.\xa01956)', 'Felicia Farr (m.\xa01962)']",Cynthia Stone(m. 1950; div. 1956),Felicia Farr (m. 1962),None,None
+103,Joe Pesci,['(1943-02-09)'],['Actor'],['Claudia Haro(m.\xa01988; div.\xa01992)'],Claudia Haro(m. 1988; div. 1992),None,None,None
+104,Christopher Plummer,['(1929-12-13)'],['Actor'],"['Tammy Grimes(m.\xa01956; div.\xa01960)', 'Patricia Lewis(m.\xa01962; div.\xa01967)', 'Elaine Taylor (m.\xa01970)']",Tammy Grimes(m. 1956; div. 1960),Patricia Lewis(m. 1962; div. 1967),Elaine Taylor (m. 1970),None
+105,George C. Scott,"['(1927-10-18)', '(1999-09-22)']","['Actor, director, producer']","['Carolyn Hughes (m.\xa01951–1955)', 'Patricia Reed (m.\xa01955–1960)', 'Colleen Dewhurst(m.\xa01960; div.\xa01965)', 'Trish Van Devere(m.\xa01972; his death\xa01999)']",Carolyn Hughes (m. 1951–1955),Patricia Reed (m. 1955–1960),Colleen Dewhurst(m. 1960; div. 1965),Trish Van Devere(m. 1972; his death 1999)
+106,Joaquin Phoenix,['(1974-10-28)'],['Actor\nproducer\nmusician\nactivist'],[],Never married,None,None,None
+107,Christopher Walken,['(1943-03-31)'],"['Actor, dancer, business investor with Tribeca Grill']",['Georgianne Thon (m.\xa01969)'],Georgianne Thon (m. 1969),None,None,None
+108,John Travolta,['(1954-02-18)'],"['Actor, producer, singer, dancer']",['Kelly Preston (m.\xa01991)'],Kelly Preston (m. 1991),None,None,None
+109,James Stewart,"['(1908-05-20)', '(1997-07-02)']","['Actor, military officer']",['Gloria Hatrick McLean(m.\xa01949; died\xa01994)'],Gloria Hatrick McLean(m. 1949; died 1994),None,None,None
+110,Matthew McConaughey,['(1969-11-04)'],"['Actor, producer']",['Camila Alves (m.\xa02012)'],Camila Alves (m. 2012),None,None,None
+111,Peter O'Toole,"['(1932-08-02)', '(2013-12-14)']","['Actor, author']",['Siân Phillips(m.\xa01959; div.\xa01979)'],Siân Phillips(m. 1959; div. 1979),None,None,None
+112,James Cagney,"['(1899-07-17)', '(1986-03-30)']","['Actor, dancer']",['Frances Vernon (m.\xa01922)'],Frances Vernon (m. 1922),None,None,None
+113,Ian McKellen,['(1939-05-25)'],['Actor'],[],Never married,None,None,None
+114,John Cusack,['(1966-06-28)'],"['Actor, producer, screenwriter']",[],Never married,None,None,None
+115,Bill Murray,['(1950-09-21)'],['Actor\ncomedian\nwriter'],"['Margaret Kelly(m.\xa01981; div.\xa01996)', 'Jennifer Butler(m.\xa01997; div.\xa02008)']",Margaret Kelly(m. 1981; div. 1996),Jennifer Butler(m. 1997; div. 2008),None,None
+116,Robert Downey Jr.,['(1965-04-04)'],['Actor\nsinger-songwriter'],"['Deborah Falconer(m.\xa01992; div.\xa02004)', 'Susan Levin (m.\xa02005)']",Deborah Falconer(m. 1992; div. 2004),Susan Levin (m. 2005),None,None
+117,Nicolas Cage,['(1964-01-07)'],"['Actor, director, producer']","['Patricia Arquette(m.\xa01995; div.\xa02001)', 'Lisa Marie Presley(m.\xa02002; div.\xa02004)', 'Alice Kim(m.\xa02004; sep.\xa02016)']",Patricia Arquette(m. 1995; div. 2001),Lisa Marie Presley(m. 2002; div. 2004),Alice Kim(m. 2004; sep. 2016),None
+118,Gene Wilder,"['(1933-06-11)', '(2016-08-29)']","['Actor, screenwriter, director, producer, singer-songwriter, author']","['Mary Mercier(m.\xa01960; div.\xa01965)', 'Mary Joan Schutz(m.\xa01967; div.\xa01974)', 'Gilda Radner(m.\xa01984; died\xa01989)', 'Karen Boyer (m.\xa01991)']",Mary Mercier(m. 1960; div. 1965),Mary Joan Schutz(m. 1967; div. 1974),Gilda Radner(m. 1984; died 1989),Karen Boyer (m. 1991)
+119,Kevin Costner,['(1955-01-18)'],"['Actor, director, producer, musician']","['Cindy Silva(m.\xa01978; div.\xa01994)', 'Christine Baumgartner (m.\xa02004)']",Cindy Silva(m. 1978; div. 1994),Christine Baumgartner (m. 2004),None,None
+120,Donald Sutherland,['(1935-07-17)'],['Actor'],"['Lois Hardwick(m.\xa01959; div.\xa01966)', 'Shirley Douglas(m.\xa01966; div.\xa01970)', 'Francine Racette (m.\xa01972)']",Lois Hardwick(m. 1959; div. 1966),Shirley Douglas(m. 1966; div. 1970),Francine Racette (m. 1972),None
+121,Bruce Dern,['(1936-06-04)'],['Actor'],"['Marie Dean (m.\xa01957–1959)', 'Diane Ladd (m.\xa01960–1969)', 'Andrea Beckett (m.\xa01969)']",Marie Dean (m. 1957–1959),Diane Ladd (m. 1960–1969),Andrea Beckett (m. 1969),None
+122,Ava Gardner,"['(1922-12-24)', '(1990-01-25)']","['Actress, singer']","['Mickey Rooney(m.\xa01942; div.\xa01943)', 'Artie Shaw(m.\xa01945; div.\xa01946)', 'Frank Sinatra(m.\xa01951; div.\xa01957)']",Mickey Rooney(m. 1942; div. 1943),Artie Shaw(m. 1945; div. 1946),Frank Sinatra(m. 1951; div. 1957),None
+123,Sally Field,['(1946-11-06)'],['Actress\ndirector'],"['Steve Craig(m.\xa01968; div.\xa01975)', 'Alan Greisman(m.\xa01984; div.\xa01993)']",Steve Craig(m. 1968; div. 1975),Alan Greisman(m. 1984; div. 1993),None,None
+124,Emma Thompson,['(1959-04-15)'],['Actresscomediennescreenwriterauthoractivist'],"['Kenneth Branagh(m.\xa01989; div.\xa01995)', 'Greg Wise (m.\xa02003)']",Kenneth Branagh(m. 1989; div. 1995),Greg Wise (m. 2003),None,None
+125,Greta Garbo,"['(1905-09-18)', '(1990-04-15)']",['Actress'],[],Never married,None,None,None
+126,Holly Hunter,['(1958-03-20)'],"['Actress, producer']",['Janusz Kamiński(m.\xa01995; div.\xa02001)'],Janusz Kamiński(m. 1995; div. 2001),None,None,None
+127,Hilary Swank,['(1974-07-30)'],['Actress\nproducer'],"['Chad Lowe(m.\xa01997; div.\xa02007)', 'Philip Schneider (m.\xa02018)']",Chad Lowe(m. 1997; div. 2007),Philip Schneider (m. 2018),None,None
+128,Claudette Colbert,"['(1903-09-13)', '(1996-07-30)', '\ufeff / 13.241235; -59.642320']",['Actress'],"['Norman Foster(m.\xa01928; div.\xa01935)', 'Dr. Joel Pressman(m.\xa01935; died\xa01968)']",Norman Foster(m. 1928; div. 1935),Dr. Joel Pressman(m. 1935; died 1968),None,None
+129,Diane Lane,['(1965-01-22)'],['Actress'],"['Christopher Lambert(m.\xa01988; div.\xa01994)', 'Josh Brolin(m.\xa02004; div.\xa02013)']",Christopher Lambert(m. 1988; div. 1994),Josh Brolin(m. 2004; div. 2013),None,None
+130,Jessica Lange,['(1949-04-20)'],['Actress\nphotographer'],['Paco Grande(m.\xa01971; div.\xa01981)'],Paco Grande(m. 1971; div. 1981),None,None,None
+131,Gloria Swanson,"['(1899-03-27)', '(1983-04-04)']","['Actress, producer']","['Wallace Beery(m.\xa01916; div.\xa01918)', 'Herbert K. Somborn(m.\xa01919; div.\xa01925)', 'Henry de La Falaise(m.\xa01925; div.\xa01930)', 'Michael Farmer(m.\xa01931; div.\xa01934)', 'William Davey(m.\xa01945; div.\xa01946)', 'William Dufty (m.\xa01976)']",Wallace Beery(m. 1916; div. 1918),Herbert K. Somborn(m. 1919; div. 1925),Henry de La Falaise(m. 1925; div. 1930),Michael Farmer(m. 1931; div. 1934)
+132,Lauren Bacall,"['(1924-09-16)', '(2014-08-12)']",['Actress\nmodel'],"['Humphrey Bogart(m.\xa01945; died\xa01957)', 'Jason Robards(m.\xa01961; div.\xa01969)']",Humphrey Bogart(m. 1945; died 1957),Jason Robards(m. 1961; div. 1969),None,None
+133,Frances McDormand,['(1957-06-23)'],['Actress'],['Joel Coen (m.\xa01984)'],Joel Coen (m. 1984),None,None,None
+134,Norma Shearer,"['(1902-08-11)', '(1983-06-12)']",['Actress'],"['Irving Thalberg(m.\xa01927; died\xa01936)', 'Martin Arrougé (m.\xa01942)']",Irving Thalberg(m. 1927; died 1936),Martin Arrougé (m. 1942),None,None
+135,Bette Midler,['(1945-12-01)'],['Singer\nsongwriter\nactress\ncomedian\nproducer'],['Martin von Haselberg (m.\xa01984)'],Martin von Haselberg (m. 1984),None,None,None
+136,Mary Tyler Moore,"['(1936-12-29)', '(2017-01-25)']",['Actress'],"['Dick Meeker(m.\xa01955; div.\xa01961)', 'Grant Tinker(m.\xa01962; div.\xa01981)', 'Robert Levine (m.\xa01983)']",Dick Meeker(m. 1955; div. 1961),Grant Tinker(m. 1962; div. 1981),Robert Levine (m. 1983),None
+137,Anna Magnani,"['(1908-03-07)', '(1973-09-26)']",['Actress'],[],Never married,None,None,None
+138,Halle Berry,['(1966-08-14)'],['Actress'],"['David Justice(m.\xa01993; div.\xa01997)', 'Eric Benét(m.\xa02001; div.\xa02005)', 'Olivier Martinez(m.\xa02013; div.\xa02016)']",David Justice(m. 1993; div. 1997),Eric Benét(m. 2001; div. 2005),Olivier Martinez(m. 2013; div. 2016),None
+139,Sharon Stone,['(1958-03-10)'],"['Actress, model, film producer']","['Michael Greenburg(m.\xa01984; div.\xa01990)', 'Phil Bronstein(m.\xa01998; div.\xa02004)']",Michael Greenburg(m. 1984; div. 1990),Phil Bronstein(m. 1998; div. 2004),None,None
+140,Kim Basinger,['(1953-12-08)'],['Actress\nmodel\nsinger\nproducer\nanimal rights activist'],"['Ron Snyder(m.\xa01980; div.\xa01989)', 'Alec Baldwin(m.\xa01993; div.\xa02002)']",Ron Snyder(m. 1980; div. 1989),Alec Baldwin(m. 1993; div. 2002),None,None
+141,Donna Reed,"['(1921-01-27)', '(1986-01-14)']",['Actress'],"['William J. Tuttle(m.\xa01943; div.\xa01945)', 'Tony Owen(m.\xa01945; div.\xa01971)', 'Grover Asmus(m.\xa01974; her death\xa01986)']",William J. Tuttle(m. 1943; div. 1945),Tony Owen(m. 1945; div. 1971),Grover Asmus(m. 1974; her death 1986),None
+142,Geena Davis,['(1956-01-21)'],"['Actress, producer, writer, athlete, model']","['Richard Emmolo(m.\xa01982; div.\xa01983)', 'Jeff Goldblum(m.\xa01987; div.\xa01990)', 'Renny Harlin(m.\xa01993; div.\xa01998)', 'Reza Jarrahy(m.\xa02001; sep.\xa02017)']",Richard Emmolo(m. 1982; div. 1983),Jeff Goldblum(m. 1987; div. 1990),Renny Harlin(m. 1993; div. 1998),Reza Jarrahy(m. 2001; sep. 2017)
+143,Demi Moore,['(1962-11-11)'],['Actress\nfilm producer\nmodel\nsongwriter'],"['Freddy Moore(m.\xa01980; div.\xa01985)', 'Bruce Willis(m.\xa01987; div.\xa02000)', 'Ashton Kutcher(m.\xa02005; div.\xa02013)']",Freddy Moore(m. 1980; div. 1985),Bruce Willis(m. 1987; div. 2000),Ashton Kutcher(m. 2005; div. 2013),None
+144,Michelle Pfeiffer,['(1958-04-29)'],"['Actress, singer, producer']","['Peter Horton(m.\xa01981; div.\xa01988)', 'David E. Kelley (m.\xa01993)']",Peter Horton(m. 1981; div. 1988),David E. Kelley (m. 1993),None,None
+145,Liza Minnelli,['(1946-03-12)'],['Actress\nsinger\ndancer\nchoreographer'],"['Peter Allen(m.\xa01967; div.\xa01974)', 'Jack Haley Jr.(m.\xa01974; div.\xa01979)', 'Mark Gero(m.\xa01979; div.\xa01992)', 'David Gest(m.\xa02002; div.\xa02007)']",Peter Allen(m. 1967; div. 1974),Jack Haley Jr.(m. 1974; div. 1979),Mark Gero(m. 1979; div. 1992),David Gest(m. 2002; div. 2007)
+146,Charles Chaplin,"['(1889-04-16)', '(1977-12-25)']",['Actordirectorcomposerscreenwriterproducereditor'],"['Mildred Harris(m.\xa01918; div.\xa01920)', 'Lita Grey(m.\xa01924; div.\xa01927)', 'Paulette Goddard(m.\xa01936; div.\xa01942)', ""Oona O'Neill (m.\xa01943)""]",Mildred Harris(m. 1918; div. 1920),Lita Grey(m. 1924; div. 1927),Paulette Goddard(m. 1936; div. 1942),Oona O'Neill (m. 1943)
+147,Peter Sellers,"['(1925-09-08)', '(1980-07-24)']","['Actor, comedian, singer']","['Anne Howe(m.\xa01954; div.\xa01963)', 'Britt Ekland(m.\xa01964; div.\xa01968)', 'Miranda Quarry(m.\xa01969; div.\xa01976)', 'Lynne Frederick(m.\xa01977; his death\xa01980)']",Anne Howe(m. 1954; div. 1963),Britt Ekland(m. 1964; div. 1968),Miranda Quarry(m. 1969; div. 1976),Lynne Frederick(m. 1977; his death 1980)
+148,Woody Allen,['(1935-12-01)'],"['Director, writer, actor, comedian']","['Harlene Susan Rosen(m.\xa01956; div.\xa01962)', 'Louise Lasser(m.\xa01966; div.\xa01970)', 'Soon-Yi Previn (m.\xa01997)']",Harlene Susan Rosen(m. 1956; div. 1962),Louise Lasser(m. 1966; div. 1970),Soon-Yi Previn (m. 1997),None
+149,Jon Voight,['(1938-12-29)'],['Actor'],"['Lauri Peters(m.\xa01962; div.\xa01967)', 'Marcheline Bertrand(m.\xa01971; div.\xa01980)']",Lauri Peters(m. 1962; div. 1967),Marcheline Bertrand(m. 1971; div. 1980),None,None
+150,Mel Gibson,['(1956-01-03)'],"['Actor, director, producer']",['Robyn Moore(m.\xa01980; div.\xa02011)'],Robyn Moore(m. 1980; div. 2011),None,None,None
+151,Jim Carrey,['(1962-01-17)'],['Actorstand-up comedianscreenwriterpainterfilm producer'],"['Melissa Womer(m.\xa01987; div.\xa01995)', 'Lauren Holly(m.\xa01996; div.\xa01997)']",Melissa Womer(m. 1987; div. 1995),Lauren Holly(m. 1996; div. 1997),None,None
+152,Mark Wahlberg,['(1971-06-05)'],['Actorproducerbusinessmanmodelrappersongwriter'],['Rhea Durham (m.\xa02009)'],Rhea Durham (m. 2009),None,None,None
+153,Javier Bardem,['(1969-03-01)'],['Actor'],['Penélope Cruz (m.\xa02010)'],Penélope Cruz (m. 2010),None,None,None
+154,Tim Robbins,['(1958-10-16)'],"['Actor, screenwriter, director, producer, musician']",[],Never married,None,None,None
+155,Sylvester Stallone,['(1946-07-06)'],"['Actor, screenwriter, film director, producer']","['Sasha Czack(m.\xa01974; div.\xa01985)', 'Brigitte Nielsen(m.\xa01985; div.\xa01987)', 'Jennifer Flavin (m.\xa01997)']",Sasha Czack(m. 1974; div. 1985),Brigitte Nielsen(m. 1985; div. 1987),Jennifer Flavin (m. 1997),None
+156,Viggo Mortensen,['(1958-10-20)'],['Actor\nproducer\nauthor\nmusician\nphotographer\npoet\npainter'],['Exene Cervenka(m.\xa01987; div.\xa01998)'],Exene Cervenka(m. 1987; div. 1998),None,None,None
+157,Hugo Weaving,['(1960-04-04)'],['Actorvoice actor'],[],Never married,None,None,None
+158,Christopher Lee,"['(1922-05-27)', '(2015-06-07)']",['Actor\nsinger\nauthor'],['Birgit Krøncke (m.\xa01961)'],Birgit Krøncke (m. 1961),None,None,None
+159,Geoffrey Rush,['(1951-07-06)'],['Actor'],['Jane Menelaus (m.\xa01988)'],Jane Menelaus (m. 1988),None,None,None
+160,Alec Guinness,"['(1914-04-02)', '(2000-08-05)']",['Actor'],['Merula Salaman (m.\xa01938)'],Merula Salaman (m. 1938),None,None,None
+161,Richard Burton,"['(1925-11-10)', '(1984-08-05)']",['Actor'],"['Sybil Williams(m.\xa01949; div.\xa01963)', 'Elizabeth Taylor(m.\xa01964; div.\xa01974)', 'Suzy Miller(m.\xa01976; div.\xa01982)', 'Sally Hay (m.\xa01983)']",Sybil Williams(m. 1949; div. 1963),Elizabeth Taylor(m. 1964; div. 1974),Suzy Miller(m. 1976; div. 1982),Sally Hay (m. 1983)
+162,Alec Baldwin,['(1958-04-03)'],"['Actor, writer, comedian, producer']","['Kim Basinger(m.\xa01993; div.\xa02002)', 'Hilaria Thomas (m.\xa02012)']",Kim Basinger(m. 1993; div. 2002),Hilaria Thomas (m. 2012),None,None
+163,James Caan,['(1940-03-26)'],['Actor'],"['Dee Jay Mattis(m.\xa01960; div.\xa01966)', 'Sheila Marie Ryan(m.\xa01976; div.\xa01977)', 'Ingrid Hajek(m.\xa01990; div.\xa01995)', 'Linda Stokes(m.\xa01995; div.\xa02009)']",Dee Jay Mattis(m. 1960; div. 1966),Sheila Marie Ryan(m. 1976; div. 1977),Ingrid Hajek(m. 1990; div. 1995),Linda Stokes(m. 1995; div. 2009)
+164,Michael Douglas,['(1944-09-25)'],"['Actor, producer']","['Diandra Luker(m.\xa01977; div.\xa01995)', 'Catherine Zeta-Jones (m.\xa02000)']",Diandra Luker(m. 1977; div. 1995),Catherine Zeta-Jones (m. 2000),None,None
+165,Willem Dafoe,['(1955-07-22)'],['Actor'],"['Elizabeth LeCompte(m.\xa01977; div.\xa02004)', 'Giada Colagrande (m.\xa02005)']",Elizabeth LeCompte(m. 1977; div. 2004),Giada Colagrande (m. 2005),None,None
+166,Ed Harris,['(1950-11-28)'],"['Actor, producer, director, screenwriter']",['Amy Madigan (m.\xa01983)'],Amy Madigan (m. 1983),None,None,None
+167,Harvey Keitel,['(1939-05-13)'],"['Actor, producer']",['Daphna Kastner (m.\xa02001)'],Daphna Kastner (m. 2001),None,None,None
+168,Drew Barrymore,['(1975-02-22)'],['Actress\nproducer\ndirector\nauthor\nmodel\nentrepreneur'],"['Jeremy Thomas(m.\xa01994; div.\xa01995)', 'Tom Green(m.\xa02001; div.\xa02002)', 'Will Kopelman(m.\xa02012; div.\xa02016)']",Jeremy Thomas(m. 1994; div. 1995),Tom Green(m. 2001; div. 2002),Will Kopelman(m. 2012; div. 2016),None
+169,Winona Ryder,['(1971-10-29)'],['Actress'],[],Never married,None,None,None
+170,Kathleen Turner,['(1954-06-19)'],"['Actress, singer, theatre director']",['Jay Weiss(m.\xa01984; div.\xa02007)'],Jay Weiss(m. 1984; div. 2007),None,None,None
+171,Uma Thurman,['(1970-04-29)'],['Actress\nmodel'],"['Gary Oldman(m.\xa01990; div.\xa01992)', 'Ethan Hawke(m.\xa01998; div.\xa02005)']",Gary Oldman(m. 1990; div. 1992),Ethan Hawke(m. 1998; div. 2005),None,None
+172,Hattie McDaniel,"['(1893-06-10)', '(1952-10-26)']","['Actress, singer-songwriter and comedian']",[],Never married,None,None,None
+173,Rene Russo,['(1954-02-17)'],"['Actress, producer, model']",['Dan Gilroy (m.\xa01992)'],Dan Gilroy (m. 1992),None,None,None
+174,Annette Bening,['(1958-05-29)'],['Actress'],"['J. Steven White(m.\xa01984; div.\xa01991)', 'Warren Beatty (m.\xa01992)']",J. Steven White(m. 1984; div. 1991),Warren Beatty (m. 1992),None,None
+175,Sigourney Weaver,['(1949-10-08)'],['Actress'],['Jim Simpson (m.\xa01984)'],Jim Simpson (m. 1984),None,None,None
+176,Barbra Streisand,['(1942-04-24)'],['Singer\nsongwriter\nactress\nfilmmaker'],"['Elliott Gould(m.\xa01963; div.\xa01971)', 'James Brolin (m.\xa01998)']",Elliott Gould(m. 1963; div. 1971),James Brolin (m. 1998),None,None
+177,Raquel Welch,['(1940-09-05)'],"['Actress, singer']","['James Welch(m.\xa01959; div.\xa01964)', 'Patrick Curtis(m.\xa01967; div.\xa01972)', 'André Weinfeld(m.\xa01980; div.\xa01990)', 'Richard Palmer(m.\xa01999; div.\xa02008)']",James Welch(m. 1959; div. 1964),Patrick Curtis(m. 1967; div. 1972),André Weinfeld(m. 1980; div. 1990),Richard Palmer(m. 1999; div. 2008)
+178,Joanne Woodward,['(1930-02-27)'],"['Actress, producer, philanthropist']",['Paul Newman(m.\xa01958; died\xa02008)'],Paul Newman(m. 1958; died 2008),None,None,None
+179,Shirley Booth,"['(1898-08-30)', '(1992-10-16)']",['Actress'],"['Ed Gardner(m.\xa01929; div.\xa01942)', 'William H. Baker, Jr.(m.\xa01943; died\xa01951)']",Ed Gardner(m. 1929; div. 1942),"William H. Baker, Jr.(m. 1943; died 1951)",None,None
+180,Mercedes McCambridge,"['(1916-03-16)', '(2004-03-02)']",['Actress'],"['William Fifield (m.\xa01939–1946)', 'Fletcher Markle (m.\xa01950–1962)']",William Fifield (m. 1939–1946),Fletcher Markle (m. 1950–1962),None,None
+181,Anjelica Huston,['(1951-07-08)'],"['Actress, director, producer, author']",['Robert Graham(m.\xa01992; died\xa02008)'],Robert Graham(m. 1992; died 2008),None,None,None
+182,Dianne Wiest,['(1946-03-28)'],['Actress'],[],Never married,None,None,None
+183,Goldie Hawn,['(1945-11-21)'],"['Actress, producer, singer']","['Gus Trikonis(m.\xa01969; div.\xa01976)', 'Bill Hudson(m.\xa01976; div.\xa01982)']",Gus Trikonis(m. 1969; div. 1976),Bill Hudson(m. 1976; div. 1982),None,None
+184,Judy Davis,['(1955-04-23)'],['Actress'],['Colin Friels (m.\xa01984)'],Colin Friels (m. 1984),None,None,None
+185,Gwyneth Paltrow,['(1972-09-27)'],['Actresssingerwriter'],"['Chris Martin(m.\xa02003; div.\xa02016)', 'Brad Falchuk (m.\xa02018)']",Chris Martin(m. 2003; div. 2016),Brad Falchuk (m. 2018),None,None
+186,Julianne Moore,['(1960-12-03)'],"[""Actorchildren's author""]","['John Gould Rubin(m.\xa01986; div.\xa01995)', 'Bart Freundlich (m.\xa02003)']",John Gould Rubin(m. 1986; div. 1995),Bart Freundlich (m. 2003),None,None
+187,Debra Winger,['(1955-05-16)'],['Actress'],"['Timothy Hutton(m.\xa01986; div.\xa01990)', 'Arliss Howard (m.\xa01996)']",Timothy Hutton(m. 1986; div. 1990),Arliss Howard (m. 1996),None,None
+188,Christina Ricci,['(1980-02-12)'],"['Actress, producer']",['James Heerdegen (m.\xa02013)'],James Heerdegen (m. 2013),None,None,None
+189,Juliette Binoche,['(1964-03-09)'],"['Actress, artist, dancer, human rights campaigner']",[],Never married,None,None,None
+190,Daryl Hannah,['(1960-12-03)'],['Actressenvironmental activist'],['Neil Young (m.\xa02018)'],Neil Young (m. 2018),None,None,None
+191,Benicio Del Toro,['(1967-02-19)'],['Actorfilm producer'],[],Never married,None,None,None
+192,Kevin Bacon,['(1958-07-08)'],"['Actor, director, producer, musician']",['Kyra Sedgwick (m.\xa01988)'],Kyra Sedgwick (m. 1988),None,None,None
+193,Patrick Swayze,"['(1952-08-18)', '(2009-09-14)']",['Actor\ndancer\nsinger-songwriter'],['Lisa Niemi (m.\xa01975)'],Lisa Niemi (m. 1975),None,None,None
+194,Michael Caine,['(1933-03-14)'],"['Actor, producer, author']","['Patricia Haines(m.\xa01955; div.\xa01962)', 'Shakira Baksh (m.\xa01973)']",Patricia Haines(m. 1955; div. 1962),Shakira Baksh (m. 1973),None,None
+195,Burt Lancaster,"['(1913-11-02)', '(1994-10-20)']","['Actor, Producer']","['June Ernst(m.\xa01935; div.\xa01946)', 'Norma Anderson(m.\xa01946; div.\xa01969)', 'Susan Martin (m.\xa01990)']",June Ernst(m. 1935; div. 1946),Norma Anderson(m. 1946; div. 1969),Susan Martin (m. 1990),None
+196,Robert Mitchum,"['(1917-08-06)', '(1997-07-01)']","['Actor, author, composer, singer']",[],Never married,None,None,None
+197,Colin Farrell,['(1976-05-31)'],"['Actor, singer']",[],Never married,None,None,None
+198,William Holden,"['(1918-04-17)', '(1981-11-12)']","['Actor, wildlife conservationist']",['Brenda Marshall(m.\xa01941; div.\xa01971)'],Brenda Marshall(m. 1941; div. 1971),None,None,None
+199,Edward G. Robinson,"['(1893-12-12)', '(1973-01-26)']",['Actor'],"['Gladys Lloyd(m.\xa01927; div.\xa01956)', 'Jane Robinson (m.\xa01958)']",Gladys Lloyd(m. 1927; div. 1956),Jane Robinson (m. 1958),None,None
+200,William Powell,"['(1892-07-29)', '(1984-03-05)']",['Actor'],"['Eileen Wilson(m.\xa01915; div.\xa01930)', 'Carole Lombard(m.\xa01931; div.\xa01933)', 'Diana Lewis (m.\xa01940)']",Eileen Wilson(m. 1915; div. 1930),Carole Lombard(m. 1931; div. 1933),Diana Lewis (m. 1940),None
+201,Errol Flynn,"['(1909-06-20)', '(1959-10-14)']",['Actor'],"['Lili Damita(m.\xa01935; div.\xa01942)', 'Nora Eddington(m.\xa01943; div.\xa01949)', 'Patrice Wymore (m.\xa01950)']",Lili Damita(m. 1935; div. 1942),Nora Eddington(m. 1943; div. 1949),Patrice Wymore (m. 1950),None
+202,James Mason,"['(1909-05-15)', '(1984-07-27)']",['Actor'],"['Pamela Mason(m.\xa01941; div.\xa01964)', 'Clarissa Kaye  (m.\xa01971)']",Pamela Mason(m. 1941; div. 1964),Clarissa Kaye  (m. 1971),None,None
+203,Buster Keaton,"['(1895-10-04)', '(1966-02-01)']","['Actor, comedian, director, producer, writer, stunt performer']","['Natalie Talmadge(m.\xa01921; div.\xa01932)', 'Mae Scriven(m.\xa01933; div.\xa01936)', 'Eleanor Norris (m.\xa01940–1966)']",Natalie Talmadge(m. 1921; div. 1932),Mae Scriven(m. 1933; div. 1936),Eleanor Norris (m. 1940–1966),None
+204,Gene Kelly,"['(1912-08-23)', '(1996-02-02)']","['Dancer, choreographer, director, actor, singer, producer']","['Betsy Blair(m.\xa01941; div.\xa01957)', 'Jeanne Coyne(m.\xa01960; died\xa01973)', 'Patricia Ward (m.\xa01990)']",Betsy Blair(m. 1941; div. 1957),Jeanne Coyne(m. 1960; died 1973),Patricia Ward (m. 1990),None
+205,Fred Astaire,"['(1899-05-10)', '(1987-06-22)']",['Dancer\nsinger\nactor\npresenter\nchoreographer\npercussionist'],"['Phyllis Livingston Potter(m.\xa01933; died\xa01954)', 'Robyn Smith (m.\xa01980)']",Phyllis Livingston Potter(m. 1933; died 1954),Robyn Smith (m. 1980),None,None
+206,Bradley Cooper,['(1975-01-05)'],['Actor\nfilmmaker'],['Jennifer Esposito(m.\xa02006; div.\xa02007)'],Jennifer Esposito(m. 2006; div. 2007),None,None,None
+207,Jude Law,['(1972-12-29)'],['Actor'],['Sadie Frost(m.\xa01997; div.\xa02003)'],Sadie Frost(m. 1997; div. 2003),None,None,None
+208,Robert Pattinson,['(1986-05-13)'],"['Actor, musician']",[],Never married,None,None,None
+209,Paul Giamatti,['(1967-06-06)'],"['Actor, producer']",[],Never married,None,None,None
+210,Forest Whitaker,['(1961-07-15)'],"['Actor, producer, director']",['Keisha Nash (m.\xa01996)'],Keisha Nash (m. 1996),None,None,None
+211,Jared Leto,['(1971-12-26)'],['Actor\nsinger\nsongwriter\ndirector'],[],Never married,None,None,None
+212,Jonah Hill,['(1983-12-20)'],['Actor\ncomedian\nproducer\nscreenwriter\ndirector'],[],Never married,None,None,None
+213,Michael Fassbender,['(1977-04-02)'],['Actor'],['Alicia Vikander (m.\xa02017)'],Alicia Vikander (m. 2017),None,None,None
+214,Jessica Tandy,"['(1909-06-07)', '(1994-09-11)']",['Actress'],"['Jack Hawkins(m.\xa01932; div.\xa01940)', 'Hume Cronyn(m.\xa01942; her death\xa01994)']",Jack Hawkins(m. 1932; div. 1940),Hume Cronyn(m. 1942; her death 1994),None,None
+215,Helen Hunt,['(1963-06-15)'],"['Actress, director, screenwriter']",['Hank Azaria(m.\xa01999; div.\xa02000)'],Hank Azaria(m. 1999; div. 2000),None,None,None
+216,Patricia Arquette,['(1968-04-08)'],['Actress'],"['Nicolas Cage(m.\xa01995; div.\xa02001)', 'Thomas Jane(m.\xa02006; div.\xa02011)']",Nicolas Cage(m. 1995; div. 2001),Thomas Jane(m. 2006; div. 2011),None,None
+217,Carmen Miranda,"['(1909-02-09)', '(1955-08-05)']",['Singerdanceractress'],['David Alfred Sebastian (m.\xa01947)'],David Alfred Sebastian (m. 1947),None,None,None
+218,Kate Hudson,['(1979-04-19)'],"['Actress, author, businesswoman']",['Chris Robinson(m.\xa02000; div.\xa02007)'],Chris Robinson(m. 2000; div. 2007),None,None,None
+219,Catherine Zeta-Jones,['(1969-09-25)'],['Actress'],['Michael Douglas (m.\xa02000)'],Michael Douglas (m. 2000),None,None,None
+220,Cameron Diaz,['(1972-08-30)'],['actress'],['Benji Madden (m.\xa02015)'],Benji Madden (m. 2015),None,None,None
+221,Debbie Reynolds,"['(1932-04-01)', '(2016-12-28)']","['Actress, singer, dancer, businesswoman']","['Eddie Fisher(m.\xa01955; div.\xa01959)', 'Harry Karl(m.\xa01960; div.\xa01973)', 'Richard Hamlett(m.\xa01984; div.\xa01996)']",Eddie Fisher(m. 1955; div. 1959),Harry Karl(m. 1960; div. 1973),Richard Hamlett(m. 1984; div. 1996),None
+222,Rita Hayworth,"['(1918-10-17)', '(1987-05-14)']","['Actress, dancer']",[],Never married,None,None,None
+223,Maureen O'Hara,"['(1920-08-17)', '(2015-10-24)']","['Actress, singer']","['George H. Brown(m.\xa01939; ann.\xa01941)', 'Will Price(m.\xa01941; div.\xa01953)', 'Charles F. Blair, Jr.(m.\xa01968; died\xa01978)']",George H. Brown(m. 1939; ann. 1941),Will Price(m. 1941; div. 1953),"Charles F. Blair, Jr.(m. 1968; died 1978)",None
+224,Myrna Loy,"['(1905-08-02)', '(1993-12-14)', '\ufeff / 46.6562; -112.0365']",['Actress'],"['Arthur Hornblow Jr.(m.\xa01936; div.\xa01942)', 'John Hertz, Jr.(m.\xa01942; div.\xa01944)', 'Gene Markey(m.\xa01946; div.\xa01950)', 'Howland H. Sargeant(m.\xa01951; div.\xa01960)']",Arthur Hornblow Jr.(m. 1936; div. 1942),"John Hertz, Jr.(m. 1942; div. 1944)",Gene Markey(m. 1946; div. 1950),Howland H. Sargeant(m. 1951; div. 1960)
+225,Lena Headey,['(1973-10-03)'],"['Actress, voice actress']","['Peter Loughran(m.\xa02007; div.\xa02013)', 'Dan Cadan (m.\xa02018)']",Peter Loughran(m. 2007; div. 2013),Dan Cadan (m. 2018),None,None
+226,Toni Collette,['(1972-11-01)'],['Actresssingermusician'],['Dave Galafassi (m.\xa02003)'],Dave Galafassi (m. 2003),None,None,None
+227,Laura Linney,['(1964-02-05)'],['Actress\nsinger'],"['David Adkins(m.\xa01995; div.\xa02000)', 'Marc Schauer (m.\xa02009)']",David Adkins(m. 1995; div. 2000),Marc Schauer (m. 2009),None,None
+228,Marlene Dietrich,"['(1901-12-27)', '(1992-05-06)']",['Actress'],['Rudolf Sieber(m.\xa01923; died\xa01976)'],Rudolf Sieber(m. 1923; died 1976),None,None,None
+229,Carole Lombard,"['(1908-10-06)', '(1942-01-16)']",['Actress'],"['William Powell(m.\xa01931; div.\xa01933)', 'Clark Gable (m.\xa01939)']",William Powell(m. 1931; div. 1933),Clark Gable (m. 1939),None,None
+230,Jean Arthur,"['(1900-10-17)', '(1991-06-19)']",['Actress'],"['Julian Anker (m.\xa01928–1928)', 'Frank Ross, Jr.(m.\xa01932; div.\xa01949)']",Julian Anker (m. 1928–1928),"Frank Ross, Jr.(m. 1932; div. 1949)",None,None
+231,Jean Harlow,"['(1911-03-03)', '(1937-06-07)']",['Actress'],"['Charles McGrew(m.\xa01927; div.\xa01929)', 'Paul Bern(m.\xa01932; died\xa01932)', 'Harold Rosson(m.\xa01933; div.\xa01934)']",Charles McGrew(m. 1927; div. 1929),Paul Bern(m. 1932; died 1932),Harold Rosson(m. 1933; div. 1934),None
+232,Ginger Rogers,"['(1911-07-16)', '(1995-04-25)']",['Actress\ndancer\nsinger'],"['Jack Pepper(m.\xa01929; div.\xa01931)', 'Lew Ayres(m.\xa01934; div.\xa01940)', 'Jack Briggs(m.\xa01943; div.\xa01949)', 'Jacques Bergerac(m.\xa01953; div.\xa01957)', 'William Marshall(m.\xa01961; div.\xa01969)']",Jack Pepper(m. 1929; div. 1931),Lew Ayres(m. 1934; div. 1940),Jack Briggs(m. 1943; div. 1949),Jacques Bergerac(m. 1953; div. 1957)
+233,Mary Pickford,"['(1892-04-08)', '(1979-05-29)']","['Actress, producer']","['Owen Moore(m.\xa01911; div.\xa01920)', 'Douglas Fairbanks(m.\xa01920; div.\xa01936)', 'Charles ""Buddy"" Rogers (m.\xa01937)']",Owen Moore(m. 1911; div. 1920),Douglas Fairbanks(m. 1920; div. 1936),"Charles ""Buddy"" Rogers (m. 1937)",None
+234,Mae West,"['(1893-08-17)', '(1980-11-22)']","['Actress, singer, playwright, screenwriter, comedian']",[],Never married,None,None,None
+235,Gillian Anderson,['(1968-08-09)'],"['Actress, writer, producer, director']","['Clyde Klotz(m.\xa01994; div.\xa01997)', 'Julian Ozanne(m.\xa02004; div.\xa02006)']",Clyde Klotz(m. 1994; div. 1997),Julian Ozanne(m. 2004; div. 2006),None,None
+236,Emma Watson,['(1990-04-15)'],['Actressmodelactivist'],[],Never married,None,None,None
+237,Meg Ryan,['(1961-11-19)'],"['Actress, producer']",['Dennis Quaid(m.\xa01991; div.\xa02001)'],Dennis Quaid(m. 1991; div. 2001),None,None,None
+238,Alan Arkin,['(1934-03-26)'],"['Actor, director, screenwriter, musician, singer']","['Jeremy Yaffe(m.\xa01955; div.\xa01961)', 'Barbara Dana(m.\xa01964; div.\xa01994)', 'Suzanne Newlander (m.\xa01996)']",Jeremy Yaffe(m. 1955; div. 1961),Barbara Dana(m. 1964; div. 1994),Suzanne Newlander (m. 1996),None
+239,Benedict Cumberbatch,['(1976-07-19)'],['Actor'],['Sophie Hunter (m.\xa02015)'],Sophie Hunter (m. 2015),None,None,None
+240,Chris Hemsworth,['(1983-08-11)'],['Actor'],['Elsa Pataky (m.\xa02010)'],Elsa Pataky (m. 2010),None,None,None
+241,Henry Cavill,['(1983-05-05)'],['Actormodel'],[],Never married,None,None,None
+242,Tom Hardy,['(1977-09-15)'],"['Actor, producer, model']","['Sarah Ward(m.\xa01999; div.\xa02004)', 'Charlotte Riley (m.\xa02014)']",Sarah Ward(m. 1999; div. 2004),Charlotte Riley (m. 2014),None,None
+243,Jean Dujardin,['(1972-06-19)'],['Actor\ntelevision director\ncomedian'],"['Alexandra Lamy(m.\xa02009; div.\xa02014)', 'Nathalie Péchalat (m.\xa02018)']",Alexandra Lamy(m. 2009; div. 2014),Nathalie Péchalat (m. 2018),None,None
+244,Colin Firth,['(1960-09-10)'],['Actor'],['Livia Giuggioli (m.\xa01997)'],Livia Giuggioli (m. 1997),None,None,None
+245,Jamie Foxx,['(1967-12-13)'],['Actor\nsinger\nsongwriter\nrecord producer\ncomedian'],[],Never married,None,None,None
+246,Adrien Brody,['(1973-04-14)'],"['Actor, producer']",[],Never married,None,None,None
+247,Roberto Benigni,['(1952-10-27)'],['Film director\nscreenwriter\nactor\ncomedian'],['Nicoletta Braschi (m.\xa01991)'],Nicoletta Braschi (m. 1991),None,None,None
+248,Jeremy Irons,['(1948-09-19)'],['Actor'],"['Julie Hallam(m.\xa01969; div.\xa01969)', 'Sinéad Cusack (m.\xa01978)']",Julie Hallam(m. 1969; div. 1969),Sinéad Cusack (m. 1978),None,None
+249,William Hurt,['(1950-03-20)'],['Actor'],"['Mary Beth Hurt(m.\xa01971; div.\xa01982)', 'Heidi Henderson(m.\xa01989; div.\xa01992)']",Mary Beth Hurt(m. 1971; div. 1982),Heidi Henderson(m. 1989; div. 1992),None,None
+250,F. Murray Abraham,['(1939-10-24)'],['Actor'],['Kate Hannan (m.\xa01962)'],Kate Hannan (m. 1962),None,None,None
+251,Richard Dreyfuss,['(1947-10-29)'],['Actor'],"['Jeramie Rain(m.\xa01983; div.\xa01995)', 'Janelle Lacey(m.\xa01999; div.\xa02005)', 'Svetlana Erokhin (m.\xa02006)']",Jeramie Rain(m. 1983; div. 1995),Janelle Lacey(m. 1999; div. 2005),Svetlana Erokhin (m. 2006),None
+252,Peter Finch,"['(1916-09-28)', '(1977-01-14)']",['Actor'],[],Never married,None,None,None
+253,Art Carney,"['(1918-11-04)', '(2003-11-09)']","['Actor, voice-impersonations']",['Barbara Isaac(m.\xa01966; div.\xa01977)'],Barbara Isaac(m. 1966; div. 1977),None,None,None
+254,Cliff Robertson,"['(1923-09-09)', '(2011-09-10)']",['Actor'],"['Cynthia Stone(m.\xa01957; div.\xa01959)', 'Dina Merrill(m.\xa01966; div.\xa01989)']",Cynthia Stone(m. 1957; div. 1959),Dina Merrill(m. 1966; div. 1989),None,None
+255,Chris Pratt,['(1979-06-21)'],['Actor'],['Anna Faris(m.\xa02009; div.\xa02018)'],Anna Faris(m. 2009; div. 2018),None,None,None
+256,Lee Marvin,"['(1924-02-19)', '(1987-08-29)']",['Actor'],"['Betty Ebeling(m.\xa01951; div.\xa01967)', 'Pamela Feeley (m.\xa01970)']",Betty Ebeling(m. 1951; div. 1967),Pamela Feeley (m. 1970),None,None
+257,Rex Harrison,"['(1908-03-05)', '(1990-06-02)']",['Actor'],"['Colette Thomas(m.\xa01934; div.\xa01942)', 'Lilli Palmer(m.\xa01943; div.\xa01957)', 'Kay Kendall(m.\xa01957; died\xa01959)', 'Rachel Roberts(m.\xa01962; div.\xa01971)', 'Elizabeth Rees-Williams(m.\xa01971; div.\xa01975)', 'Mercia Tinker (m.\xa01979)']",Colette Thomas(m. 1934; div. 1942),Lilli Palmer(m. 1943; div. 1957),Kay Kendall(m. 1957; died 1959),Rachel Roberts(m. 1962; div. 1971)
+258,Maximilian Schell,"['(1930-12-08)', '(2014-02-01)']","['Actor, screenwriter, director, producer, production manager']",[],Never married,None,None,None
+259,David Niven,"['(1910-03-01)', '(1983-07-29)']","['Actor, author']","['Primula Susan Rollo(m.\xa01940; died\xa01946)', 'Hjördis Paulina Genberg Tersmeden (m.\xa01948)']",Primula Susan Rollo(m. 1940; died 1946),Hjördis Paulina Genberg Tersmeden (m. 1948),None,None
+260,Yul Brynner,"['(1920-07-11)', '(1985-10-10)']",['Actor'],"['Virginia Gilmore(m.\xa01944; div.\xa01960)', 'Doris Kleiner(m.\xa01960; div.\xa01967)', 'Jacqueline Thion de la Chaume(m.\xa01971; div.\xa01981)', 'Kathy Lee(m.\xa01983; his death\xa01985)']",Virginia Gilmore(m. 1944; div. 1960),Doris Kleiner(m. 1960; div. 1967),Jacqueline Thion de la Chaume(m. 1971; div. 1981),Kathy Lee(m. 1983; his death 1985)
+261,Ernest Borgnine,"['(1917-01-24)', '(2012-07-08)']",['Actor'],"['Rhoda Kemins(m.\xa01949; div.\xa01958)', 'Katy Jurado(m.\xa01959; div.\xa01963)', 'Ethel Merman(m.\xa01964; div.\xa01964)', 'Donna Rancourt(m.\xa01965; div.\xa01972)', 'Tova Traesnaes (m.\xa01973)']",Rhoda Kemins(m. 1949; div. 1958),Katy Jurado(m. 1959; div. 1963),Ethel Merman(m. 1964; div. 1964),Donna Rancourt(m. 1965; div. 1972)
+262,Chloë Grace Moretz,['(1997-02-10)'],['Actressmodel'],[],Never married,None,None,None
+263,Anna Kendrick,['(1985-08-09)'],"['Actress, singer, author']",[],Never married,None,None,None
+264,Emily Watson,['(1967-01-14)'],['Actress'],['Jack Waters (m.\xa01995)'],Jack Waters (m. 1995),None,None,None
+265,Helena Bonham Carter,['(1966-05-26)'],['Actress'],[],Never married,None,None,None
+266,Keira Knightley,['(1985-03-26)'],['Actress'],['James Righton (m.\xa02013)'],James Righton (m. 2013),None,None,None
+267,Alexis Thorpe,['(1980-04-19)'],['Actress'],[],Never married,None,None,None
+268,Marion Davies,"['(1897-01-03)', '(1961-09-22)']","['Actress, film producer, screenwriter, philanthropist']",['Horace G. Brown (m.\xa01951–1961)'],Horace G. Brown (m. 1951–1961),None,None,None
+269,Scarlett Johansson,['(1984-11-22)'],['Actresssinger'],"['Ryan Reynolds(m.\xa02008; div.\xa02011)', 'Romain Dauriac(m.\xa02014; div.\xa02017)']",Ryan Reynolds(m. 2008; div. 2011),Romain Dauriac(m. 2014; div. 2017),None,None
+270,Dakota Fanning,['(1994-02-23)'],['Actress • model'],[],Never married,None,None,None
+271,Jennifer Aniston,['(1969-02-11)'],['Actressfilm producerbusinessperson'],"['Brad Pitt(m.\xa02000; div.\xa02005)', 'Justin Theroux(m.\xa02015; sep.\xa02017)']",Brad Pitt(m. 2000; div. 2005),Justin Theroux(m. 2015; sep. 2017),None,None
+272,Jennifer Connelly,['(1970-12-12)'],['Actress'],['Paul Bettany (m.\xa02003)'],Paul Bettany (m. 2003),None,None,None
+273,Rachel McAdams,['(1978-11-17)'],['Actress\nactivist'],[],Never married,None,None,None
+274,Carey Mulligan,['(1985-05-28)'],['Actress'],['Marcus Mumford (m.\xa02012)'],Marcus Mumford (m. 2012),None,None,None
+275,Mila Kunis,['(1983-08-14)'],['Actress'],['Ashton Kutcher (m.\xa02015)'],Ashton Kutcher (m. 2015),None,None,None
+276,Amanda Seyfried,['(1985-12-03)'],['Actressmodelsinger-songwriter'],['Thomas Sadoski (m.\xa02017)'],Thomas Sadoski (m. 2017),None,None,None
+277,Jennifer Lopez,['(1969-07-24)'],['Singeractressdancerproducer'],"['Ojani Noa(m.\xa01997; div.\xa01998)', 'Cris Judd(m.\xa02001; div.\xa02003)', 'Marc Anthony(m.\xa02004; div.\xa02014)']",Ojani Noa(m. 1997; div. 1998),Cris Judd(m. 2001; div. 2003),Marc Anthony(m. 2004; div. 2014),None
+278,Neve Campbell,['(1973-10-03)'],['Actress'],"['Jeff Colt(m.\xa01995; div.\xa01998)', 'John Light(m.\xa02007; div.\xa02011)']",Jeff Colt(m. 1995; div. 1998),John Light(m. 2007; div. 2011),None,None
+279,Fairuza Balk,['(1974-05-21)'],"['Actress, musician']",[],Never married,None,None,None
+280,Jessica Alba,['(1981-04-28)'],"['Actress, businesswoman']",['Cash Warren (m.\xa02008)'],Cash Warren (m. 2008),None,None,None
+281,Kristen Stewart,['(1990-04-09)'],['Actressdirector'],[],Never married,None,None,None
+282,Julie Walters,['(1950-02-22)'],"['Actress, author']",['Grant Roffey (m.\xa01997)'],Grant Roffey (m. 1997),None,None,None
+283,Rooney Mara,['(1985-04-17)'],['Actress'],[],Never married,None,None,None
+284,Jamie Lee Curtis,['(1958-11-22)'],"['Actress, producer, director, author, blogger, activist']","['Christopher Guest, 5th Baron Haden-Guest (m.\xa01984)']","Christopher Guest, 5th Baron Haden-Guest (m. 1984)",None,None,None
+285,Emma Stone,['(1988-11-06)'],['Actress'],[],Never married,None,None,None
+286,Kirsten Dunst,['(1982-04-30)'],['Actress'],[],Never married,None,None,None
+287,José Ferrer,"['(1912-01-08)', '(1992-01-26)']","['Actor, director']",[],Never married,None,None,None
+288,Broderick Crawford,"['(1911-12-09)', '(1986-04-26)']",['Actor'],"['Kay Griffith(m.\xa01940; div.\xa01958)', 'Joan Tabor(m.\xa01962; div.\xa01967)', 'Mary Alice Moore(m.\xa01973; his death\xa01986)']",Kay Griffith(m. 1940; div. 1958),Joan Tabor(m. 1962; div. 1967),Mary Alice Moore(m. 1973; his death 1986),None
+289,Ronald Colman,"['(1891-02-09)', '(1958-05-19)']",['Actor'],"['Thelma Raye(m.\xa01920; div.\xa01934)', 'Benita Hume(m.\xa01938; his death\xa01958)']",Thelma Raye(m. 1920; div. 1934),Benita Hume(m. 1938; his death 1958),None,None
+290,Fredric March,"['(1897-08-31)', '(1975-04-14)']",['Actor'],"['Ellis Baker (m.\xa01921–1927)', 'Florence Eldridge (m.\xa01927–1975)']",Ellis Baker (m. 1921–1927),Florence Eldridge (m. 1927–1975),None,None
+291,Ray Milland,"['(1907-01-03)', '(1986-03-10)']","['Actor, director']",['Muriel Weber (1908–1992)(m.\xa01932; his death\xa01986)'],Muriel Weber (1908–1992)(m. 1932; his death 1986),None,None,None
+292,Bing Crosby,"['(1903-05-03)', '(1977-10-14)']",['Singeractor'],"['Dixie Lee(m.\xa01930; died\xa01952)', 'Kathryn Grant (m.\xa01957)']",Dixie Lee(m. 1930; died 1952),Kathryn Grant (m. 1957),None,None
+293,Paul Lukas,"['(1894-05-26)', '(1971-08-15)']",['Actor'],[],Never married,None,None,None
+294,Robert Donat,"['(1905-03-18)', '(1958-06-09)']",['Actor'],"['Ella Annesley(m.\xa01929; div.\xa01946)', 'Renée Asherson(m.\xa01953; his death\xa01958)']",Ella Annesley(m. 1929; div. 1946),Renée Asherson(m. 1953; his death 1958),None,None
+295,Paul Muni,"['(1895-09-22)', '(1967-08-25)']",['Actor'],[],Never married,None,None,None
+296,Victor McLaglen,"['(1886-12-10)', '(1959-11-07)']",['Actor'],[],Never married,None,None,None
+297,Charles Laughton,"['(1899-07-01)', '(1962-12-15)']","['Actor, screenwriter, producer, director']",['Elsa Lanchester(m.\xa01929; his death\xa01962)'],Elsa Lanchester(m. 1929; his death 1962),None,None,None
+298,Wallace Beery,"['(1885-04-01)', '(1949-04-15)']","['Actor, singer, director']","['Gloria Swanson(m.\xa01916; div.\xa01918)', 'Rita Gilman(m.\xa01924; div.\xa01939)']",Gloria Swanson(m. 1916; div. 1918),Rita Gilman(m. 1924; div. 1939),None,None
+299,Kurt Russell,['(1951-03-17)'],['Actor'],['Season Hubley(m.\xa01979; div.\xa01983)'],Season Hubley(m. 1979; div. 1983),None,None,None
+300,Lionel Barrymore,"['(1878-04-28)', '(1954-11-15)']",['Actor'],[],Never married,None,None,None
+301,Jeff Goldblum,['(1952-10-22)'],"['Actor, musician']","['Patricia Gaul(m.\xa01980; div.\xa01986)', 'Geena Davis(m.\xa01987; div.\xa01990)', 'Emilie Livingston (m.\xa02014)']",Patricia Gaul(m. 1980; div. 1986),Geena Davis(m. 1987; div. 1990),Emilie Livingston (m. 2014),None
+302,Warner Baxter,"['(1889-03-29)', '(1951-05-07)']",['actor'],[],Never married,None,None,None
+303,Emil Jannings,"['(1884-07-23)', '(1950-01-02)']",['Actor'],"['Hanna Ralph(m.\xa01919; div.\xa01921)', 'Gussy Holl (m.\xa01923)']",Hanna Ralph(m. 1919; div. 1921),Gussy Holl (m. 1923),None,None
+304,Chris Cooper,['(1951-07-09)'],['Actor'],['Marianne Leone (m.\xa01983)'],Marianne Leone (m. 1983),None,None,None
+305,Jim Broadbent,['(1949-05-24)'],['Actor'],['Anastasia Lewis (m.\xa01987)'],Anastasia Lewis (m. 1987),None,None,None
+306,James Coburn,"['(1928-08-31)', '(2002-11-18)']",['Actor'],"['Beverly Kelly(m.\xa01959; div.\xa01979)', 'Paula Murad(m.\xa01993; his death\xa02002)']",Beverly Kelly(m. 1959; div. 1979),Paula Murad(m. 1993; his death 2002),None,None
+307,Cuba Gooding Jr.,['(1968-01-02)'],"['Actor, comedian']",['Sara Kapfer(m.\xa01994; separated\xa02014)'],Sara Kapfer(m. 1994; separated 2014),None,None,None
+308,Martin Landau,"['(1928-06-20)', '(2017-07-15)']","['Actor, acting coach']",['Barbara Bain(m.\xa01957; div.\xa01993)'],Barbara Bain(m. 1957; div. 1993),None,None,None
+309,Jack Palance,"['(1919-02-18)', '(2006-11-10)']","['Actor, singer']","['Virginia Baker(m.\xa01949; div.\xa01968)', 'Elaine Rogers (m.\xa01987)']",Virginia Baker(m. 1949; div. 1968),Elaine Rogers (m. 1987),None,None
+310,Kevin Kline,['(1947-10-24)'],"['Actor, singer']",['Phoebe Cates (m.\xa01989)'],Phoebe Cates (m. 1989),None,None,None
+311,Don Ameche,"['(1908-05-31)', '(1993-12-06)']","['Actor, voice artist, and comedian']",['Honore Prendergast (m.\xa01932–1986)'],Honore Prendergast (m. 1932–1986),None,None,None
+312,Kate Beckinsale,['(1973-07-26)'],['Actress'],['Len Wiseman(m.\xa02004; div.\xa02016)'],Len Wiseman(m. 2004; div. 2016),None,None,None
+313,Zooey Deschanel,['(1980-01-17)'],['Actress\nmodel\nsinger\nsongwriter'],"['Ben Gibbard(m.\xa02009; div.\xa02012)', 'Jacob Pechenik (m.\xa02015)']",Ben Gibbard(m. 2009; div. 2012),Jacob Pechenik (m. 2015),None,None
+314,Milla Jovovich,['(1975-12-17)'],['Actress\nmodel\nmusician'],"['Shawn Andrews(m.\xa01992; annulled\xa01992)', 'Luc Besson(m.\xa01997; div.\xa01999)', 'Paul W. S. Anderson (m.\xa02009)']",Shawn Andrews(m. 1992; annulled 1992),Luc Besson(m. 1997; div. 1999),Paul W. S. Anderson (m. 2009),None
+315,Selena Gomez,['(1992-07-22)'],['Singeractressproducer'],[],Never married,None,None,None
+316,Rachel Weisz,['(1970-03-07)'],['Actressfashion model'],['Daniel Craig (m.\xa02011)'],Daniel Craig (m. 2011),None,None,None
+317,Kristen Bell,['(1980-07-18)'],['Actress'],['Dax Shepard (m.\xa02013)'],Dax Shepard (m. 2013),None,None,None
+318,Katherine Heigl,['(1978-11-24)'],['Actress\nproducer\nmodel'],['Josh Kelley (m.\xa02007)'],Josh Kelley (m. 2007),None,None,None
+319,Liv Tyler,['(1977-07-01)'],['Actressproducermodel'],['Royston Langdon(m.\xa02003; div.\xa02008)'],Royston Langdon(m. 2003; div. 2008),None,None,None
+320,Jessica Chastain,['(1977-03-24)'],['Actressfilm producer'],['Gian Luca Passi de Preposulo (m.\xa02017)'],Gian Luca Passi de Preposulo (m. 2017),None,None,None
+321,Megan Fox,['(1986-05-16)'],"['Actress, model']",['Brian Austin Green (m.\xa02010)'],Brian Austin Green (m. 2010),None,None,None
+322,Betty White,['(1922-01-17)'],"['Actress, comedian']","['Dick Barker(m.\xa01945; div.\xa01945)', 'Lane Allen(m.\xa01947; div.\xa01949)', 'Allen Ludden(m.\xa01963; died\xa01981)']",Dick Barker(m. 1945; div. 1945),Lane Allen(m. 1947; div. 1949),Allen Ludden(m. 1963; died 1981),None
+323,Geraldine Page,"['(1924-11-22)', '(1987-06-13)']",[],"['Alexander Schneider (m.\xa01954–1957)', 'Rip Torn (m.\xa01963)']",Alexander Schneider (m. 1954–1957),Rip Torn (m. 1963),None,None
+324,Eliza Dushku,['(1980-12-30)'],"['Actress, activist, model']",['Peter Palandjian (m.\xa02018)'],Peter Palandjian (m. 2018),None,None,None
+325,Robin Wright,['(1966-04-08)'],"['Actress, director']","['Dane Witherspoon(m.\xa01986; div.\xa01988)', 'Sean Penn(m.\xa01996; div.\xa02010)', 'Clement Giraudet (m.\xa02018)']",Dane Witherspoon(m. 1986; div. 1988),Sean Penn(m. 1996; div. 2010),Clement Giraudet (m. 2018),None
+326,Leighton Meester,['(1986-04-09)'],['Actress\nsinger\nsongwriter\nmodel'],['Adam Brody (m.\xa02014)'],Adam Brody (m. 2014),None,None,None
+327,Jennifer Jones,"['(1919-03-02)', '(2009-12-17)']","['Actress, singer']","['Robert Walker(m.\xa01939; div.\xa01945)', 'David O. Selznick(m.\xa01949; died\xa01965)', 'Norton Simon(m.\xa01971; died\xa01993)']",Robert Walker(m. 1939; div. 1945),David O. Selznick(m. 1949; died 1965),Norton Simon(m. 1971; died 1993),None
+328,Julia Louis-Dreyfus,['(1961-01-13)'],['Actresscomediansingerproducer'],['Brad Hall (m.\xa01987)'],Brad Hall (m. 1987),None,None,None
+329,Olivia Thirlby,['(1986-10-06)'],['Actress'],[],Never married,None,None,None
+330,Cher,['(1946-05-20)'],['Singer\nactress\nauthor\nbusinesswoman\ncomedian\ndancer\nfashion designer\nmodel\nphilanthropist\nrecord producer\nsongwriter\ntelevision host'],"['Sonny Bono(m.\xa01969; div.\xa01975)', 'Gregg Allman(m.\xa01975; div.\xa01979)']",Sonny Bono(m. 1969; div. 1975),Gregg Allman(m. 1975; div. 1979),None,None
+331,Penélope Cruz,['(1974-04-28)'],['Actressmodel'],['Javier Bardem (m.\xa02010)'],Javier Bardem (m. 2010),None,None,None
+332,Louise Fletcher,['(1934-07-22)'],['Actress'],['Jerry Bick(m.\xa01960; div.\xa01977)'],Jerry Bick(m. 1960; div. 1977),None,None,None
+333,Julie Christie,['(1940-04-14)'],"['Actress, activist']",[],Never married,None,None,None
+334,Patricia Neal,"['(1926-01-20)', '(2010-08-08)']",['Actress'],['Roald Dahl(m.\xa01953; div.\xa01983)'],Roald Dahl(m. 1953; div. 1983),None,None,None
+335,Haing S. Ngor,"['(1940-03-22)', '(1996-02-25)']",['Gynecologistobstetricianactorauthor'],[],Never married,None,None,None
+336,Louis Gossett Jr.,['(1936-05-27)'],['Actor'],"['Hattie Glascoe(m.\xa01967; annulled\xa01968)', 'Christina Mangosing(m.\xa01973; div.\xa01975)', 'Cyndi James-Reese(m.\xa01987; div.\xa01992)']",Hattie Glascoe(m. 1967; annulled 1968),Christina Mangosing(m. 1973; div. 1975),Cyndi James-Reese(m. 1987; div. 1992),None
+337,Timothy Hutton,['(1960-08-16)'],"['Actor, director']","['Debra Winger(m.\xa01986; div.\xa01990)', ""Aurore Giscard d'Estaing(m.\xa02000; sep.\xa02009)""]",Debra Winger(m. 1986; div. 1990),Aurore Giscard d'Estaing(m. 2000; sep. 2009),None,None
+338,Melvyn Douglas,"['(1901-04-05)', '(1981-08-04)']","['Actor, Singer']","['Rosalind Hightower(m.\xa01925; div.\xa01930)', 'Helen Gahagan(m.\xa01931; died\xa01980)']",Rosalind Hightower(m. 1925; div. 1930),Helen Gahagan(m. 1931; died 1980),None,None
+339,Jason Robards,"['(1922-07-26)', '(2000-12-26)']",['Actor'],"['Eleanor Pittman(m.\xa01948; div.\xa01958)', 'Rachel Taylor(m.\xa01959; div.\xa01961)', 'Lauren Bacall(m.\xa01961; div.\xa01969)', ""Lois O'Connor (m.\xa01970)""]",Eleanor Pittman(m. 1948; div. 1958),Rachel Taylor(m. 1959; div. 1961),Lauren Bacall(m. 1961; div. 1969),Lois O'Connor (m. 1970)
+340,George Burns,"['(1896-01-20)', '(1996-03-09)']","['Actor, comedian, writer, singer']","['Hannah Siegel(m.\xa01917; div.\xa01921)', 'Gracie Allen(m.\xa01926; died\xa01964)']",Hannah Siegel(m. 1917; div. 1921),Gracie Allen(m. 1926; died 1964),None,None
+341,John Houseman,"['(1902-09-22)', '(1988-10-31)']","['Actor, producer']","['Zita Johann(m.\xa01929; div.\xa01933)', 'Joan Courtney (m.\xa01952–1988)']",Zita Johann(m. 1929; div. 1933),Joan Courtney (m. 1952–1988),None,None
+342,Ethan Hawke,['(1970-11-06)'],['Actor\ndirector\nscreenwriter\nnovelist'],"['Uma Thurman(m.\xa01998; div.\xa02005)', 'Ryan Shawhughes (m.\xa02008)']",Uma Thurman(m. 1998; div. 2005),Ryan Shawhughes (m. 2008),None,None
+343,John Mills,"['(1908-02-22)', '(2005-04-23)']",['Actor'],"['Aileen Raymond(m.\xa01932; div.\xa01941)', 'Mary Hayley Bell(m.\xa01941; his death\xa02005)']",Aileen Raymond(m. 1932; div. 1941),Mary Hayley Bell(m. 1941; his death 2005),None,None
+344,Gig Young,"['(1913-11-04)', '(1978-10-19)']",['Actor'],"['Sheila Stapler(m.\xa01940; div.\xa01947)', 'Sophie Rosenstein(m.\xa01950; died\xa01952)', 'Elizabeth Montgomery(m.\xa01956; div.\xa01963)', 'Elaine Williams(m.\xa01963; div.\xa01966)', 'Kim Schmidt(m.\xa01978; died\xa01978)']",Sheila Stapler(m. 1940; div. 1947),Sophie Rosenstein(m. 1950; died 1952),Elizabeth Montgomery(m. 1956; div. 1963),Elaine Williams(m. 1963; div. 1966)
+345,Jack Albertson,"['(1907-06-16)', '(1981-11-25)']","['Actor, comedian, dancer, singer']",['June Wallace Thompson(m.\xa01952; his death\xa01981)'],June Wallace Thompson(m. 1952; his death 1981),None,None,None
+346,George Kennedy,"['(1925-02-18)', '(2016-02-28)']",['Actor'],"['Dorothy Gillooly(m.\xa01946; div.\xa01959)', 'Norma Wurman(m.\xa01959; div.\xa01971)', 'Norma Wurman(m.\xa01973; div.\xa01978)', 'Joan McCarthy(m.\xa01978; died\xa02015)']",Dorothy Gillooly(m. 1946; div. 1959),Norma Wurman(m. 1959; div. 1971),Norma Wurman(m. 1973; div. 1978),Joan McCarthy(m. 1978; died 2015)
+347,Walter Matthau,"['(1920-10-01)', '(2000-07-01)']","['Actor, singer']","['Grace Geraldine Johnson(m.\xa01948; div.\xa01958)', 'Carol Marcus(m.\xa01959; his death\xa02000)']",Grace Geraldine Johnson(m. 1948; div. 1958),Carol Marcus(m. 1959; his death 2000),None,None
+348,Martin Balsam,"['(1919-11-04)', '(1996-02-13)']",['Actor'],[],Never married,None,None,None
+349,Peter Ustinov,"['(1921-04-16)', '(2004-03-28)']","['Actor, writer, filmmaker']","['Isolde Denham(m.\xa01940; div.\xa01950)', 'Suzanne Cloutier(m.\xa01954; div.\xa01971)', ""Helene du Lau d'Allemans (m.\xa01972)""]",Isolde Denham(m. 1940; div. 1950),Suzanne Cloutier(m. 1954; div. 1971),Helene du Lau d'Allemans (m. 1972),None
+350,Ed Begley,"['(1901-03-25)', '(1970-04-28)']","['Film, television, radio actor']",[],Never married,None,None,None
+351,George Chakiris,['(1934-09-16)'],"['Actor, dancer']",[],Never married,None,None,None
+352,Hugh Griffith,"['(1912-05-30)', '(1980-05-14)']",['Actor'],[],Never married,None,None,None
+353,Burl Ives,"['(1909-06-14)', '(1995-04-14)']","['Actor, voice over actor, folk singer, writer, author']","['Helen Peck Ehrlich(m.\xa01945; div.\xa01971)', 'Dorothy Koster Paul(m.\xa01971; died\xa01995)']",Helen Peck Ehrlich(m. 1945; div. 1971),Dorothy Koster Paul(m. 1971; died 1995),None,None
+354,Red Buttons,"['(1919-02-05)', '(2006-07-13)']",['Actor & Comedian'],"['Roxanne Arlen(m.\xa01947; div.\xa01949)', 'Helayne McNorton(m.\xa01949; div.\xa01963)', 'Alicia Prats(m.\xa01964; her death\xa02001)']",Roxanne Arlen(m. 1947; div. 1949),Helayne McNorton(m. 1949; div. 1963),Alicia Prats(m. 1964; her death 2001),None
+355,Anthony Quinn,"['(1915-04-21)', '(2001-06-03)']","['Actor, painter, writer, film director']","['Katherine DeMille(m.\xa01937; div.\xa01965)', 'Jolanda Addolori(m.\xa01966; div.\xa01997)', 'Kathy Benvin (m.\xa01997)']",Katherine DeMille(m. 1937; div. 1965),Jolanda Addolori(m. 1966; div. 1997),Kathy Benvin (m. 1997),None
+356,Edmond O'Brien,"['(1915-09-10)', '(1985-05-09)']",['Actor'],"['Nancy Kelly(m.\xa01941; div.\xa01942)', 'Olga San Juan(m.\xa01948; div.\xa01976)']",Nancy Kelly(m. 1941; div. 1942),Olga San Juan(m. 1948; div. 1976),None,None
+357,Frank Sinatra,"['(1915-12-12)', '(1998-05-14)']",['Singer\nactor\nproducer'],"['Nancy Barbato(m.\xa01939; div.\xa01951)', 'Ava Gardner(m.\xa01951; div.\xa01957)', 'Mia Farrow(m.\xa01966; div.\xa01968)', 'Barbara Marx (m.\xa01976)']",Nancy Barbato(m. 1939; div. 1951),Ava Gardner(m. 1951; div. 1957),Mia Farrow(m. 1966; div. 1968),Barbara Marx (m. 1976)
+358,Anne Bancroft,"['(1931-09-17)', '(2005-06-06)']","['Actress, director, screenwriter and singer']","['Martin May(m.\xa01953; div.\xa01957)', 'Mel Brooks (m.\xa01964)']",Martin May(m. 1953; div. 1957),Mel Brooks (m. 1964),None,None
+359,Kim Novak,['(1933-02-13)'],"['Actress, artist']","['Richard Johnson(m.\xa01965; div.\xa01966)', 'Robert Malloy (m.\xa01976)']",Richard Johnson(m. 1965; div. 1966),Robert Malloy (m. 1976),None,None
+360,Simone Signoret,"['(1921-03-25)', '(1985-09-30)']",['Actress'],"['Yves Allégret (m.\xa01944–1949)', 'Yves Montand(m.\xa01951; her death\xa01985)']",Yves Allégret (m. 1944–1949),Yves Montand(m. 1951; her death 1985),None,None
+361,Ellen Page,['(1987-02-21)'],"['Actress, producer']",['Emma Portner (m.\xa02018)'],Emma Portner (m. 2018),None,None,None
+362,Angela Lansbury,['(1925-10-16)'],['Actresssingersongwriterproducerwriter'],"['Richard Cromwell(m.\xa01945; div.\xa01946)', 'Peter Shaw(m.\xa01949; died\xa02003)']",Richard Cromwell(m. 1945; div. 1946),Peter Shaw(m. 1949; died 2003),None,None
+363,Judy Holliday,"['(1921-06-21)', '(1965-06-07)']",['Actress'],['David Oppenheim(m.\xa01948; div.\xa01958)'],David Oppenheim(m. 1948; div. 1958),None,None,None
+364,Loretta Young,"['(1913-01-06)', '(2000-08-12)']",['Actress'],"['Grant Withers(m.\xa01930; annulled\xa01931)', 'Tom Lewis(m.\xa01940; div.\xa01969)', 'Jean Louis(m.\xa01993; died\xa01997)']",Grant Withers(m. 1930; annulled 1931),Tom Lewis(m. 1940; div. 1969),Jean Louis(m. 1993; died 1997),None
+365,Shirley Jones,['(1934-03-31)'],"['Singer, actress']","['Jack Cassidy(m.\xa01956; div.\xa01974)', 'Marty Ingels(m.\xa01977; died\xa02015)']",Jack Cassidy(m. 1956; div. 1974),Marty Ingels(m. 1977; died 2015),None,None
+366,Vera Farmiga,['(1973-08-06)'],"['Actress, film director, producer']","['Sebastian Roché(m.\xa01997; div.\xa02004)', 'Renn Hawkey (m.\xa02008)']",Sebastian Roché(m. 1997; div. 2004),Renn Hawkey (m. 2008),None,None
+367,Helen Hayes,"['(1900-10-10)', '(1993-03-17)']",['Actress'],['Charles MacArthur(m.\xa01928; died\xa01956)'],Charles MacArthur(m. 1928; died 1956),None,None,None
+368,Marie Dressler,"['(1868-11-09)', '(1934-07-28)']",['Actress'],"['George Hoeppert (m.\xa01899–1906)', 'James Henry Dalton (m.\xa01904–1921)']",George Hoeppert (m. 1899–1906),James Henry Dalton (m. 1904–1921),None,None
+369,Janet Gaynor,"['(1906-10-06)', '(1984-09-14)']",['Actress'],"['Jesse Lydell Peck(m.\xa01929; div.\xa01933)', 'Adrian(m.\xa01939; died\xa01959)', 'Paul Gregory (m.\xa01964–1984)']",Jesse Lydell Peck(m. 1929; div. 1933),Adrian(m. 1939; died 1959),Paul Gregory (m. 1964–1984),None
+370,Lupita Nyong'o,['(1983-03-01)'],['Actress'],[],Never married,None,None,None
+371,Octavia Spencer,['(1972-05-25)'],"['Actress, author']",[],Never married,None,None,None
+372,Melissa Leo,['(1960-09-14)'],['Actor'],[],Never married,None,None,None
+373,Mo'Nique,['(1967-12-11)'],['Actress\ncomedian\ntalk show host\nauthor'],"['Mark Jackson (m.\xa01997–2001)', 'Sidney Hicks (m.\xa02006)']",Mark Jackson (m. 1997–2001),Sidney Hicks (m. 2006),None,None
+374,Marlee Matlin,['(1965-08-24)'],"['Actress, author, activist']",['Kevin Grandalski (m.\xa01993)'],Kevin Grandalski (m. 1993),None,None,None
+375,Tilda Swinton,['(1960-11-05)'],"['Actress, model, artist']",[],Never married,None,None,None
+376,Jennifer Hudson,['(1981-09-12)'],['Singeractress'],[],Never married,None,None,None
+377,Renée Zellweger,['(1969-04-25)'],"['Actress, producer']",['Kenny Chesney(m.\xa02005; annulled\xa02005)'],Kenny Chesney(m. 2005; annulled 2005),None,None,None
+378,Marcia Gay Harden,['(1959-08-14)'],['Actress'],['Thaddaeus Scheel(m.\xa01996; div.\xa02012)'],Thaddaeus Scheel(m. 1996; div. 2012),None,None,None
+379,Anna Paquin,['(1982-07-24)'],['Actress'],['Stephen Moyer (m.\xa02010)'],Stephen Moyer (m. 2010),None,None,None
+380,Marisa Tomei,['(1964-12-04)'],['Actress'],[],Never married,None,None,None
+381,Mercedes Ruehl,['(1948-02-28)'],['Actor'],[],Never married,None,None,None
+382,Brenda Fricker,['(1945-02-17)'],['Actress'],['Barry Davies (m.\xa01979–1988)'],Barry Davies (m. 1979–1988),None,None,None
+383,Jean Reno,['(1948-07-30)'],['Actor'],"['Genevieve Reno (m.\xa01977–1995)', 'Nathalie Dyszkiewicz (m.\xa01996–2001)', 'Zofia Borucka (m.\xa02006)']",Genevieve Reno (m. 1977–1995),Nathalie Dyszkiewicz (m. 1996–2001),Zofia Borucka (m. 2006),None
+384,George Sanders,"['(1906-07-03)', '(1972-04-25)']","['Actor, author, singer-songwriter, music composer']","['Susan Larson(m.\xa01940; div.\xa01949)', 'Zsa Zsa Gabor(m.\xa01949; div.\xa01954)', 'Benita Hume(m.\xa01959; died\xa01967)']",Susan Larson(m. 1940; div. 1949),Zsa Zsa Gabor(m. 1949; div. 1954),Benita Hume(m. 1959; died 1967),None
+385,Dean Jagger,"['(1903-11-07)', '(1991-02-05)']",['Actor'],[],Never married,None,None,None
+386,Walter Huston,"['(1883-04-05)', '(1950-04-07)']","['Actor, singer']","['Rhea Gore(m.\xa01904; div.\xa01912)', 'Bayonne Whipple(m.\xa01915; div.\xa01924)', 'Ninetta (Nan) Sunderland (m.\xa01931)']",Rhea Gore(m. 1904; div. 1912),Bayonne Whipple(m. 1915; div. 1924),Ninetta (Nan) Sunderland (m. 1931),None
+387,Edmund Gwenn,"['(1877-09-26)', '(1959-09-06)']",['Actor'],[],Never married,None,None,None
+388,Harold Russell,"['(1914-01-14)', '(2002-01-29)']",[],[],Never married,None,None,None
+389,Hugh Grant,['(1960-09-09)'],"['Actor, producer']",['Anna Eberstein (m.\xa02018)'],Anna Eberstein (m. 2018),None,None,None
+390,Barry Fitzgerald,"['(1888-03-10)', '(1961-01-14)']",['Actor'],[],Never married,None,None,None
+391,Charles Coburn,"['(1877-06-19)', '(1961-08-30)']",['Actor'],[],Never married,None,None,None
+392,Van Heflin,"['(1908-12-13)', '(1971-07-23)']",['Actor'],[],Never married,None,None,None
+393,Donald Crisp,"['(1882-07-27)', '(1974-05-25)']","['Actor, producer, director, screenwriter']",['Jane Murfin (m.\xa01932–1944)'],Jane Murfin (m. 1932–1944),None,None,None
+394,Walter Brennan,"['(1894-07-25)', '(1974-09-21)']",['Actor'],['Ruth Wells(m.\xa01920; his death\xa01974)'],Ruth Wells(m. 1920; his death 1974),None,None,None
+395,Joseph Schildkraut,"['(1896-03-22)', '(1964-01-21)']",['Actor'],"['Elise Bartlett(m.\xa01923; div.\xa01930)', 'Marie McKay(m.\xa01932; her death\xa01962)', 'Leonora Rogers(m.\xa01963; his death\xa01964)']",Elise Bartlett(m. 1923; div. 1930),Marie McKay(m. 1932; her death 1962),Leonora Rogers(m. 1963; his death 1964),None
+396,Keanu Reeves,['(1964-09-02)'],"['Actor, director, producer, musician']",[],Never married,None,None,None
+397,Channing Tatum,['(1980-04-26)'],['Actor'],['Jenna Dewan(m.\xa02009; sep.\xa02018)'],Jenna Dewan(m. 2009; sep. 2018),None,None,None
+398,Hugh Jackman,['(1968-10-12)'],['Actorsingerproducer'],['Deborra-Lee Furness (m.\xa01996)'],Deborra-Lee Furness (m. 1996),None,None,None
+399,Dwayne Johnson,['(1972-05-02)'],"['Actor, producer, professional wrestler']",['Dany Garcia(m.\xa01997; div.\xa02007)'],Dany Garcia(m. 1997; div. 2007),None,None,None
+400,Adam Sandler,['(1966-09-09)'],['Actor\ncomedian\nscreenwriter\nfilm producer\nmusician'],['Jacqueline Titone (m.\xa02003)'],Jacqueline Titone (m. 2003),None,None,None
+401,Daniel Radcliffe,['(1989-07-23)'],['Actorproducer'],[],Never married,None,None,None
+402,Daniel Craig,['(1968-03-02)'],['Actor'],"['Fiona Loudon(m.\xa01992; div.\xa01994)', 'Rachel Weisz (m.\xa02011)']",Fiona Loudon(m. 1992; div. 1994),Rachel Weisz (m. 2011),None,None
+403,Ryan Gosling,['(1980-11-12)'],['Actor\nmusician'],[],Never married,None,None,None
+404,Vin Diesel,['(1967-07-18)'],"['Actor, Producer with One Race Films, director, screenwriter']",[],Never married,None,None,None
+405,Ben Affleck,['(1972-08-15)'],['Actor\nfilmmaker'],['Jennifer Garner(m.\xa02005; div.\xa02018)'],Jennifer Garner(m. 2005; div. 2018),None,None,None
+406,Chris Pine,['(1980-08-26)'],['Actor'],[],Never married,None,None,None
+407,Olympia Dukakis,['(1931-06-20)'],['Actress'],[],Never married,None,None,None
+408,Linda Hunt,['(1945-04-02)'],['Actress'],['Karen Klein (m.\xa02008)'],Karen Klein (m. 2008),None,None,None
+409,Maureen Stapleton,"['(1925-06-21)', '(2006-03-13)']",['Actress'],"['Max Allentuck(m.\xa01949; div.\xa01959)', 'David Rayfiel(m.\xa01963; div.\xa01966)']",Max Allentuck(m. 1949; div. 1959),David Rayfiel(m. 1963; div. 1966),None,None
+410,Mary Steenburgen,['(1953-02-08)'],['Actress'],"['Malcolm McDowell(m.\xa01980; div.\xa01990)', 'Ted Danson (m.\xa01995)']",Malcolm McDowell(m. 1980; div. 1990),Ted Danson (m. 1995),None,None
+411,Beatrice Straight,"['(1914-08-02)', '(2001-04-07)']",['Actress'],"['Louis Dolivet(m.\xa01942; div.\xa01949)', 'Peter Cookson(m.\xa01949; his death\xa01990)']",Louis Dolivet(m. 1942; div. 1949),Peter Cookson(m. 1949; his death 1990),None,None
+412,Vanessa Redgrave,['(1937-01-30)'],['Actress'],"['Tony Richardson(m.\xa01962; div.\xa01967)', 'Franco Nero (m.\xa02006)']",Tony Richardson(m. 1962; div. 1967),Franco Nero (m. 2006),None,None
+413,Lee Grant,[],['Actress and director'],"['Arnold Manoff(m.\xa01951; div.\xa01960)', 'Joseph Feury (m.\xa01962)']",Arnold Manoff(m. 1951; div. 1960),Joseph Feury (m. 1962),None,None
+414,Eileen Heckart,"['(1919-03-29)', '(2001-12-31)']",['Actress'],"['John Harrison Yankee, Jr. (m.\xa01942–1997)']","John Harrison Yankee, Jr. (m. 1942–1997)",None,None,None
+415,Cloris Leachman,['(1926-04-30)'],"['Actress, comedian']",['George Englund(m.\xa01953; div.\xa01979)'],George Englund(m. 1953; div. 1979),None,None,None
+416,Ruth Gordon,"['(1896-10-30)', '(1985-08-28)']","['Actress, writer']",[],Never married,None,None,None
+417,Estelle Parsons,['(1927-11-20)'],"['Actress, singer, stage director']","['Richard Gehman(m.\xa01953; div.\xa01958)', 'Peter Zimroth (m.\xa01983)']",Richard Gehman(m. 1953; div. 1958),Peter Zimroth (m. 1983),None,None
+418,Sandy Dennis,"['(1937-04-27)', '(1992-03-02)']",['Actress'],[],Never married,None,None,None
+419,Shelley Winters,"['(1920-08-18)', '(2006-01-14)']",['Actress'],"['Mack Paul Mayer(m.\xa01942; div.\xa01948)', 'Vittorio Gassman(m.\xa01952; div.\xa01954)', 'Anthony Franciosa(m.\xa01957; div.\xa01960)', 'Gerry DeFord (m.\xa02006)']",Mack Paul Mayer(m. 1942; div. 1948),Vittorio Gassman(m. 1952; div. 1954),Anthony Franciosa(m. 1957; div. 1960),Gerry DeFord (m. 2006)
+420,Maggie Gyllenhaal,['(1977-11-16)'],['Actress'],['Peter Sarsgaard (m.\xa02009)'],Peter Sarsgaard (m. 2009),None,None,None
+421,Katie Holmes,['(1978-12-18)'],['Actress'],['Tom Cruise(m.\xa02006; div.\xa02012)'],Tom Cruise(m. 2006; div. 2012),None,None,None
+422,Patty Duke,"['(1946-12-14)', '(2016-03-29)', '\ufeff / 47.684481; -116.786315']","['Actress, author, mental health advocate']","['Harry Falk(m.\xa01965; div.\xa01969)', 'Michael Tell(m.\xa01970; annulled\xa01970)', 'John Astin(m.\xa01972; div.\xa01985)', 'Michael Pearce (m.\xa01986)']",Harry Falk(m. 1965; div. 1969),Michael Tell(m. 1970; annulled 1970),John Astin(m. 1972; div. 1985),Michael Pearce (m. 1986)
+423,Rita Moreno,['(1931-12-11)'],"['Actress, singer, dancer']",['Leonard Gordon(m.\xa01965; died\xa02010)'],Leonard Gordon(m. 1965; died 2010),None,None,None
+424,Wendy Hiller,"['(1912-08-15)', '(2003-05-14)']",[],['Ronald Gow(m.\xa01937; his death\xa01993)'],Ronald Gow(m. 1937; his death 1993),None,None,None
+425,Miyoshi Umeki,"['(1929-05-08)', '(2007-08-28)']","['Actress, singer']","['Wynn Opie(m.\xa01958; div.\xa01967)', 'Randall Hood (m.\xa01968–1976)']",Wynn Opie(m. 1958; div. 1967),Randall Hood (m. 1968–1976),None,None
+426,Dorothy Malone,"['(1924-01-29)', '(2018-01-19)']",['Actress'],[],Never married,None,None,None
+427,Jo Van Fleet,"['(1915-12-29)', '(1996-06-10)']",['Actress'],[],Never married,None,None,None
+428,Eva Marie Saint,['(1924-07-04)'],['Actress'],['Jeffrey Hayden(m.\xa01951; died\xa02016)'],Jeffrey Hayden(m. 1951; died 2016),None,None,None
+429,Gloria Grahame,"['(1923-11-28)', '(1981-10-05)']",['Actress and singer'],"['Stanley Clements(m.\xa01945; div.\xa01948)', 'Nicholas Ray(m.\xa01948; div.\xa01952)', 'Cy Howard(m.\xa01954; div.\xa01957)', 'Anthony Ray(m.\xa01960; div.\xa01974)']",Stanley Clements(m. 1945; div. 1948),Nicholas Ray(m. 1948; div. 1952),Cy Howard(m. 1954; div. 1957),Anthony Ray(m. 1960; div. 1974)
+430,Kim Hunter,"['(1922-11-12)', '(2002-09-11)']",['Actress'],[],Never married,None,None,None
+431,Andrew Garfield,['(1983-08-20)'],['Actor'],[],Never married,None,None,None
+432,Jeremy Renner,['(1971-01-07)'],['Actor'],['Sonni Pacheco(m.\xa02014; div.\xa02015)'],Sonni Pacheco(m. 2014; div. 2015),None,None,None
+433,Steve Carell,['(1962-08-16)'],['Actor\ncomedian\nproducer\nwriter'],['Nancy Walls (m.\xa01995)'],Nancy Walls (m. 1995),None,None,None
+434,Jake Gyllenhaal,['(1980-12-19)'],['Actor'],[],Never married,None,None,None
+435,James Franco,['(1978-04-19)'],"['Actor, filmmaker']",[],Never married,None,None,None
+436,Will Ferrell,['(1967-07-16)'],"['Actor, comedian, producer, writer, part-owner of LAFC']",['Viveca Paulin (m.\xa02000)'],Viveca Paulin (m. 2000),None,None,None
+437,Shia LaBeouf,['(1986-06-11)'],['Actorperformance artistfilmmaker'],[],Never married,None,None,None
+438,Seth Rogen,['(1982-04-15)'],['Actor\nstand-up comedian\nwriter\nproducer\ndirector'],['Lauren Miller (m.\xa02011)'],Lauren Miller (m. 2011),None,None,None
+439,Joseph Gordon-Levitt,['(1981-02-17)'],['Actorfilmmakersingerentrepreneur'],['Tasha McCauley (m.\xa02014)'],Tasha McCauley (m. 2014),None,None,None
+440,Ryan Reynolds,['(1976-10-23)'],['Actor\ncomedian\nproducer\nscreenwriter'],"['Scarlett Johansson(m.\xa02008; div.\xa02011)', 'Blake Lively (m.\xa02012)']",Scarlett Johansson(m. 2008; div. 2011),Blake Lively (m. 2012),None,None
+441,Paul Rudd,['(1969-04-06)'],['Actor\ncomedian\nwriter\nproducer'],['Julie Yaeger (m.\xa02003)'],Julie Yaeger (m. 2003),None,None,None
+442,Jason Segel,['(1980-01-18)'],['Actor\nscreenwriter\nproducer'],[],Never married,None,None,None
+443,Jason Statham,['(1967-07-26)'],"['Actor,\xa0film producer']",[],Never married,None,None,None
+444,Justin Timberlake,['(1981-01-31)'],['Singer-songwriter\nactor\ndancer\nrecord producer'],['Jessica Biel (m.\xa02012)'],Jessica Biel (m. 2012),None,None,None
+445,Dick Van Dyke,['(1925-12-13)'],"['Actor, comedian, singer, dancer']","['Margie Willett(m.\xa01948; div.\xa01984)', 'Arlene Silver (m.\xa02012)']",Margie Willett(m. 1948; div. 1984),Arlene Silver (m. 2012),None,None
+446,Zac Efron,['(1987-10-18)'],['Actor'],[],Never married,None,None,None
+447,Jesse Eisenberg,['(1983-10-05)'],['Actorauthorhumoristplaywright'],['Anna Strout (m.\xa02017)'],Anna Strout (m. 2017),None,None,None
+448,Owen Wilson,['(1968-11-18)'],"['Actor, producer, screenwriter, comedian']",[],Never married,None,None,None
+449,Jason Bateman,['(1969-01-14)'],['Actordirectorproducer'],['Amanda Anka (m.\xa02001)'],Amanda Anka (m. 2001),None,None,None
+450,Tyler Perry,['(1969-09-13)'],"['Actor, playwright, filmmaker, comedian']",[],Never married,None,None,None
+451,Liam Hemsworth,['(1990-01-13)'],['Actor'],[],Never married,None,None,None
+452,William Shatner,['(1931-03-22)'],"['Actor, author, producer, director, singer']","['Gloria Rand(m.\xa01956; div.\xa01969)', 'Marcy Lafferty(m.\xa01973; div.\xa01996)', 'Nerine Kidd(m.\xa01997; died\xa01999)', 'Elizabeth Martin (m.\xa02001)']",Gloria Rand(m. 1956; div. 1969),Marcy Lafferty(m. 1973; div. 1996),Nerine Kidd(m. 1997; died 1999),Elizabeth Martin (m. 2001)
+453,Shah Rukh Khan,['(1965-11-02)'],"['Actor, film producer, television personality']",['Gauri Khan (m.\xa01991)'],Gauri Khan (m. 1991),None,None,None
+454,Thora Birch,['(1982-03-11)'],"['Actress, producer']",[],Never married,None,None,None
+455,Claire Trevor,"['(1910-03-08)', '(2000-04-08)']",['Actress'],[],Never married,None,None,None
+456,Celeste Holm,"['(1917-04-29)', '(2012-07-15)']","['Actress, singer']",[],Never married,None,None,None
+457,Anne Baxter,"['(1923-05-07)', '(1985-12-12)']","['Actress, singer']","['John Hodiak(m.\xa01946; div.\xa01953)', 'Randolph Galt(m.\xa01960; div.\xa01969)', 'David Klee(m.\xa01977; his death\xa01977)']",John Hodiak(m. 1946; div. 1953),Randolph Galt(m. 1960; div. 1969),David Klee(m. 1977; his death 1977),None
+458,Queen Latifah,['(1970-03-18)'],['Singer\nsongwriter\nrapper\nactress\nmodel\nproducer\ntalk show host'],[],Never married,None,None,None
+459,Ethel Barrymore,"['(1879-08-15)', '(1959-06-18)']",['Actress'],['Russell Griswold Colt(m.\xa01909; div.\xa01923)'],Russell Griswold Colt(m. 1909; div. 1923),None,None,None
+460,Rosario Dawson,['(1979-05-09)'],['Actressproducerwriter'],[],Never married,None,None,None
+461,Teresa Wright,"['(1918-10-27)', '(2005-03-06)']",['Actress'],"['Niven Busch (m.\xa01942–1952)', 'Robert Anderson (m.\xa01959–1978)']",Niven Busch (m. 1942–1952),Robert Anderson (m. 1959–1978),None,None
+462,Mary Astor,"['(1906-05-03)', '(1987-09-25)']",['Actress'],"['Kenneth Hawks(m.\xa01928; his death\xa01930)', 'Franklyn Thorpe(m.\xa01931; div.\xa01935)', 'Manuel del Campo(m.\xa01936; div.\xa01941)', 'Thomas Gordon Wheelock(m.\xa01945; div.\xa01955)']",Kenneth Hawks(m. 1928; his death 1930),Franklyn Thorpe(m. 1931; div. 1935),Manuel del Campo(m. 1936; div. 1941),Thomas Gordon Wheelock(m. 1945; div. 1955)
+463,Jane Darwell,"['(1879-10-15)', '(1967-08-13)']",['Actress'],[],Never married,None,None,None
+464,Alicia Vikander,['(1988-10-03)'],['Actress'],['Michael Fassbender (m.\xa02017)'],Michael Fassbender (m. 2017),None,None,None
+465,Mia Wasikowska,['(1989-10-25)'],['Actress'],[],Never married,None,None,None
+466,Abigail Breslin,['(1996-04-14)'],"['Actress, singer']",[],Never married,None,None,None
+467,Gale Sondergaard,"['(1899-02-15)', '(1985-08-14)']",['Actress'],"[""Neill O'Malley(m.\xa01922; div.\xa01930)"", 'Herbert J. Biberman(m.\xa01930; died\xa01971)']",Neill O'Malley(m. 1922; div. 1930),Herbert J. Biberman(m. 1930; died 1971),None,None
+468,Melissa McCarthy,['(1970-08-26)'],['Actress\nwriter\nproducer\ncomedian\nfashion designer'],['Ben Falcone (m.\xa02005)'],Ben Falcone (m. 2005),None,None,None
+469,Tina Fey,['(1970-05-18)'],['Actresscomedianwriterproducerplaywright'],['Jeff Richmond (m.\xa02001)'],Jeff Richmond (m. 2001),None,None,None
+470,Zoe Saldana,['(1978-06-19)'],"['Actress, dancer']",['Marco Perego-Saldana (m.\xa02013)'],Marco Perego-Saldana (m. 2013),None,None,None
+471,Elisabeth Moss,['(1982-07-24)'],['Actor'],['Fred Armisen(m.\xa02009; div.\xa02011)'],Fred Armisen(m. 2009; div. 2011),None,None,None
+472,Adrianne Palicki,['(1983-05-06)'],['Actress'],[],Never married,None,None,None
+473,Jennifer Garner,['(1972-04-17)'],['Actress\nfilm producer'],"['Scott Foley(m.\xa02000; div.\xa02004)', 'Ben Affleck(m.\xa02005; div.\xa02018)']",Scott Foley(m. 2000; div. 2004),Ben Affleck(m. 2005; div. 2018),None,None
+474,Kristen Wiig,['(1973-08-22)'],['Actress\ncomedian\nwriter\nproducer'],['Hayes Hargrove(m.\xa02005; div.\xa02009)'],Hayes Hargrove(m. 2005; div. 2009),None,None,None
+475,June Squibb,['(1929-11-06)'],['Actress'],[],Never married,None,None,None
+476,Sally Hawkins,['(1976-04-27)'],['Actress'],[],Never married,None,None,None
+477,Kaley Cuoco,['(1985-11-30)'],"['Actress, producer']","['Ryan Sweeting(m.\xa02013; div.\xa02016)', 'Karl Cook  (m.\xa02018)']",Ryan Sweeting(m. 2013; div. 2016),Karl Cook  (m. 2018),None,None
+478,Naomi Watts,['(1968-09-28)'],"['Actress, film producer']",[],Never married,None,None,None
+479,Josh Hutcherson,['(1992-10-12)'],['Actor'],[],Never married,None,None,None
+480,Charlie Hunnam,['(1980-04-10)'],['Actor'],['Katharine Towne (m.\xa01999–2002)'],Katharine Towne (m. 1999–2002),None,None,None
+481,Nicholas Hoult,['(1989-12-07)'],['Actor'],[],Never married,None,None,None
+482,Aaron Taylor-Johnson,['(1990-06-13)'],['Actor'],['Sam Taylor-Wood (m.\xa02012)'],Sam Taylor-Wood (m. 2012),None,None,None
+483,Bryan Cranston,['(1956-03-07)'],"['Actor, filmmaker']","['Mickey Middleton(m.\xa01977; div.\xa01982)', 'Robin Dearden (m.\xa01989)']",Mickey Middleton(m. 1977; div. 1982),Robin Dearden (m. 1989),None,None
+484,Gerard Butler,['(1969-11-13)'],"['Actor, producer, singer, musician']",[],Never married,None,None,None
+485,Paul Walker,"['(1973-09-12)', '(2013-11-30)']",['Actor[1][2]'],[],Never married,None,None,None
+486,Karl Urban,['(1972-06-07)'],['Actor'],['Natalie Wihongi(m.\xa02004; sep.\xa02014)'],Natalie Wihongi(m. 2004; sep. 2014),None,None,None
+487,Logan Lerman,['(1992-01-19)'],['Actor'],[],Never married,None,None,None
+488,Dave Franco,['(1985-06-12)'],['Actor'],['Alison Brie (m.\xa02017)'],Alison Brie (m. 2017),None,None,None
+489,Tom Hiddleston,['(1981-02-09)'],"['Actor, producer, musician']",[],Never married,None,None,None
+490,Peter Dinklage,['(1969-06-11)'],"['Actor, film producer']",['Erica Schmidt (m.\xa02005)'],Erica Schmidt (m. 2005),None,None,None
+491,Taylor Kitsch,['(1981-04-08)'],"['Actor, model']",[],Never married,None,None,None
+492,Alex Pettyfer,['(1990-04-10)'],"['Actor, model']",[],Never married,None,None,None
+493,Guy Pearce,['(1967-10-05)'],"['Actor, musician']",['Kate Mestitz(m.\xa01997; div.\xa02015)'],Kate Mestitz(m. 1997; div. 2015),None,None,None
+494,Mark Ruffalo,['(1967-11-22)'],"['Actor, producer, political activist']",['Sunrise Coigney (m.\xa02000)'],Sunrise Coigney (m. 2000),None,None,None
+495,Mickey Rourke,['(1952-09-16)'],"['Actor, boxer, screenwriter, music supervisor']","['Debra Feuer (m.\xa01981–1989)', 'Carré Otis (m.\xa01992–1998)']",Debra Feuer (m. 1981–1989),Carré Otis (m. 1992–1998),None,None
+496,Frank Langella,['(1938-01-01)'],['Actor'],['Ruth Weil(m.\xa01977; div.\xa01996)'],Ruth Weil(m. 1977; div. 1996),None,None,None
+497,Eddie Redmayne,['(1982-01-06)'],['Actor'],['Hannah Bagshawe (m.\xa02014)'],Hannah Bagshawe (m. 2014),None,None,None
+498,David Strathairn,['(1949-01-26)'],['Actor'],['Logan Goodman (m.\xa01980)'],Logan Goodman (m. 1980),None,None,None
+499,Terrence Howard,['(1969-03-11)'],"['Actor, singer-songwriter, record producer']","['Lori McCommas(m.\xa01994; div.\xa02003)', 'Lori McCommas(m.\xa02005; div.\xa02007)', 'Michelle Ghent(m.\xa02010; div.\xa02013)', 'Mira Pak (m.\xa02013)']",Lori McCommas(m. 1994; div. 2003),Lori McCommas(m. 2005; div. 2007),Michelle Ghent(m. 2010; div. 2013),Mira Pak (m. 2013)
+500,Don Cheadle,['(1964-11-29)'],"['Actor, film producer, director, writer, author']",[],Never married,None,None,None
+501,Tom Wilkinson,['(1948-02-05)'],['Actor'],['Diana Hardcastle (m.\xa01998)'],Diana Hardcastle (m. 1998),None,None,None
+502,Richard Farnsworth,"['(1920-09-01)', '(2000-10-06)', '\ufeff / 34.145; -118.320', '\ufeff / 34.145; -118.320']","['Stuntman, actor']",['Margaret Hill(m.\xa01947; her death\xa01985)'],Margaret Hill(m. 1947; her death 1985),None,None,None
+503,Nick Nolte,['(1941-02-08)'],"['Actor, model']",[],Never married,None,None,None
+504,AnnaSophia Robb,['(1993-12-08)'],"['Actress, singer, model']",[],Never married,None,None,None
+505,Gemma Arterton,['(1986-02-02)'],['Actress'],['Stefano Catelli(m.\xa02010; div.\xa02015)'],Stefano Catelli(m. 2010; div. 2015),None,None,None
+506,Olivia Wilde,['(1984-03-10)'],['Actress\nmodel\nfilmmaker'],['Tao Ruspoli(m.\xa02003; div.\xa02011)'],Tao Ruspoli(m. 2003; div. 2011),None,None,None
+507,Isla Fisher,['(1976-02-03)'],"['Actress, author']",['Sacha Baron Cohen (m.\xa02010)'],Sacha Baron Cohen (m. 2010),None,None,None
+508,Shailene Woodley,['(1991-11-15)'],['Actressactivist'],[],Never married,None,None,None
+509,Rebel Wilson,['(1980-03-02)'],['Actresswriterproducersinger'],[],Never married,None,None,None
+510,Emma Roberts,['(1991-02-10)'],['Actresssinger'],[],Never married,None,None,None
+511,Amber Heard,['(1986-04-22)'],['Actress'],['Johnny Depp(m.\xa02015; div.\xa02017)'],Johnny Depp(m. 2015; div. 2017),None,None,None
+512,Teresa Palmer,['(1986-02-26)'],"['Actress, model, writer, producer']",['Mark Webber (m.\xa02013)'],Mark Webber (m. 2013),None,None,None
+513,Saoirse Ronan,['(1994-04-12)'],['Actress'],[],Never married,None,None,None
+514,Elizabeth Banks,['(1974-02-10)'],"['Actress, director, model, producer']",['Max Handelman (m.\xa02003)'],Max Handelman (m. 2003),None,None,None
+515,Ida Lupino,"['(1918-02-04)', '(1995-08-03)']","['Actress, singer, director, producer']","['Louis Hayward(m.\xa01938; div.\xa01945)', 'Collier Young(m.\xa01948; div.\xa01951)', 'Howard Duff(m.\xa01951; div.\xa01984)']",Louis Hayward(m. 1938; div. 1945),Collier Young(m. 1948; div. 1951),Howard Duff(m. 1951; div. 1984),None
+516,Natalie Dormer,['(1982-02-11)'],['Actress'],[],Never married,None,None,None
+517,Brittany Snow,['(1986-03-09)'],['ActressproducerDirectorsinger'],[],Never married,None,None,None
+518,Kate Mara,['(1983-02-27)'],"['Actress, fashion model']",['Jamie Bell (m.\xa02017)'],Jamie Bell (m. 2017),None,None,None
+519,Julianne Hough,['(1988-07-20)'],['Danceractresssinger'],['Brooks Laich (m.\xa02017)'],Brooks Laich (m. 2017),None,None,None
+520,Lily Collins,['(1989-03-18)'],"['Actress, model, writer']",[],Never married,None,None,None
+521,Cobie Smulders,['(1982-04-03)'],['Actress\nmodel'],['Taran Killam (m.\xa02012)'],Taran Killam (m. 2012),None,None,None
+522,Alice Eve,['(1982-02-06)'],['Actress'],['Alex Cowper-Smith(m.\xa02014; div.\xa02017)'],Alex Cowper-Smith(m. 2014; div. 2017),None,None,None
+523,Jamie Chung,['(1983-04-10)'],['Actress'],['Bryan Greenberg (m.\xa02015)'],Bryan Greenberg (m. 2015),None,None,None
+524,Noomi Rapace,['(1979-12-28)'],['Actress'],['Ola Rapace(m.\xa02001; div.\xa02011)'],Ola Rapace(m. 2001; div. 2011),None,None,None
+525,Blake Lively,['(1987-08-25)'],['Actress'],['Ryan Reynolds (m.\xa02012)'],Ryan Reynolds (m. 2012),None,None,None
+526,Maggie Grace,['(1983-09-21)'],"['Actress, model']",['Brent Bushnell (m.\xa02017)'],Brent Bushnell (m. 2017),None,None,None
+527,Jessica Biel,['(1982-03-03)'],"['Actress, model, producer, singer']",['Justin Timberlake (m.\xa02012)'],Justin Timberlake (m. 2012),None,None,None
+528,Eva Green,['(1980-07-06)'],['Actressmodel'],[],Never married,None,None,None
+529,Peter Fonda,['(1940-02-23)'],['Actor'],"['Susan Jane Brewer(m.\xa01961; div.\xa01974)', 'Portia Rebecca Crockett(m.\xa01975; div.\xa02011)', 'Margaret DeVogelaere (m.\xa02011)']",Susan Jane Brewer(m. 1961; div. 1974),Portia Rebecca Crockett(m. 1975; div. 2011),Margaret DeVogelaere (m. 2011),None
+530,Woody Harrelson,['(1961-07-23)'],"['Actor, playwright']","['Nancy Simon(m.\xa01985; div.\xa01986)', 'Laura Louie (m.\xa02008)']",Nancy Simon(m. 1985; div. 1986),Laura Louie (m. 2008),None,None
+531,Billy Bob Thornton,['(1955-08-04)'],"['Actor, filmmaker, singer, songwriter, musician']","['Melissa Lee Gatlin(m.\xa01978; div.\xa01980)', 'Toni Lawrence(m.\xa01986; div.\xa01988)', 'Cynda Williams(m.\xa01990; div.\xa01992)', 'Pietra Dawn Cherniak(m.\xa01993; div.\xa01997)', 'Angelina Jolie(m.\xa02000; div.\xa02003)', 'Connie Angland (m.\xa02014)']",Melissa Lee Gatlin(m. 1978; div. 1980),Toni Lawrence(m. 1986; div. 1988),Cynda Williams(m. 1990; div. 1992),Pietra Dawn Cherniak(m. 1993; div. 1997)
+532,Idris Elba,['(1972-09-06)'],"['Actor, producer, director, musician, DJ']",[],Never married,None,None,None
+533,Nigel Hawthorne,"['(1929-04-05)', '(2001-12-26)']",['Actor'],[],Never married,None,None,None
+534,Laurence Fishburne,['(1961-07-30)'],['Actor\nproducer\nplaywright\nscreenwriter\nfilm director'],"['Hajna O. Moss(m.\xa01985; div.\xa01990)', 'Gina Torres(m.\xa02002; separated\xa02017)']",Hajna O. Moss(m. 1985; div. 1990),Gina Torres(m. 2002; separated 2017),None,None
+535,Stephen Rea,['(1946-10-31)'],['Actor'],['Dolours Price(m.\xa01983; div.\xa02003)'],Dolours Price(m. 1983; div. 2003),None,None,None
+536,Warren Beatty,['(1937-03-30)'],"['Actor, director, producer, screenwriter']",['Annette Bening (m.\xa01992)'],Annette Bening (m. 1992),None,None,None
+537,Gérard Depardieu,['(1948-12-27)'],"['Actor, filmmaker, businessman, vineyard owner']",['Élisabeth Guignot (m.\xa01971–1996)'],Élisabeth Guignot (m. 1971–1996),None,None,None
+538,Richard Harris,"['(1930-10-01)', '(2002-10-25)']","['Actor, singer']","['Elizabeth Rees-Williams(m.\xa01957; div.\xa01969)', 'Ann Turkel(m.\xa01974; div.\xa01982)']",Elizabeth Rees-Williams(m. 1957; div. 1969),Ann Turkel(m. 1974; div. 1982),None,None
+539,Kenneth Branagh,['(1960-12-10)'],['ActorDirectorProducerScreenwriter'],"['Emma Thompson(m.\xa01989; div.\xa01995)', 'Lindsay Brunnock (m.\xa02003)']",Emma Thompson(m. 1989; div. 1995),Lindsay Brunnock (m. 2003),None,None
+540,Edward James Olmos,['(1947-02-24)'],['Actordirector'],"['Kaija Keel(m.\xa01971; div.\xa01992)', 'Lorraine Bracco(m.\xa01994; div.\xa02002)', 'Lymari Nadal (m.\xa02002)']",Kaija Keel(m. 1971; div. 1992),Lorraine Bracco(m. 1994; div. 2002),Lymari Nadal (m. 2002),None
+541,Max von Sydow,['(1929-04-10)'],['Actor'],"['Christina Olin(m.\xa01951; div.\xa01979)', 'Catherine Brelet (m.\xa01997)']",Christina Olin(m. 1951; div. 1979),Catherine Brelet (m. 1997),None,None
+542,Marcello Mastroianni,"['(1924-09-28)', '(1996-12-19)']",['Actor'],['Flora Carabella(m.\xa01950; his death\xa01996)'],Flora Carabella(m. 1950; his death 1996),None,None,None
+543,Bob Hoskins,"['(1942-10-26)', '(2014-04-29)']",['Actor'],"['Jane Livesey(m.\xa01967; div.\xa01978)', 'Linda Banwell(m.\xa01982; his death\xa02014)']",Jane Livesey(m. 1967; div. 1978),Linda Banwell(m. 1982; his death 2014),None,None
+544,James Woods,['(1947-04-18)'],"['Actor, producer']","['Kathryn Morrison(m.\xa01980; div.\xa01983)', 'Sarah Owen(m.\xa01989; div.\xa01990)']",Kathryn Morrison(m. 1980; div. 1983),Sarah Owen(m. 1989; div. 1990),None,None
+545,James Garner,"['(1928-04-07)', '(2014-07-19)']","['Actor, producer, voice artist']",['Lois Josephine Fleischman Clarke (m.\xa01956)'],Lois Josephine Fleischman Clarke (m. 1956),None,None,None
+546,Sam Waterston,['(1940-11-15)'],"['Actor, television producer, television director']","['Barbara Rutledge(m.\xa01964; div.\xa01975)', 'Lynn Louisa Woodruff (m.\xa01976)']",Barbara Rutledge(m. 1964; div. 1975),Lynn Louisa Woodruff (m. 1976),None,None
+547,Tom Hulce,['(1953-12-06)'],"['Actor, singer, producer']",[],Never married,None,None,None
+548,Albert Finney,['(1936-05-09)'],['Actor'],"['Jane Wenham(m.\xa01957; div.\xa01961)', 'Anouk Aimée(m.\xa01970; div.\xa01978)', 'Pene Delmage  (m.\xa02006)']",Jane Wenham(m. 1957; div. 1961),Anouk Aimée(m. 1970; div. 1978),Pene Delmage  (m. 2006),None
+549,Tom Conti,['(1941-11-22)'],"['Actor, theatre director, novelist']",['Kara Wilson (m.\xa01967)'],Kara Wilson (m. 1967),None,None,None
+550,Tom Courtenay,['(1937-02-25)'],['Actor'],"['Cheryl Kennedy(m.\xa01973; div.\xa01982)', 'Isabel Crossley (m.\xa01988)']",Cheryl Kennedy(m. 1973; div. 1982),Isabel Crossley (m. 1988),None,None
+551,Dudley Moore,"['(1935-04-19)', '(2002-03-27)']","['Actor, comedian, musician']","['Suzy Kendall(m.\xa01968; div.\xa01972)', 'Tuesday Weld(m.\xa01975; div.\xa01980)', 'Brogan Lane(m.\xa01988; div.\xa01991)', 'Nicole Rothschild(m.\xa01994; div.\xa01998)']",Suzy Kendall(m. 1968; div. 1972),Tuesday Weld(m. 1975; div. 1980),Brogan Lane(m. 1988; div. 1991),Nicole Rothschild(m. 1994; div. 1998)
+552,John Hurt,"['(1940-01-22)', '(2017-01-25)']",['Actor'],"['Annette Robertson(m.\xa01962; div.\xa01964)', 'Donna Peacock(m.\xa01984; div.\xa01990)', 'Joan Dalton(m.\xa01990; div.\xa01996)', 'Anwen Rees-Myers (m.\xa02005)']",Annette Robertson(m. 1962; div. 1964),Donna Peacock(m. 1984; div. 1990),Joan Dalton(m. 1990; div. 1996),Anwen Rees-Myers (m. 2005)
+553,Kat Dennings,['(1986-06-13)'],['Actress'],[],Never married,None,None,None
+554,Priyanka Chopra,['(1982-07-18)'],['Actress\nsinger\nfilm producer\nphilanthropist\nmodel'],['Nick Jonas (m.\xa02018)'],Nick Jonas (m. 2018),None,None,None
+555,Emmanuelle Riva,"['(1927-02-24)', '(2017-01-27)']","['Actress, poet, photographer, artist, chanteuse']",[],Never married,None,None,None
+556,Greta Gerwig,['(1983-08-04)'],['Actressplaywrightdirectorscreenwriter'],[],Never married,None,None,None
+557,Brie Larson,['(1989-10-01)'],['Actress\nfilmmaker'],[],Never married,None,None,None
+558,Jessica Lucas,['(1985-09-24)'],"['Actress, singer']",[],Never married,None,None,None
+559,Liv Ullmann,['(1938-12-16)'],"['Actress, director, screenwriter']","['Hans Jacob ""Jappe"" Stang (m.\xa01960–1965)', 'Donald Leslie Saunders (m.\xa01985)']","Hans Jacob ""Jappe"" Stang (m. 1960–1965)",Donald Leslie Saunders (m. 1985),None,None
+560,Setsuko Hara,"['(1920-06-17)', '(2015-09-05)']",['Actress'],[],Never married,None,None,None
+561,Rosalind Russell,"['(1907-06-04)', '(1976-11-28)']","['Actress, singer, comedian, screenwriter']",[],Never married,None,None,None
+562,Linda Fiorentino,['(1960-03-09)'],"['Actress, photographer']",[],Never married,None,None,None
+563,Gabourey Sidibe,['(1983-05-06)'],['Actress'],[],Never married,None,None,None
+564,Catherine Deneuve,['(1943-10-22)'],"['Actress, model, singer, film producer']",['David Bailey(m.\xa01965; div.\xa01972)'],David Bailey(m. 1965; div. 1972),None,None,None
+565,Mia Farrow,['(1945-02-09)'],"['Actress, activist, model']","['Frank Sinatra(m.\xa01966; div.\xa01968)', 'André Previn(m.\xa01970; div.\xa01979)']",Frank Sinatra(m. 1966; div. 1968),André Previn(m. 1970; div. 1979),None,None
+566,Audrey Tautou,['(1976-08-09)'],"['Actress, model']",[],Never married,None,None,None
+567,Jeanne Moreau,"['(1928-01-23)', '(2017-07-31)']","['Actress, screenwriter, film director']",[],Never married,None,None,None
+568,Isabelle Huppert,['(1953-03-16)'],['Actress'],[],Never married,None,None,None
+569,Gena Rowlands,['(1930-06-19)'],['Actress'],"['John Cassavetes(m.\xa01954; died\xa01989)', 'Robert Forrest  (m.\xa02012)']",John Cassavetes(m. 1954; died 1989),Robert Forrest  (m. 2012),None,None
+570,Lesley Manville,['(1956-03-12)'],['Actress'],"['Gary Oldman(m.\xa01987; div.\xa01990)', 'Joe Dixon(m.\xa02000; div.\xa02004)']",Gary Oldman(m. 1987; div. 1990),Joe Dixon(m. 2000; div. 2004),None,None
+571,Elizabeth Olsen,['(1989-02-16)'],['Actress'],[],Never married,None,None,None
+572,Nastassja Kinski,['(1961-01-24)'],"['Actress, model']",['Ibrahim Moussa (m.\xa01984–1992)'],Ibrahim Moussa (m. 1984–1992),None,None,None
+573,Mélanie Laurent,['(1983-02-21)'],['Actress\nsinger\nwriter\ndirector'],[],Never married,None,None,None
+574,Whitney Houston,"['(1963-08-09)', '(2012-02-11)']",['Singeractressfilm producermodel'],['Bobby Brown(m.\xa01992; div.\xa02007)'],Bobby Brown(m. 1992; div. 2007),None,None,None
+575,Felicity Huffman,['(1962-12-09)'],['Actress'],['William H. Macy (m.\xa01997)'],William H. Macy (m. 1997),None,None,None
+576,Imelda Staunton,['(1956-01-09)'],['Actress'],['Jim Carter (m.\xa01983)'],Jim Carter (m. 1983),None,None,None
+577,Oscar Isaac,['(1979-03-09)'],['Actor\nmusician'],['Elvira Lind (m.\xa02017)'],Elvira Lind (m. 2017),None,None,None
+578,Jon Heder,['(1977-10-26)'],"['Actor, producer']",['Kirsten Bales (m.\xa02002)'],Kirsten Bales (m. 2002),None,None,None
+579,Miles Teller,['(1987-02-20)'],['Actor'],[],Never married,None,None,None
+580,Daniel Brühl,['(1978-06-16)'],['Actor'],[],Never married,None,None,None
+581,James Gandolfini,"['(1961-09-18)', '(2013-06-19)']","['Actor, producer']","['Marcy Wudarski(m.\xa01999; div.\xa02002)', 'Deborah Lin (m.\xa02008–2013)']",Marcy Wudarski(m. 1999; div. 2002),Deborah Lin (m. 2008–2013),None,None
+582,Michael B. Jordan,['(1987-02-09)'],['Actor'],[],Never married,None,None,None
+583,Anthony Perkins,"['(1932-04-04)', '(1992-09-12)']",['Actor\nsinger'],['Berry Berenson (m.\xa01973)'],Berry Berenson (m. 1973),None,None,None
+584,David Thewlis,['(1963-03-20)'],['Actor\ndirector\nscreenwriter\nauthor'],['Sara Sugarman(m.\xa01992; div.\xa01994)'],Sara Sugarman(m. 1992; div. 1994),None,None,None
+585,Klaus Kinski,"['(1926-10-18)', '(1991-11-23)']",['Actor'],[],Never married,None,None,None
+586,Malcolm McDowell,['(1943-06-13)'],['Actor'],"['Margot Bennett(m.\xa01975; div.\xa01980)', 'Mary Steenburgen(m.\xa01980; div.\xa01990)', 'Kelley Kuhr (m.\xa01991)']",Margot Bennett(m. 1975; div. 1980),Mary Steenburgen(m. 1980; div. 1990),Kelley Kuhr (m. 1991),None
+587,Ray Winstone,['(1957-02-19)'],['Actor'],['Elaine McCausland (m.\xa01979)'],Elaine McCausland (m. 1979),None,None,None
+588,Jean-Paul Belmondo,['(1933-04-09)'],['Actor'],"['Élodie Constantin(m.\xa01952; div.\xa01968)', 'Natty Tardivel\xa0[fr](m.\xa02002; div.\xa02008)']",Élodie Constantin(m. 1952; div. 1968),Natty Tardivel [fr](m. 2002; div. 2008),None,None
+589,Andy Serkis,['(1964-04-20)'],"['Actor, film director, film producer']",['Lorraine Ashbourne (m.\xa02002)'],Lorraine Ashbourne (m. 2002),None,None,None
+590,Matthew Broderick,['(1962-03-21)'],['Actorsinger'],['Sarah Jessica Parker (m.\xa01997)'],Sarah Jessica Parker (m. 1997),None,None,None
+591,Dennis Hopper,"['(1936-05-17)', '(2010-05-29)']","['Actor, director, writer, film editor, photographer, artist']","['Brooke Hayward(m.\xa01961; div.\xa01969)', 'Michelle Phillips(m.\xa01970; div.\xa01970)', 'Daria Halprin(m.\xa01972; div.\xa01976)', 'Katherine LaNasa(m.\xa01989; div.\xa01992)', 'Victoria Duffy (m.\xa01996)']",Brooke Hayward(m. 1961; div. 1969),Michelle Phillips(m. 1970; div. 1970),Daria Halprin(m. 1972; div. 1976),Katherine LaNasa(m. 1989; div. 1992)
+592,Michael Rooker,['(1955-04-06)'],['Actor'],['Margot Rooker (m.\xa01979)'],Margot Rooker (m. 1979),None,None,None
+593,Vincent Gallo,['(1961-04-11)'],['Actor\nproducer\ncomposer\nfilm director\nscreenwriter\nmusician'],[],Never married,None,None,None
+594,Toshirô Mifune,"['(1920-04-01)', '(1997-12-24)']",['Actor'],['Sachiko Yoshimine(m.\xa01950; her death\xa01995)'],Sachiko Yoshimine(m. 1950; her death 1995),None,None,None
+595,Vincent Cassel,['(1966-11-23)'],['Actor\ndirector'],"['Monica Bellucci(m.\xa01999; div.\xa02013)', 'Tina Kunakey (m.\xa02018)']",Monica Bellucci(m. 1999; div. 2013),Tina Kunakey (m. 2018),None,None
+596,J.K. Simmons,['(1955-01-09)'],['Actorvoice actor'],['Michelle Schumacher (m.\xa01996)'],Michelle Schumacher (m. 1996),None,None,None
+597,Boris Karloff,"['(1887-11-23)', '(1969-02-02)']",['Actor'],"['Grace Harding(m.\xa01910; div.\xa01913)', 'Montana Laurena Williams(m.\xa01920; div.\xa01922)', 'Helene Vivian Soule(m.\xa01924; div.\xa01928)', 'Dorothy Stine(m.\xa01930; div.\xa01946)', 'Evelyn Hope Helmore(m.\xa01946; his death\xa01969)']",Grace Harding(m. 1910; div. 1913),Montana Laurena Williams(m. 1920; div. 1922),Helene Vivian Soule(m. 1924; div. 1928),Dorothy Stine(m. 1930; div. 1946)
+598,Peter Lorre,"['(1904-06-26)', '(1964-03-23)']",['Actor'],"['Celia Lovsky(m.\xa01934; div.\xa01945)', 'Kaaren Verne(m.\xa01945; div.\xa01950)', 'Anne Marie Brenning (m.\xa01953)']",Celia Lovsky(m. 1934; div. 1945),Kaaren Verne(m. 1945; div. 1950),Anne Marie Brenning (m. 1953),None
+599,Antonio Banderas,['(1960-08-10)'],"['Actor, producer, singer']","['Ana Leza(m.\xa01987; div.\xa01996)', 'Melanie Griffith(m.\xa01996; div.\xa02015)']",Ana Leza(m. 1987; div. 1996),Melanie Griffith(m. 1996; div. 2015),None,None
+600,Paddy Considine,['(1973-09-05)'],['Actor\nfilm director\nscreenwriter\nmusician'],['Shelley Insley (m.\xa01991)'],Shelley Insley (m. 1991),None,None,None
+601,Ryan Phillippe,['(1974-09-10)'],['Actor'],['Reese Witherspoon(m.\xa01999; div.\xa02007)'],Reese Witherspoon(m. 1999; div. 2007),None,None,None
+602,Kerry Washington,['(1977-01-31)'],['Actress'],['Nnamdi Asomugha (m.\xa02013)'],Nnamdi Asomugha (m. 2013),None,None,None
+603,Carrie-Anne Moss,['(1967-08-21)'],['Actress'],['Steven Roy (m.\xa01999)'],Steven Roy (m. 1999),None,None,None
+604,Janet Leigh,"['(1927-07-06)', '(2004-10-03)']",['Actresssingerdancerauthor'],"['John Carlisle(m.\xa01942; annulled\xa01942)', 'Stanley Reames(m.\xa01945; div.\xa01949)', 'Tony Curtis(m.\xa01951; div.\xa01962)', 'Robert Brandt (m.\xa01962)']",John Carlisle(m. 1942; annulled 1942),Stanley Reames(m. 1945; div. 1949),Tony Curtis(m. 1951; div. 1962),Robert Brandt (m. 1962)
+605,Catalina Sandino Moreno,['(1981-04-19)'],['Actress'],[],Never married,None,None,None
+606,Samantha Morton,['(1977-05-13)'],['Actressscreenwriterdirector'],[],Never married,None,None,None
+607,Keisha Castle-Hughes,['(1990-03-24)'],['Actress'],['Jonathan Morrison(m.\xa02013; div.\xa02016)'],Jonathan Morrison(m. 2013; div. 2016),None,None,None
+608,Salma Hayek,['(1966-09-02)'],"['Actress, producer, model']",['François-Henri Pinault (m.\xa02009)'],François-Henri Pinault (m. 2009),None,None,None
+609,Joan Allen,['(1956-08-20)'],['Actress'],['Peter Friedman(m.\xa01990; div.\xa02002)'],Peter Friedman(m. 1990; div. 2002),None,None,None
+610,Janet McTeer,['(1961-08-05)'],[],[],Never married,None,None,None
+611,Fernanda Montenegro,['(1929-10-16)'],['Actress'],['Fernando Torres(m.\xa01954; died\xa02008)'],Fernando Torres(m. 1954; died 2008),None,None,None
+612,Kristin Scott Thomas,['(1960-05-24)'],['Actress'],['François Olivennes(m.\xa01987; div.\xa02005)'],François Olivennes(m. 1987; div. 2005),None,None,None
+613,Brenda Blethyn,['(1946-02-20)'],['Actress'],"['Alan Blethyn(m.\xa01964; div.\xa01973)', 'Michael Mayhew (m.\xa02010)']",Alan Blethyn(m. 1964; div. 1973),Michael Mayhew (m. 2010),None,None
+614,Elisabeth Shue,['(1963-10-06)'],['Actress'],['Davis Guggenheim (m.\xa01994)'],Davis Guggenheim (m. 1994),None,None,None
+615,Miranda Richardson,['(1958-03-03)'],['Actress'],[],Never married,None,None,None
+616,Stockard Channing,['(1944-02-13)'],['Actress'],"['Walter Channing(m.\xa01963; div.\xa01967)', 'Paul Schmidt(m.\xa01970; div.\xa01976)', 'David Debin(m.\xa01976; div.\xa01980)', 'David Rawle(m.\xa01980; div.\xa01988)']",Walter Channing(m. 1963; div. 1967),Paul Schmidt(m. 1970; div. 1976),David Debin(m. 1976; div. 1980),David Rawle(m. 1980; div. 1988)
+617,Angela Bassett,['(1958-08-16)'],['Actress'],['Courtney B. Vance (m.\xa01997)'],Courtney B. Vance (m. 1997),None,None,None
+618,Mary McDonnell,['(1952-04-28)'],['Actress'],['Randle Mell (m.\xa01984)'],Randle Mell (m. 1984),None,None,None
+619,Lucille Ball,"['(1911-08-06)', '(1989-04-26)']","['Actress, comedian, model, film studio executive, TV producer']","['Desi Arnaz(m.\xa01940; div.\xa01960)', 'Gary Morton(m.\xa01961; her death\xa01989)']",Desi Arnaz(m. 1940; div. 1960),Gary Morton(m. 1961; her death 1989),None,None
+620,Laura Dern,['(1967-02-10)'],"['Actress, activist, director, producer']",['Ben Harper(m.\xa02005; div.\xa02013)'],Ben Harper(m. 2005; div. 2013),None,None,None
+621,Pauline Collins,['(1940-09-03)'],['Actress'],['John Alderton (m.\xa01969)'],John Alderton (m. 1969),None,None,None
+622,Isabelle Adjani,['(1955-06-27)'],"['Actress, singer']",[],Never married,None,None,None
+623,Melanie Griffith,['(1957-08-09)'],['Actress'],"['Don Johnson(m.\xa01976; div.\xa01976)', 'Steven Bauer(m.\xa01981; div.\xa01989)', 'Antonio Banderas(m.\xa01996; div.\xa02015)']",Don Johnson(m. 1976; div. 1976),Steven Bauer(m. 1981; div. 1989),Antonio Banderas(m. 1996; div. 2015),None
+624,Sally Kirkland,['(1941-10-31)'],['Actress'],[],Never married,None,None,None
+625,Marsha Mason,['(1942-04-03)'],"['Actress, director']","['Gary Campbell(m.\xa01965; div.\xa01970)', 'Neil Simon(m.\xa01973; div.\xa01983)']",Gary Campbell(m. 1965; div. 1970),Neil Simon(m. 1973; div. 1983),None,None
+626,Freddie Highmore,['(1992-02-14)'],['Actor'],[],Never married,None,None,None
+627,Michael J. Fox,['(1961-06-09)'],"['Actor, author, producer']",['Tracy Pollan (m.\xa01988)'],Tracy Pollan (m. 1988),None,None,None
+628,Seth MacFarlane,['(1973-10-26)'],['Actor\nanimator\nfilmmaker\nsinger'],[],Never married,None,None,None
+629,Jet Li,['(1963-04-26)'],['Actormartial artistdirectorfilm producerauthor'],"['Huang Qiuyan(m.\xa01987; div.\xa01990)', 'Nina Li Chi (m.\xa01999)']",Huang Qiuyan(m. 1987; div. 1990),Nina Li Chi (m. 1999),None,None
+630,Chuck Norris,['(1940-03-10)'],"['Actor, martial artist, film producer, screenwriter, air policeman (U.S. Air Force)']","['Dianne Holechek(m.\xa01958; div.\xa01989)', ""Gena O'Kelley (m.\xa01998)""]",Dianne Holechek(m. 1958; div. 1989),Gena O'Kelley (m. 1998),None,None
+631,Sam Rockwell,['(1968-11-05)'],['Actor'],[],Never married,None,None,None
+632,Takashi Shimura,"['(1905-03-12)', '(1982-02-11)']",['Actor'],[],Never married,None,None,None
+633,Richard E. Grant,['(1957-05-05)'],['Actor'],['Joan Washington (m.\xa01986)'],Joan Washington (m. 1986),None,None,None
+634,Leslie Nielsen,"['(1926-02-11)', '(2010-11-28)']","['Actor, comedian, producer']","['Monica Boyar(m.\xa01950; div.\xa01956)', 'Alisande Ullman(m.\xa01958; div.\xa01973)', 'Brooks Oliver(m.\xa01981; div.\xa01983)', 'Barbaree Earl (m.\xa02001)']",Monica Boyar(m. 1950; div. 1956),Alisande Ullman(m. 1958; div. 1973),Brooks Oliver(m. 1981; div. 1983),Barbaree Earl (m. 2001)
+635,Simon Pegg,['(1970-02-14)'],"['Actor, comedian, screenwriter, producer']",['Maureen McCann (m.\xa02005)'],Maureen McCann (m. 2005),None,None,None
+636,John Malkovich,['(1953-12-09)'],['Actor\ndirector\nproducer\nfashion designer'],['Glenne Headly(m.\xa01982; div.\xa01988)'],Glenne Headly(m. 1982; div. 1988),None,None,None
+637,Michael Shannon,['(1974-08-07)'],['Actor\nmusician'],[],Never married,None,None,None
+638,Martin Sheen,['(1940-08-03)'],['Actor\nactivist'],['Janet Templeton (m.\xa01961)'],Janet Templeton (m. 1961),None,None,None
+639,Alan Rickman,"['(1946-02-21)', '(2016-01-14)']","['Actor, director']",['Rima Horton (m.\xa02012)'],Rima Horton (m. 2012),None,None,None
+640,Jackie Earle Haley,['(1961-07-14)'],"['Actor,Comedian']",[],Never married,None,None,None
+641,Montgomery Clift,"['(1920-10-17)', '(1966-07-23)']",['Actor'],[],Never married,None,None,None
+642,James Spader,['(1960-02-07)'],['Actor'],['Victoria Kheel(m.\xa01987; div.\xa02004)'],Victoria Kheel(m. 1987; div. 2004),None,None,None
+643,Eric Bana,['(1968-08-09)'],['Actorcomedian'],['Rebecca Gleeson (m.\xa01997)'],Rebecca Gleeson (m. 1997),None,None,None
+644,Romain Duris,['(1974-05-28)'],['Actor'],[],Never married,None,None,None
+645,Jacki Weaver,['(1947-05-25)'],['Actress'],"['David Price(m.\xa01966; div.\xa01970)', 'Max Hensser(m.\xa01975; div.\xa01977)', 'Derryn Hinch(m.\xa01983; div.\xa01996)', 'Derryn Hinch(m.\xa01997; div.\xa01998)', 'Sean Taylor (m.\xa02003)']",David Price(m. 1966; div. 1970),Max Hensser(m. 1975; div. 1977),Derryn Hinch(m. 1983; div. 1996),Derryn Hinch(m. 1997; div. 1998)
+646,Bérénice Bejo,['(1976-07-07)'],[],[],Never married,None,None,None
+647,Hailee Steinfeld,['(1996-12-11)'],['Actresssinger'],[],Never married,None,None,None
+648,Jennifer Jason Leigh,['(1962-02-05)'],['Actress'],['Noah Baumbach(m.\xa02005; div.\xa02013)'],Noah Baumbach(m. 2005; div. 2013),None,None,None
+649,Kathleen Quinlan,['(1954-11-19)'],['Actress'],['Bruce Abbott (m.\xa01994)'],Bruce Abbott (m. 1994),None,None,None
+650,Taraji P. Henson,['(1970-09-11)'],['Actress\nauthor'],[],Never married,None,None,None
+651,Amy Ryan,['(1969-11-30)'],['Actress'],['Eric Slovin (m.\xa02011)'],Eric Slovin (m. 2011),None,None,None
+652,Ruby Dee,"['(1922-10-27)', '(2014-06-11)']","['Actress, poet, playwright, screenwriter, journalist, activist']",['Ossie Davis(m.\xa01948; died\xa02005)'],Ossie Davis(m. 1948; died 2005),None,None,None
+653,Jill Clayburgh,"['(1944-04-30)', '(2010-11-05)']",['Actress'],['David Rabe(m.\xa01979; her death\xa02010)'],David Rabe(m. 1979; her death 2010),None,None,None
+654,Adriana Barraza,['(1956-03-05)'],"['Actress, acting teacher, director']","['Carlos Valsagna(m.\xa01978; div.\xa01985)', 'Arnaldo Pipke (m.\xa02005)']",Carlos Valsagna(m. 1978; div. 1985),Arnaldo Pipke (m. 2005),None,None
+655,Rinko Kikuchi,['(1981-01-06)'],['Actress'],['Shōta Sometani (m.\xa02014)'],Shōta Sometani (m. 2014),None,None,None
+656,Catherine Keener,['(1959-03-23)'],['Actress'],['Dermot Mulroney(m.\xa01990; div.\xa02007)'],Dermot Mulroney(m. 1990; div. 2007),None,None,None
+657,Charlotte Rampling,['(1946-02-05)'],"['Actress, model, singer']","['Bryan Southcombe(m.\xa01972; div.\xa01976)', 'Jean-Michel Jarre(m.\xa01978; div.\xa01998)']",Bryan Southcombe(m. 1972; div. 1976),Jean-Michel Jarre(m. 1978; div. 1998),None,None
+658,Sophie Okonedo,['(1968-08-11)'],"['Actress, singer']",[],Never married,None,None,None
+659,Patricia Clarkson,['(1959-12-29)'],['Actress'],[],Never married,None,None,None
+660,Shohreh Aghdashloo,['(1952-05-11)'],['Actress'],"['Aydin Aghdashloo(m.\xa01972; div.\xa01979)', 'Houshang Touzie (m.\xa01987)']",Aydin Aghdashloo(m. 1972; div. 1979),Houshang Touzie (m. 1987),None,None
+661,Lindsay Lohan,['(1986-07-02)'],['Actress\nsinger\nfashion designer'],[],Never married,None,None,None
+662,Michelle Trachtenberg,['(1985-10-11)'],['Actress'],[],Never married,None,None,None
+663,Chloë Sevigny,['(1974-11-18)'],['Actressmodelfashion designer'],[],Never married,None,None,None
+664,Lynn Redgrave,"['(1943-03-08)', '(2010-05-02)']",['Actress'],['John Clark(m.\xa01967; div.\xa02000)'],John Clark(m. 1967; div. 2000),None,None,None
+665,Rachel Griffiths,['(1968-12-18)'],"['Actress, director']",['Andrew Taylor (m.\xa02002)'],Andrew Taylor (m. 2002),None,None,None
+666,Margot Robbie,['(1990-07-02)'],"['Actress, film producer']",['Tom Ackerley (m.\xa02016)'],Tom Ackerley (m. 2016),None,None,None
+667,Lili Taylor,['(1967-02-20)'],['Actress'],['Nick Flynn (m.\xa02009)'],Nick Flynn (m. 2009),None,None,None
+668,Robin Weigert,['(1969-07-07)'],['Actress'],[],Never married,None,None,None
+669,Lake Bell,['(1979-03-24)'],"['Actress, director, screenwriter']",['Scott Campbell (m.\xa02013)'],Scott Campbell (m. 2013),None,None,None
+670,Claude Rains,"['(1889-11-10)', '(1967-05-30)']",['Actor'],"['Isabel Jeans(m.\xa01913; div.\xa01915)', 'Marie Hemingway(m.\xa01920; div.\xa01920)', 'Beatriz Thomas(m.\xa01924; div.\xa01935)', 'Frances Propper(m.\xa01935; div.\xa01956)', 'Agi Jambor(m.\xa01959; div.\xa01960)', 'Rosemary Clark Schrode(m.\xa01960; died\xa01964)']",Isabel Jeans(m. 1913; div. 1915),Marie Hemingway(m. 1920; div. 1920),Beatriz Thomas(m. 1924; div. 1935),Frances Propper(m. 1935; div. 1956)
+671,Steve Buscemi,['(1957-12-13)'],['Actor\ndirector'],['Jo Andres (m.\xa01987)'],Jo Andres (m. 1987),None,None,None
+672,John Rhys-Davies,['(1944-05-05)'],"['Actor, voice actor, producer']",['Suzanne Wilkinson(m.\xa01966; died\xa02010)'],Suzanne Wilkinson(m. 1966; died 2010),None,None,None
+673,Jean-Louis Trintignant,['(1930-12-11)'],['Actor'],[],Never married,None,None,None
+674,Joseph Cotten,"['(1905-05-15)', '(1994-02-06)']",['Actor'],[],Never married,None,None,None
+675,Barry Pepper,['(1970-04-04)'],['Actor'],['Cindy Pepper (m.\xa01997)'],Cindy Pepper (m. 1997),None,None,None
+676,Erich von Stroheim,"['(1885-09-22)', '(1957-05-12)']","['Actor, director, screenwriter, producer']",[],Never married,None,None,None
+677,Christopher Lloyd,['(1938-10-22)'],"['Actor, voice actor, comedian']","['Catherine Boyd(m.\xa01959; div.\xa01971)', 'Kay Tornborg(m.\xa01974; div.\xa01987)', 'Carol Ann Vanek(m.\xa01988; div.\xa01991)', 'Jane Walker Wood(m.\xa01992; div.\xa02005)', 'Lisa Loiacono (m.\xa02016)']",Catherine Boyd(m. 1959; div. 1971),Kay Tornborg(m. 1974; div. 1987),Carol Ann Vanek(m. 1988; div. 1991),Jane Walker Wood(m. 1992; div. 2005)
+678,Ben Foster,['(1980-10-29)'],['Actor'],['Laura Prepon (m.\xa02018)'],Laura Prepon (m. 2018),None,None,None
+679,Joel McCrea,"['(1905-11-05)', '(1990-10-20)']",[],['Frances Dee(m.\xa01933; his death\xa01990)'],Frances Dee(m. 1933; his death 1990),None,None,None
+680,Min-sik Choi,['(1962-05-30)'],['Actor'],[],Never married,None,None,None
+681,Ewan McGregor,['(1971-03-31)'],['Actor'],['Eve Mavrakis(m.\xa01995; sep.\xa02017)'],Eve Mavrakis(m. 1995; sep. 2017),None,None,None
+682,Gael García Bernal,['(1978-11-30)'],"['Actor, film director, model, film producer']",[],Never married,None,None,None
+683,Bruno Ganz,['(1941-03-22)'],['Actor'],[],Never married,None,None,None
+684,Sean Astin,['(1971-02-25)'],"['Actor, voice actor, director, producer']",['Christine Harrell (m.\xa01992)'],Christine Harrell (m. 1992),None,None,None
+685,Irrfan Khan,['(1967-01-07)'],"['Film actor, producer']",['Sutapa Sikdar (m.\xa01995)'],Sutapa Sikdar (m. 1995),None,None,None
+686,Michael C. Hall,['(1971-02-01)'],['Actor'],"['Amy Spanger(m.\xa02002; div.\xa02007)', 'Jennifer Carpenter(m.\xa02008; div.\xa02011)', 'Morgan Macgregor (m.\xa02016)']",Amy Spanger(m. 2002; div. 2007),Jennifer Carpenter(m. 2008; div. 2011),Morgan Macgregor (m. 2016),None
+687,Roy Scheider,"['(1932-11-10)', '(2008-02-10)']","['Actor, boxer']","['Cynthia Bebout(m.\xa01962; div.\xa01986)', 'Brenda King (m.\xa01989)']",Cynthia Bebout(m. 1962; div. 1986),Brenda King (m. 1989),None,None
+688,Casey Affleck,['(1975-08-12)'],['Actor\nDirector'],['Summer Phoenix(m.\xa02006; div.\xa02017)'],Summer Phoenix(m. 2006; div. 2017),None,None,None
+689,Gary Busey,['(1944-06-29)'],['Actor'],"['Judy Helkenberg(m.\xa01968; div.\xa01990)', 'Tiani Warden(m.\xa01996; div.\xa02001)']",Judy Helkenberg(m. 1968; div. 1990),Tiani Warden(m. 1996; div. 2001),None,None
+690,Norman Reedus,['(1969-01-06)'],"['Actor, model, photographer, director']",[],Never married,None,None,None
+691,Jeff Daniels,['(1955-02-19)'],['Actor\nmusician\nplaywright'],['Kathleen Rosemary Treado (m.\xa01979)'],Kathleen Rosemary Treado (m. 1979),None,None,None
+692,Stanley Tucci,['(1960-11-11)'],"['Actor, writer, producer, director']","['Kathryn Spath-Tucci(m.\xa01995; died\xa02009)', 'Felicity Blunt (m.\xa02012)']",Kathryn Spath-Tucci(m. 1995; died 2009),Felicity Blunt (m. 2012),None,None
+693,Kiefer Sutherland,['(1966-12-21)'],['Actor\nfilm director\nfilm producer\nsinger-songwriter'],"['Camelia Kath (m.\xa01987–1990)', 'Elizabeth Kelly Winn (m.\xa01996–2004)']",Camelia Kath (m. 1987–1990),Elizabeth Kelly Winn (m. 1996–2004),None,None
+694,Léa Seydoux,['(1985-07-01)'],['Actress'],[],Never married,None,None,None
+695,Dakota Johnson,['(1989-10-04)'],['ActressModel'],[],Never married,None,None,None
+696,Julie Delpy,['(1969-12-21)'],['Actress'],[],Never married,None,None,None
+697,Linda Hamilton,['(1956-09-26)'],['Actress'],"['Bruce Abbott(m.\xa01982; div.\xa01989)', 'James Cameron(m.\xa01997; div.\xa01999)']",Bruce Abbott(m. 1982; div. 1989),James Cameron(m. 1997; div. 1999),None,None
+698,Carrie Fisher,"['(1956-10-21)', '(2016-12-27)']",['Actress\nwriter\ncomedian\nactivist'],['Paul Simon(m.\xa01983; div.\xa01984)'],Paul Simon(m. 1983; div. 1984),None,None,None
+699,Pam Grier,['(1949-05-26)'],['Actress'],[],Never married,None,None,None
+700,Björk,['(1965-11-21)'],['Singer\nsongwriter\nactress\nrecord producer\nDJ'],['Þór Eldon (m.\xa01986–1987)'],Þór Eldon (m. 1986–1987),None,None,None
+701,Emily Browning,['(1988-12-07)'],"['Actress, singer']",[],Never married,None,None,None
+702,Juliette Lewis,['(1973-06-21)'],['Actress\nsinger'],['Steve Berra(m.\xa01999; div.\xa02003)'],Steve Berra(m. 1999; div. 2003),None,None,None
+703,Sarah Jessica Parker,['(1965-03-25)'],"['Actress, producer, designer']",['Matthew Broderick (m.\xa01997)'],Matthew Broderick (m. 1997),None,None,None
+704,Piper Laurie,['(1932-01-22)'],['Actress'],['Joe Morgenstern(m.\xa01962; div.\xa01982)'],Joe Morgenstern(m. 1962; div. 1982),None,None,None
+705,Miley Cyrus,['(1992-11-23)'],['Singer\nsongwriter\nactress'],[],Never married,None,None,None
+706,Anna Friel,['(1976-07-12)'],['Actress'],[],Never married,None,None,None
+707,Gloria Stuart,"['(1910-07-04)', '(2010-09-26)']","['Actress, artist, fine printer']","['Blair Gordon Newell(m.\xa01930; div.\xa01934)', 'Arthur Sheekman(m.\xa01934; died\xa01978)']",Blair Gordon Newell(m. 1930; div. 1934),Arthur Sheekman(m. 1934; died 1978),None,None
+708,Talia Shire,['(1946-04-25)'],['Actress'],"['David Shire(m.\xa01970; div.\xa01980)', 'Jack Schwartzman(m.\xa01980; died\xa01994)']",David Shire(m. 1970; div. 1980),Jack Schwartzman(m. 1980; died 1994),None,None
+709,Gal Gadot,['(1985-04-30)'],['Actressmodelproducer'],['Yaron Varsano (m.\xa02008)'],Yaron Varsano (m. 2008),None,None,None
+710,Sue Lyon,['(1946-07-10)'],['Actress'],"['Hampton Fancher(m.\xa01963; div.\xa01965)', 'Roland Harrison(m.\xa01971; div.\xa01972)', 'Cotton Adamson(m.\xa01973; div.\xa01974)', 'Edward Weathers(m.\xa01983; div.\xa01984)', 'Richard Rudman(m.\xa01985; div.\xa02002)']",Hampton Fancher(m. 1963; div. 1965),Roland Harrison(m. 1971; div. 1972),Cotton Adamson(m. 1973; div. 1974),Edward Weathers(m. 1983; div. 1984)
+711,Olivia Newton-John,['(1948-09-26)'],"['Singer, songwriter, actress, entrepreneur, activist']","['Matt Lattanzi(m.\xa01984; div.\xa01995)', 'John Easterling (m.\xa02008)']",Matt Lattanzi(m. 1984; div. 1995),John Easterling (m. 2008),None,None
+712,Minnie Driver,['(1970-01-31)'],"['Actress, singer-songwriter']",[],Never married,None,None,None
+713,Teri Garr,[],['Actressdancer'],"[""John O'Neil(m.\xa01993; div.\xa01996)""]",John O'Neil(m. 1993; div. 1996),None,None,None
+714,Keri Russell,['(1976-03-23)'],"['Actress, dancer']",['Shane Deary(m.\xa02007; separated\xa02013)'],Shane Deary(m. 2007; separated 2013),None,None,None
+715,Jean Seberg,"['(1938-11-13)', '(1979-08-30)']",['Actress'],"['François Moreuil (m.\xa01958–1960)', 'Romain Gary (m.\xa01962–1970)', 'Dennis Charles Berry (m.\xa01972–1979)']",François Moreuil (m. 1958–1960),Romain Gary (m. 1962–1970),Dennis Charles Berry (m. 1972–1979),None
+716,Sarah Polley,['(1979-01-08)'],"['Actress, writer, director, political activist']","['David Wharnsby(m.\xa02003; div.\xa02008)', 'David Sandomierski (m.\xa02011)']",David Wharnsby(m. 2003; div. 2008),David Sandomierski (m. 2011),None,None
+717,Kate Capshaw,['(1953-11-03)'],['Actress'],"['Robert Capshaw(m.\xa01976; div.\xa01980)', 'Steven Spielberg (m.\xa01991)']",Robert Capshaw(m. 1976; div. 1980),Steven Spielberg (m. 1991),None,None
+718,Josh Brolin,['(1968-02-12)'],['Actor'],"['Alice Adair(m.\xa01988; div.\xa01994)', 'Diane Lane(m.\xa02004; div.\xa02013)', 'Kathryn Boyd (m.\xa02016)']",Alice Adair(m. 1988; div. 1994),Diane Lane(m. 2004; div. 2013),Kathryn Boyd (m. 2016),None
+719,Hal Holbrook,['(1925-02-17)'],"['Actor, director, writer']","['Ruby Elaine Johnston(m.\xa01945; div.\xa01965)', 'Carol Eve Rossen(m.\xa01966; div.\xa01979)', 'Dixie Carter(m.\xa01984; died\xa02010)']",Ruby Elaine Johnston(m. 1945; div. 1965),Carol Eve Rossen(m. 1966; div. 1979),Dixie Carter(m. 1984; died 2010),None
+720,Djimon Hounsou,['(1964-04-24)'],"['Actor, model']",[],Never married,None,None,None
+721,Matt Dillon,['(1964-02-18)'],"['Actor, director']",[],Never married,None,None,None
+722,Alan Alda,['(1936-01-28)'],"['Actor, author, activist, director, screenwriter, comedian']",['Arlene Alda (m.\xa01957)'],Arlene Alda (m. 1957),None,None,None
+723,Thomas Haden Church,['(1960-06-17)'],"['Actor, director, writer']",[],Never married,None,None,None
+724,Clive Owen,['(1964-10-03)'],['Actor'],['Sarah-Jane Fenton (m.\xa01995)'],Sarah-Jane Fenton (m. 1995),None,None,None
+725,Ken Watanabe,['(1959-10-21)'],['Actor'],"['Yumiko Watanabe(m.\xa01983; div.\xa02005)', 'Kaho Minami(m.\xa02005; div.\xa02018)']",Yumiko Watanabe(m. 1983; div. 2005),Kaho Minami(m. 2005; div. 2018),None,None
+726,Suraj Sharma,['(1993-03-21)'],['Actor'],[],Never married,None,None,None
+727,John C. Reilly,['(1965-05-24)'],"['Actor, comedian, singer, screenwriter, producer']",['Alison Dickey (m.\xa01992)'],Alison Dickey (m. 1992),None,None,None
+728,Michael Clarke Duncan,"['(1957-12-10)', '(2012-09-03)']",['Actor'],[],Never married,None,None,None
+729,Haley Joel Osment,['(1988-04-10)'],['Actor'],[],Never married,None,None,None
+730,Greg Kinnear,['(1963-06-17)'],"['Actor, television personality']",['Helen Labdon (m.\xa01999)'],Helen Labdon (m. 1999),None,None,None
+731,Burt Reynolds,"['(1936-02-11)', '(2018-09-06)']","['Actor, director, producer']","['Judy Carne(m.\xa01963; div.\xa01965)', 'Loni Anderson(m.\xa01988; div.\xa01993)']",Judy Carne(m. 1963; div. 1965),Loni Anderson(m. 1988; div. 1993),None,None
+732,Robert Forster,['(1941-07-13)'],['Actor'],"['June Provenzano(m.\xa01966; div.\xa01975)', 'Zivia Forster(m.\xa01978; div.\xa01980)']",June Provenzano(m. 1966; div. 1975),Zivia Forster(m. 1978; div. 1980),None,None
+733,Jason Schwartzman,['(1980-06-26)'],"['Actor, screenwriter, musician']",['Brady Cunningham (m.\xa02009)'],Brady Cunningham (m. 2009),None,None,None
+734,William H. Macy,['(1950-03-13)'],['Actor'],['Felicity Huffman (m.\xa01997)'],Felicity Huffman (m. 1997),None,None,None
+735,Armin Mueller-Stahl,['(1930-12-17)'],"['Actor, writer']",['Gabriele Scholz  (m.\xa01973)'],Gabriele Scholz  (m. 1973),None,None,None
+736,Tim Roth,['(1961-05-14)'],"['Actor, film director']",['Niki Butler (m.\xa01993)'],Niki Butler (m. 1993),None,None,None
+737,James Cromwell,['(1940-01-27)'],['Actor'],"['Anne Ulvestad(m.\xa01976; div.\xa01986)', 'Julie Cobb(m.\xa01986; div.\xa02005)', 'Anna Stuart (m.\xa02014)']",Anne Ulvestad(m. 1976; div. 1986),Julie Cobb(m. 1986; div. 2005),Anna Stuart (m. 2014),None
+738,Chazz Palminteri,['(1952-05-15)'],"['Actor, screenwriter, film producer, playwright']",['Gianna Ranaudo (m.\xa01992)'],Gianna Ranaudo (m. 1992),None,None,None
+739,Gary Sinise,"['(1955-03-17)', '(1973)']","['Actor, director, musician']",['Moira Harris (m.\xa01981)'],Moira Harris (m. 1981),None,None,None
+740,Paul Scofield,"['(1922-01-21)', '(2008-03-19)']",['Actor'],[],Never married,None,None,None
+741,Pete Postlethwaite,"['(1946-02-07)', '(2011-01-02)']",['Actor'],['Jacqueline Morrish(m.\xa02003; his death\xa02011)'],Jacqueline Morrish(m. 2003; his death 2011),None,None,None
+742,Mads Mikkelsen,['(1965-11-22)'],['Actor'],['Hanne Jacobsen (m.\xa02000)'],Hanne Jacobsen (m. 2000),None,None,None
+743,Jada Pinkett Smith,['(1971-09-18)'],"['Actress, Singer-Songwriter, Businesswoman']",['Will Smith (m.\xa01997)'],Will Smith (m. 1997),None,None,None
+744,Tatum O'Neal,['(1963-11-05)'],"['Actress, author']",['John McEnroe(m.\xa01986; div.\xa01994)'],John McEnroe(m. 1986; div. 1994),None,None,None
+745,Anna Faris,['(1976-11-29)'],"['Actress, producer, comedian, author, podcaster']","['Ben Indra(m.\xa02004; div.\xa02008)', 'Chris Pratt(m.\xa02009; div.\xa02018)']",Ben Indra(m. 2004; div. 2008),Chris Pratt(m. 2009; div. 2018),None,None
+746,Ashley Greene,['(1987-02-21)'],['Actress'],[],Never married,None,None,None
+747,Famke Janssen,[],"['Actress, director']",['Kip Williams (m.\xa01995–2000)'],Kip Williams (m. 1995–2000),None,None,None
+748,Rosamund Pike,['(1979-01-27)'],['Actress'],[],Never married,None,None,None
+749,Leslie Mann,['(1972-03-26)'],['Actresscomedian'],['Judd Apatow (m.\xa01997)'],Judd Apatow (m. 1997),None,None,None
+750,Mindy Kaling,['(1979-06-24)'],"['Actress, comedian, writer']",[],Never married,None,None,None
+751,Analeigh Tipton,['(1988-11-09)'],"['Actress, model']",[],Never married,None,None,None
+752,Thandie Newton,['(1972-11-06)'],['Actress'],['Ol Parker (m.\xa01998)'],Ol Parker (m. 1998),None,None,None
+753,Amanda Peet,['(1972-01-11)'],['Actress'],['David Benioff (m.\xa02006)'],David Benioff (m. 2006),None,None,None
+754,Julia Stiles,['(1981-03-28)'],['Actress'],['Preston J. Cook (m.\xa02017)'],Preston J. Cook (m. 2017),None,None,None
+755,Maria Bello,[],['Actressproducerwriter'],[],Never married,None,None,None
+756,Eva Mendes,['(1974-03-05)'],"['Actress, model, businesswoman']",[],Never married,None,None,None
+757,Emily Blunt,['(1983-02-23)'],['Actress'],['John Krasinski (m.\xa02010)'],John Krasinski (m. 2010),None,None,None
+758,Rose Byrne,['(1979-07-24)'],['Actress'],[],Never married,None,None,None
+759,Ashley Judd,['(1968-04-19)'],['Actress\nactivist'],['Dario Franchitti(m.\xa02001; div.\xa02013)'],Dario Franchitti(m. 2001; div. 2013),None,None,None
+760,Emilia Clarke,['(1986-10-23)'],['Actress'],[],Never married,None,None,None
+761,Christina Applegate,['(1971-11-25)'],['Actress'],"['Johnathon Schaech(m.\xa02001; div.\xa02007)', 'Martyn LeNoble (m.\xa02013)']",Johnathon Schaech(m. 2001; div. 2007),Martyn LeNoble (m. 2013),None,None
+762,Nia Long,['(1970-10-30)'],['Actress'],[],Never married,None,None,None
+763,Felicity Jones,['(1983-10-17)'],['Actress'],['Charles Guard (m.\xa02018)'],Charles Guard (m. 2018),None,None,None
+764,Téa Leoni,['(1966-02-25)'],['Actress'],"['Neil Joseph Tardio Jr.(m.\xa01991; div.\xa01995)', 'David Duchovny(m.\xa01997; div.\xa02014)']",Neil Joseph Tardio Jr.(m. 1991; div. 1995),David Duchovny(m. 1997; div. 2014),None,None
+765,Alexandra Daddario,['(1986-03-16)'],['Actress'],[],Never married,None,None,None
+766,Jena Malone,['(1984-11-21)'],['Actress\nmusician\nphotographer'],[],Never married,None,None,None
+767,Richard Gere,['(1949-08-31)'],['Actor'],"['Cindy Crawford(m.\xa01991; div.\xa01995)', 'Carey Lowell(m.\xa02002; div.\xa02016)', 'Alejandra Silva (m.\xa02018)']",Cindy Crawford(m. 1991; div. 1995),Carey Lowell(m. 2002; div. 2016),Alejandra Silva (m. 2018),None
+768,Nick Frost,['(1972-03-28)'],['ActorComedianScreenwriterProducerAuthor'],['Christina Frost(m.\xa02008; div.\xa02015)'],Christina Frost(m. 2008; div. 2015),None,None,None
+769,Ray Liotta,['(1954-12-18)'],"['Actor, film producer, voice actor']",['Michelle Grace(m.\xa01997; div.\xa02004)'],Michelle Grace(m. 1997; div. 2004),None,None,None
+770,Jon Hamm,['(1971-03-10)'],['Actor\nproducer'],[],Never married,None,None,None
+771,Neil Patrick Harris,['(1973-06-15)'],['Actor\nwriter\nproducer\ncomedian\nmagician\nsinger'],['David Burtka (m.\xa02014)'],David Burtka (m. 2014),None,None,None
+772,Charlie Sheen,['(1965-09-03)'],['Actor'],"['Donna Peele(m.\xa01995; div.\xa01996)', 'Denise Richards(m.\xa02002; div.\xa02006)', 'Brooke Mueller(m.\xa02008; div.\xa02011)']",Donna Peele(m. 1995; div. 1996),Denise Richards(m. 2002; div. 2006),Brooke Mueller(m. 2008; div. 2011),None
+773,Mark Rylance,['(1960-01-18)'],"['Actor, theatre director, playwright']",['Claire van Kampen (m.\xa01989)'],Claire van Kampen (m. 1989),None,None,None
+774,Andy Garcia,['(1956-04-12)'],['Actor'],['Marivi Lorido García (m.\xa01982)'],Marivi Lorido García (m. 1982),None,None,None
+775,Bruce Davison,['(1946-06-28)'],"['Actor, director']",[],Never married,None,None,None
+776,Danny Aiello,['(1933-06-20)'],['Actor'],[],Never married,None,None,None
+777,River Phoenix,"['(1970-08-23)', '(1993-10-31)']",['Actor\nmusician\nactivist'],[],Never married,None,None,None
+778,Dean Stockwell,['(1936-03-05)'],['Actor'],"['Millie Perkins(m.\xa01960; div.\xa01962)', 'Joy Marchenko (m.\xa01981)']",Millie Perkins(m. 1960; div. 1962),Joy Marchenko (m. 1981),None,None
+779,Billy Crystal,['(1948-03-14)'],"['Actor, writer, producer, director, comedian, television host']",['Janice Goldfinger (m.\xa01970)'],Janice Goldfinger (m. 1970),None,None,None
+780,John Goodman,['(1952-06-20)'],['Actor'],['Annabeth Hartzog (m.\xa01989)'],Annabeth Hartzog (m. 1989),None,None,None
+781,Orlando Bloom,['(1977-01-13)'],['Actorfilm producerambassador'],['Miranda Kerr(m.\xa02010; div.\xa02013)'],Miranda Kerr(m. 2010; div. 2013),None,None,None
+782,Stellan Skarsgård,['(1951-06-13)'],['Actor'],"['My Skarsgård(m.\xa01975; div.\xa02007)', 'Megan Everett (m.\xa02009)']",My Skarsgård(m. 1975; div. 2007),Megan Everett (m. 2009),None,None
+783,Alexander Skarsgård,['(1976-08-25)'],['Actor'],[],Never married,None,None,None
+784,Mike Myers,['(1963-05-25)'],['Actor\ncomedian\nwriter\nfilm producer\ndirector'],"['Robin Ruzan(m.\xa01993; div.\xa02007)', 'Kelly Tisdale (m.\xa02010)']",Robin Ruzan(m. 1993; div. 2007),Kelly Tisdale (m. 2010),None,None
+785,Elijah Wood,['(1981-01-28)'],"['Actor, film producer, DJ']",[],Never married,None,None,None
+786,Danny DeVito,['(1944-11-17)'],"['Actor, filmmaker']",['Rhea Perlman (m.\xa01982)'],Rhea Perlman (m. 1982),None,None,None
+787,Lucy Liu,['(1968-12-02)'],"['Actress, voice actress, director, artist']",[],Never married,None,None,None
+788,Rebecca Romijn,['(1972-11-06)'],"['Actress, model']","['John Stamos(m.\xa01998; div.\xa02005)', ""Jerry O'Connell (m.\xa02007)""]",John Stamos(m. 1998; div. 2005),Jerry O'Connell (m. 2007),None,None
+789,Michelle Rodriguez,['(1978-07-12)'],['Actress'],[],Never married,None,None,None
+790,Sarah Michelle Gellar,['(1977-04-14)'],['Actressproducerentrepreneur'],['Freddie Prinze Jr. (m.\xa02002)'],Freddie Prinze Jr. (m. 2002),None,None,None
+791,Beyoncé,['(1981-09-04)'],['Singer\nsongwriter\nactress\nrecord producer\ndancer'],['Jay-Z (m.\xa02008)'],Jay-Z (m. 2008),None,None,None
+792,Rebecca Hall,['(1982-05-03)'],['Actress'],['Morgan Spector (m.\xa02015)'],Morgan Spector (m. 2015),None,None,None
+793,Piper Perabo,['(1976-10-31)'],['Actress'],['Stephen Kay (m.\xa02014)'],Stephen Kay (m. 2014),None,None,None
+794,Courteney Cox,['(1964-06-15)'],"['Actress, film producer, film director']",['David Arquette(m.\xa01999; div.\xa02013)'],David Arquette(m. 1999; div. 2013),None,None,None
+795,Parker Posey,['(1968-11-08)'],['Actress\nmusician'],[],Never married,None,None,None
+796,Paula Patton,['(1975-12-05)'],['Actress'],['Robin Thicke(m.\xa02005; div.\xa02015)'],Robin Thicke(m. 2005; div. 2015),None,None,None
+797,Michelle Monaghan,['(1976-03-23)'],['Actress'],['Peter White (m.\xa02005)'],Peter White (m. 2005),None,None,None
+798,Claire Danes,['(1979-04-12)'],['Actress'],['Hugh Dancy (m.\xa02009)'],Hugh Dancy (m. 2009),None,None,None
+799,Ali Larter,['(1976-02-28)'],['Actress\nmodel'],['Hayes MacArthur (m.\xa02009)'],Hayes MacArthur (m. 2009),None,None,None
+800,Kate Bosworth,['(1983-01-02)'],"['Actress, model']",['Michael Polish (m.\xa02013)'],Michael Polish (m. 2013),None,None,None
+801,Evan Rachel Wood,['(1987-09-07)'],['Actress\nmodel\nmusician'],['Jamie Bell(m.\xa02012; div.\xa02014)'],Jamie Bell(m. 2012; div. 2014),None,None,None
+802,Mira Sorvino,['(1967-09-28)'],['Actress'],['Christopher Backus (m.\xa02004)'],Christopher Backus (m. 2004),None,None,None
+803,Ziyi Zhang,['(1979-02-09)'],['Actress\nModel'],['Wang Feng (m.\xa02015)'],Wang Feng (m. 2015),None,None,None
+804,Amanda Crew,['(1986-06-05)'],['Actress'],[],Never married,None,None,None
+805,Amanda Bynes,['(1986-04-03)'],['Actress'],[],Never married,None,None,None
+806,Lisa Kudrow,['(1963-07-30)'],['Actress\xa0• voice actress\xa0• writer\xa0• comedian\xa0• producer'],['Michel Stern (m.\xa01995)'],Michel Stern (m. 1995),None,None,None
+807,Neve Campbell,['(1973-10-03)'],['Actress'],"['Jeff Colt(m.\xa01995; div.\xa01998)', 'John Light(m.\xa02007; div.\xa02011)']",Jeff Colt(m. 1995; div. 1998),John Light(m. 2007; div. 2011),None,None
+808,Sofía Vergara,['(1972-07-10)'],['Actress\nmodel\ntelevision host\nproducer'],"['Joe Gonzalez(m.\xa01991; div.\xa01993)', 'Joe Manganiello (m.\xa02015)']",Joe Gonzalez(m. 1991; div. 1993),Joe Manganiello (m. 2015),None,None
+809,Mandy Moore,['(1984-04-10)'],['Singer-songwriter\nactress'],"['Ryan Adams(m.\xa02009; div.\xa02016)', 'Taylor Goldsmith (m.\xa02018)']",Ryan Adams(m. 2009; div. 2016),Taylor Goldsmith (m. 2018),None,None
+810,Virginia Madsen,['(1961-09-11)'],['Actress\nproducer'],['Danny Huston(m.\xa01989; div.\xa01992)'],Danny Huston(m. 1989; div. 1992),None,None,None
+811,James Marsden,['(1973-09-18)'],['Actor\nsinger\nmodel'],['Lisa Linde(m.\xa02000; div.\xa02011)'],Lisa Linde(m. 2000; div. 2011),None,None,None
+812,Giovanni Ribisi,['(1974-12-17)'],['Actor'],"[""Mariah O'Brien(m.\xa01997; div.\xa02001)"", 'Agyness Deyn(m.\xa02012; div.\xa02015)']",Mariah O'Brien(m. 1997; div. 2001),Agyness Deyn(m. 2012; div. 2015),None,None
+813,Rutger Hauer,['(1944-01-23)'],"['Actor, writer, environmentalist']",['Ineke ten Cate (m.\xa01985)'],Ineke ten Cate (m. 1985),None,None,None
+814,Vince Vaughn,['(1970-03-28)'],"['Actor, producer, screenwriter, comedian']",['Kyla Weber (m.\xa02010)'],Kyla Weber (m. 2010),None,None,None
+815,Dennis Quaid,['(1954-04-09)'],['Actor\nproducer\ndirector\nsinger\nwriter'],"['P. J. Soles(m.\xa01978; div.\xa01983)', 'Meg Ryan(m.\xa01991; div.\xa02001)', 'Kimberly Buffington(m.\xa02004; div.\xa02018)']",P. J. Soles(m. 1978; div. 1983),Meg Ryan(m. 1991; div. 2001),Kimberly Buffington(m. 2004; div. 2018),None
+816,John Leguizamo,['(1964-07-22)'],"['Actor, stand-up comedian, film producer, playwright, screenwriter']","['Yelba Osorio(m.\xa01994; div.\xa01996)', 'Justine Maurer (m.\xa02003)']",Yelba Osorio(m. 1994; div. 1996),Justine Maurer (m. 2003),None,None
+817,Michael Keaton,['(1951-09-05)'],"['Actor, producer, director']",['Caroline McWilliams(m.\xa01982; div.\xa01990)'],Caroline McWilliams(m. 1982; div. 1990),None,None,None
+818,Brendan Gleeson,['(1955-03-29)'],['Actor\nfilm director'],['Mary Weldon (m.\xa01982)'],Mary Weldon (m. 1982),None,None,None
+819,Clark Gregg,['(1962-04-02)'],"['Actor, director, screenwriter, voice actor']",['Jennifer Grey (m.\xa02001)'],Jennifer Grey (m. 2001),None,None,None
+820,Jonathan Pryce,['(1947-06-01)'],"['Actor, singer']",['Kate Fahy (m.\xa02015)'],Kate Fahy (m. 2015),None,None,None
+821,Tobey Maguire,['(1975-06-27)'],"['Actor, producer']",['Jennifer Meyer(m.\xa02007; div.\xa02017)'],Jennifer Meyer(m. 2007; div. 2017),None,None,None
+822,Michael Sheen,['(1969-02-05)'],['Actor'],[],Never married,None,None,None
+823,Justin Long,['(1978-06-02)'],"['Actor, comedian, humorist']",[],Never married,None,None,None
+824,Kellan Lutz,['(1985-03-15)'],['Actor\nmodel'],['Brittany Gonzales (m.\xa02017)'],Brittany Gonzales (m. 2017),None,None,None
+825,Jack Black,['(1969-08-28)'],['Actor\nvoice actor\ncomedian\nmusician\nsongwriter'],['Tanya Haden (m.\xa02006)'],Tanya Haden (m. 2006),None,None,None
+826,Pierce Brosnan,['(1953-05-16)'],"['Actor, singer, producer, environmentalist']","['Cassandra Harris(m.\xa01980; died\xa01991)', 'Keely Shaye Smith (m.\xa02001)']",Cassandra Harris(m. 1980; died 1991),Keely Shaye Smith (m. 2001),None,None
+827,Sean Bean,['(1959-04-17)'],['Actor'],"['Debra James(m.\xa01981; div.\xa01988)', 'Melanie Hill(m.\xa01990; div.\xa01997)', 'Abigail Cruttenden(m.\xa01997; div.\xa02000)', 'Georgina Sutcliffe(m.\xa02008; div.\xa02011)', 'Ashley Moore (m.\xa02017)']",Debra James(m. 1981; div. 1988),Melanie Hill(m. 1990; div. 1997),Abigail Cruttenden(m. 1997; div. 2000),Georgina Sutcliffe(m. 2008; div. 2011)
+828,Mahershala Ali,['(1974-02-16)'],['Actor'],['Amatus-Sami Karim (m.\xa02013)'],Amatus-Sami Karim (m. 2013),None,None,None
+829,Josh Duhamel,['(1972-11-14)'],"['Actor, model']",['Fergie(m.\xa02009; div.\xa02017)'],Fergie(m. 2009; div. 2017),None,None,None
+830,Jon Favreau,['(1966-10-19)'],['Actor\ndirector\nproducer\nscreenwriter'],['Joya Tillem (m.\xa02000)'],Joya Tillem (m. 2000),None,None,None
+831,Danny Glover,['(1946-07-22)'],"['Actor, director, activist']","['Asake Bomani(m.\xa01975; div.\xa02000)', 'Eliane Cavalleiro (m.\xa02009)']",Asake Bomani(m. 1975; div. 2000),Eliane Cavalleiro (m. 2009),None,None
+832,Freida Pinto,['(1984-10-18)'],"['Actress, model']",[],Never married,None,None,None
+833,Hilary Duff,['(1987-09-28)'],['Actress\nsinger-songwriter\ndesigner\nauthor\nentrepreneur\nproducer'],['Mike Comrie(m.\xa02010; div.\xa02016)'],Mike Comrie(m. 2010; div. 2016),None,None,None
+834,Mary Elizabeth Winstead,['(1984-11-28)'],['Actress\nsinger'],['Riley Stearns(m.\xa02010; div.\xa02017)'],Riley Stearns(m. 2010; div. 2017),None,None,None
+835,Jennifer Coolidge,['(1961-08-28)'],['Actress\nComedian\nActivist'],[],Never married,None,None,None
+836,Andrea Riseborough,['(1981-11-20)'],['Actress'],[],Never married,None,None,None
+837,Molly Ringwald,['(1968-02-18)'],"['Actress, singer, dancer, writer']","['Valery Lameignère(m.\xa01999; div.\xa02002)', 'Panio Gianopoulos (m.\xa02007)']",Valery Lameignère(m. 1999; div. 2002),Panio Gianopoulos (m. 2007),None,None
+838,January Jones,['(1978-01-05)'],['Actress\nmodel'],[],Never married,None,None,None
+839,Maya Rudolph,['(1972-07-27)'],"['Actress, voice artist, comedian, singer']",[],Never married,None,None,None
+840,Sophie Marceau,['(1966-11-17)'],"['Actress, author, director, screenwriter']",[],Never married,None,None,None
+841,Olga Kurylenko,['(1979-11-14)'],['Actress'],"['Cedric van Mol(m.\xa02000; div.\xa02004)', 'Damian Gabrielle(m.\xa02006; div.\xa02007)']",Cedric van Mol(m. 2000; div. 2004),Damian Gabrielle(m. 2006; div. 2007),None,None
+842,Franka Potente,['(1974-07-22)'],['Actress\nsinger[1]'],['Derek Richardson (m.\xa02012)'],Derek Richardson (m. 2012),None,None,None
+843,Rashida Jones,['(1976-02-25)'],"['Actress, writer, producer']",[],Never married,None,None,None
+844,Alicia Silverstone,['(1976-10-04)'],['Actress'],['Christopher Jarecki(m.\xa02005; div.\xa02018)'],Christopher Jarecki(m. 2005; div. 2018),None,None,None
+845,Rosie Huntington-Whiteley,['(1987-04-18)'],['Model\nactress\nfashion designer\nbusinesswoman[2]'],[],Never married,None,None,None
+846,Lillian Gish,"['(1893-10-14)', '(1993-02-27)']",['Actress'],[],Never married,None,None,None
+847,Evangeline Lilly,['(1979-08-03)'],['Actressauthor'],['Murray Hone(m.\xa02003; div.\xa02004)'],Murray Hone(m. 2003; div. 2004),None,None,None
+848,Mireille Enos,['(1975-09-22)'],['Actress'],['Alan Ruck (m.\xa02008)'],Alan Ruck (m. 2008),None,None,None
+849,Jennifer Love Hewitt,['(1979-02-21)'],['Actresssinger'],['Brian Hallisay (m.\xa02013)'],Brian Hallisay (m. 2013),None,None,None
+850,Emmy Rossum,['(1986-09-12)'],['Actress\ntelevision director\nsinger-songwriter'],"['Justin Siegel(m.\xa02008; div.\xa02010)', 'Sam Esmail (m.\xa02017)']",Justin Siegel(m. 2008; div. 2010),Sam Esmail (m. 2017),None,None
+851,Joey King,['(1999-07-30)'],['Actress'],[],Never married,None,None,None
+852,Ginnifer Goodwin,['(1978-05-22)'],"['Actress, voice actress']",['Josh Dallas (m.\xa02014)'],Josh Dallas (m. 2014),None,None,None
+853,Christine Taylor,['(1971-07-30)'],['Actress'],['Ben Stiller(m.\xa02000; separated\xa02017)'],Ben Stiller(m. 2000; separated 2017),None,None,None
+854,Vanessa Hudgens,['(1988-12-14)'],['Actress\nsinger'],[],Never married,None,None,None
+855,Abbie Cornish,['(1982-08-07)'],"['Actress, rapper']",[],Never married,None,None,None
+856,Michelle Yeoh,['(1962-08-06)'],['Actress'],['Dickson Poon(m.\xa01988; div.\xa01992)'],Dickson Poon(m. 1988; div. 1992),None,None,None
+857,Ian Holm,['(1931-09-12)'],['Actor'],"['Lynn Mary Shaw(m.\xa01955; div.\xa01965)', 'Sophie Baker(m.\xa01982; div.\xa01986)', 'Penelope Wilton(m.\xa01991; div.\xa02001)', 'Sophie de Stempel (m.\xa02003)']",Lynn Mary Shaw(m. 1955; div. 1965),Sophie Baker(m. 1982; div. 1986),Penelope Wilton(m. 1991; div. 2001),Sophie de Stempel (m. 2003)
+858,Nathan Lane,['(1956-02-03)'],"['Actor, writer']",['Devlin Elliott (m.\xa02015)'],Devlin Elliott (m. 2015),None,None,None
+859,Cary Elwes,['(1962-10-26)'],"['Actor, writer']",['Lisa Marie Kurbikoff (m.\xa02000)'],Lisa Marie Kurbikoff (m. 2000),None,None,None
+860,Steve Coogan,['(1965-10-14)'],['Actorcomedianscreenwriterproducer'],['Caroline Hickman(m.\xa02002; div.\xa02005)'],Caroline Hickman(m. 2002; div. 2005),None,None,None
+861,Jeffrey Wright,['(1965-12-07)'],['Actor'],['Carmen Ejogo(m.\xa02000; div.\xa02014)'],Carmen Ejogo(m. 2000; div. 2014),None,None,None
+862,Aaron Eckhart,['(1968-03-12)'],['Actor'],[],Never married,None,None,None
+863,Sam Worthington,['(1976-08-02)'],"['Actor, writer']",[],Never married,None,None,None
+864,Jack Davenport,['(1973-03-01)'],['Actor'],['Michelle Gomez (m.\xa02000)'],Michelle Gomez (m. 2000),None,None,None
+865,Alfred Molina,['(1953-05-24)'],"['Actor, voice artist']",['Jill Gascoine (m.\xa01986)'],Jill Gascoine (m. 1986),None,None,None
+866,Justin Bartha,['(1978-07-21)'],['Actor'],['Lia Smith (m.\xa02014)'],Lia Smith (m. 2014),None,None,None
+867,Mark Hamill,['(1951-09-25)'],['Actor\nvoice actor\nwriter'],['Marilou York (m.\xa01978)'],Marilou York (m. 1978),None,None,None
+868,Brendan Fraser,['(1968-12-03)'],['Actor'],['Afton Smith(m.\xa01998; div.\xa02007)'],Afton Smith(m. 1998; div. 2007),None,None,None
+869,Ice Cube,['(1969-06-15)'],['ActorRapperWriter'],['Kimberly Woodruff (m.\xa01992)'],Kimberly Woodruff (m. 1992),None,None,None
+870,Liev Schreiber,['(1967-10-04)'],"['Actor, director, screenwriter, producer']",[],Never married,None,None,None
+871,Ed Helms,['(1974-01-24)'],"['Actor, comedian, singer']",[],Never married,None,None,None
+872,Val Kilmer,['(1959-12-31)'],"['Actor, musician, artist']",['Joanne Whalley(m.\xa01988; div.\xa01996)'],Joanne Whalley(m. 1988; div. 1996),None,None,None
+873,Russell Brand,['(1975-06-04)'],[],"['Katy Perry(m.\xa02010; div.\xa02012)', 'Laura Gallacher (m.\xa02017)']",Katy Perry(m. 2010; div. 2012),Laura Gallacher (m. 2017),None,None
+874,Craig T. Nelson,['(1944-04-04)'],['Actor'],"['Robin McCarthy(m.\xa01965; div.\xa01978)', 'Doria Cook-Nelson (m.\xa01987)']",Robin McCarthy(m. 1965; div. 1978),Doria Cook-Nelson (m. 1987),None,None
+875,Patrick Stewart,['(1940-07-13)'],['Actorvoice actor'],"['Sheila Falconer(m.\xa01966; div.\xa01990)', 'Wendy Neuss(m.\xa02000; div.\xa02003)', 'Sunny Ozell (m.\xa02013)']",Sheila Falconer(m. 1966; div. 1990),Wendy Neuss(m. 2000; div. 2003),Sunny Ozell (m. 2013),None
+876,Seth Green,['(1974-02-08)'],"['Actor, voice artist, producer, writer, director']",['Clare Grant (m.\xa02010)'],Clare Grant (m. 2010),None,None,None
+877,Ashton Kutcher,['(1978-02-07)'],"['Actor, producer, entrepreneur']","['Demi Moore(m.\xa02005; div.\xa02013)', 'Mila Kunis (m.\xa02015)']",Demi Moore(m. 2005; div. 2013),Mila Kunis (m. 2015),None,None
+878,Randy Quaid,['(1950-10-01)'],['Actor'],[],Never married,None,None,None
+879,Wesley Snipes,['(1962-07-31)'],"['Actor, film producer, martial artist, author']","['April Dubois (m.\xa01985–1990)', 'Nakyung ""Nikki"" Park (m.\xa02003)']",April Dubois (m. 1985–1990),"Nakyung ""Nikki"" Park (m. 2003)",None,None
+880,David Oyelowo,['(1976-04-01)'],"['Actor, producer']",['Jessica Watson (m.\xa01998)'],Jessica Watson (m. 1998),None,None,None
+881,Mark Strong,['(1963-08-05)'],[],[],Never married,None,None,None
+882,Rob Schneider,['(1963-10-31)'],['Actorcomediandirectorscreenwriter'],"['London King(m.\xa01988; div.\xa01990)', 'Helena Schneider(m.\xa02002; div.\xa02005)', 'Patricia Azarcoya Arce (m.\xa02011)']",London King(m. 1988; div. 1990),Helena Schneider(m. 2002; div. 2005),Patricia Azarcoya Arce (m. 2011),None
+883,Jay Baruchel,['(1982-04-09)'],"['Actor, screenwriter']",[],Never married,None,None,None
+884,Hayden Christensen,['(1981-04-19)'],"['Actor, film producer']",[],Never married,None,None,None
+885,Ray Stevenson,['(1964-05-25)'],['Actor'],['Ruth Gemmell(m.\xa01997; div.\xa02005)'],Ruth Gemmell(m. 1997; div. 2005),None,None,None
+886,Paul Bettany,['(1971-05-27)'],['Actor'],['Jennifer Connelly (m.\xa02003)'],Jennifer Connelly (m. 2003),None,None,None
+887,Hugh Laurie,['(1959-06-11)'],"['Actor, director, musician, comedian, author']",['Jo Green (m.\xa01989)'],Jo Green (m. 1989),None,None,None
+888,Nick Swardson,['(1976-10-09)'],"['Stand-up comedian, actor, screenwriter, producer']",[],Never married,None,None,None
+889,Josh Lucas,['(1971-06-20)'],['Actor'],['Jessica Henriquez(m.\xa02012; div.\xa02014)'],Jessica Henriquez(m. 2012; div. 2014),None,None,None
+890,Chris O'Donnell,['(1970-06-26)'],['Actor'],['Caroline Fentress (m.\xa01997)'],Caroline Fentress (m. 1997),None,None,None
+891,Benjamin Bratt,['(1963-12-16)'],['Actor'],['Talisa Soto (m.\xa02002)'],Talisa Soto (m. 2002),None,None,None
+892,Johnny Knoxville,['(1971-03-11)'],"['Actor, film producer, screenwriter, comedian, stunt performer']","['Melanie Cates(m.\xa01995; div.\xa02008)', 'Naomi Nelson (m.\xa02010)']",Melanie Cates(m. 1995; div. 2008),Naomi Nelson (m. 2010),None,None
+893,Marlon Wayans,['(1972-07-23)'],['Actorcomedianfilm producerscreenwriter'],['Angelica Zackary(m.\xa02005; div.\xa02013)'],Angelica Zackary(m. 2005; div. 2013),None,None,None
+894,Jai Courtney,['(1986-03-15)'],['Actor'],[],Never married,None,None,None
+895,Albert Brooks,['(1947-07-22)'],"['Actor, Comedian, Writer, Director']",['Kimberly Shlain Brooks (m.\xa01997)'],Kimberly Shlain Brooks (m. 1997),None,None,None
+896,Macaulay Culkin,['(1980-08-26)'],['Actor\nmusician'],['Rachel Miner(m.\xa01998; div.\xa02002)'],Rachel Miner(m. 1998; div. 2002),None,None,None
+897,Sam Elliott,['(1944-08-09)'],['Actor'],['Katharine Ross (m.\xa01984)'],Katharine Ross (m. 1984),None,None,None
+898,Jim Caviezel,['(1968-09-26)'],['Actor'],['Kerri Browitt (m.\xa01996)'],Kerri Browitt (m. 1996),None,None,None
+899,Paul Scofield,"['(1922-01-21)', '(2008-03-19)']",['Actor'],[],Never married,None,None,None
+900,Jared Harris,['(1961-08-24)'],['Actor'],"['Jacqueline Goldenberg(m.\xa01989; div.\xa01990)', 'Emilia Fox(m.\xa02005; div.\xa02010)', 'Allegra Riggio (m.\xa02013)']",Jacqueline Goldenberg(m. 1989; div. 1990),Emilia Fox(m. 2005; div. 2010),Allegra Riggio (m. 2013),None
+901,Harpo Marx,"['(1888-11-23)', '(1964-09-28)']","['Actor, mime, musician']",['Susan Fleming (m.\xa01936)'],Susan Fleming (m. 1936),None,None,None
+902,Jason Sudeikis,['(1975-09-18)'],"['Comedian, actor, screenwriter, producer']",['Kay Cannon(m.\xa02004; div.\xa02010)'],Kay Cannon(m. 2004; div. 2010),None,None,None
+903,Josh Hartnett,['(1978-07-21)'],"['Actor, producer']",[],Never married,None,None,None
+904,Cillian Murphy,['(1976-05-25)'],['Actor'],['Yvonne McGuinness (m.\xa02004)'],Yvonne McGuinness (m. 2004),None,None,None
+905,Billy Crudup,['(1968-07-08)'],['Actor'],[],Never married,None,None,None
+906,Christopher Mintz-Plasse,['(1989-06-20)'],"['Actor, comedian, musician']",[],Never married,None,None,None
+907,Anthony Mackie,['(1978-09-23)'],['Actor'],['Sheletta Chapital (m.\xa02014)'],Sheletta Chapital (m. 2014),None,None,None
+908,Timothy Olyphant,['(1968-05-20)'],"['Actor, producer']",['Alexis Knief (m.\xa01991)'],Alexis Knief (m. 1991),None,None,None
+909,Josh Gad,['(1981-02-23)'],"['Actor, comedian, singer']",['Ida Darvish (m.\xa02008)'],Ida Darvish (m. 2008),None,None,None
+910,Luke Wilson,['(1971-09-21)'],['Actor'],[],Never married,None,None,None
+911,Peter Sarsgaard,['(1971-03-07)'],['Actor'],['Maggie Gyllenhaal (m.\xa02009)'],Maggie Gyllenhaal (m. 2009),None,None,None
+912,Rhys Ifans,['(1967-07-22)'],['Actor'],[],Never married,None,None,None
+913,Topher Grace,['(1978-07-12)'],['Actor'],['Ashley Hinshaw (m.\xa02016)'],Ashley Hinshaw (m. 2016),None,None,None
+914,Paul Dano,['(1984-06-19)'],['Actordirectorscreenwriterproducersingermusician'],[],Never married,None,None,None
+915,Lenny Kravitz,['(1964-05-26)'],['Singersongwriteractorrecord producer'],['Lisa Bonet(m.\xa01987; div.\xa01993)'],Lisa Bonet(m. 1987; div. 1993),None,None,None
+916,Rob Lowe,['(1964-03-17)'],"['Actor, director']",['Sheryl Berkoff (m.\xa01991)'],Sheryl Berkoff (m. 1991),None,None,None
+917,Rob Riggle,['(1970-04-21)'],"['Actor, comedian,retired U.S. Marine Officer']",['Tiffany Riggle (m.\xa02000)'],Tiffany Riggle (m. 2000),None,None,None
+918,Lance Henriksen,['(1940-05-05)'],"['Actor, voice actor, artist']","['Mary Jane Evans (m.\xa01985–1989)', 'Jane Pollack (m.\xa01995–2006)']",Mary Jane Evans (m. 1985–1989),Jane Pollack (m. 1995–2006),None,None
+919,Richard Jenkins,['(1947-05-04)'],['Actor'],['Sharon R. Friedrick (m.\xa01969)'],Sharon R. Friedrick (m. 1969),None,None,None
+920,Mike Vogel,['(1979-07-17)'],"['Actor, model']",['Courtney Vogel (m.\xa02003)'],Courtney Vogel (m. 2003),None,None,None
+921,Michael Ealy,['(1973-08-03)'],['Actor'],['Khatira Rafiqzada (m.\xa02012)'],Khatira Rafiqzada (m. 2012),None,None,None
+922,Freddie Prinze Jr.,['(1976-03-08)'],['Actor'],['Sarah Michelle Gellar (m.\xa02002)'],Sarah Michelle Gellar (m. 2002),None,None,None
+923,Jamie Bell,['(1986-03-14)'],"['Actor, dancer']","['Evan Rachel Wood(m.\xa02012; div.\xa02014)', 'Kate Mara (m.\xa02017)']",Evan Rachel Wood(m. 2012; div. 2014),Kate Mara (m. 2017),None,None
+924,Jonathan Rhys Meyers,['(1977-07-27)'],['Actor'],['Mara Lane (m.\xa02016)'],Mara Lane (m. 2016),None,None,None
+925,Michael Cera,['(1988-06-07)'],['Actorproducersingersongwritermusician'],[],Never married,None,None,None
+926,Bill Paxton,"['(1955-05-17)', '(2017-02-25)']",['Actor\nfilm director'],"['Kelly Rowan(m.\xa01979; div.\xa01980)', 'Louise Newbury (m.\xa01987)']",Kelly Rowan(m. 1979; div. 1980),Louise Newbury (m. 1987),None,None
+927,Ioan Gruffudd,['(1973-10-06)'],['Actor'],['Alice Evans (m.\xa02007)'],Alice Evans (m. 2007),None,None,None
+928,Andrew Lincoln,['(1973-09-14)'],['Actor'],['Gael Anderson (m.\xa02006)'],Gael Anderson (m. 2006),None,None,None
+929,Bill Pullman,['(1953-12-17)'],['Actor'],['Tamara Hurwitz (m.\xa01987)'],Tamara Hurwitz (m. 1987),None,None,None
+930,Charlie Day,['(1976-02-09)'],"['Actor, screenwriter, producer, comedian, musician']",['Mary Elizabeth Ellis (m.\xa02006)'],Mary Elizabeth Ellis (m. 2006),None,None,None
+931,Andy Samberg,['(1978-08-18)'],"['Actor, comedian, filmmaker, musician']",['Joanna Newsom (m.\xa02013)'],Joanna Newsom (m. 2013),None,None,None
+932,Garrett Hedlund,['(1984-09-03)'],"['Actor, model, singer']",[],Never married,None,None,None
+933,Cam Gigandet,['(1982-08-16)'],['Actor'],[],Never married,None,None,None
+934,John Krasinski,['(1979-10-20)'],['Actorscreenwriterproducerdirector'],['Emily Blunt (m.\xa02010)'],Emily Blunt (m. 2010),None,None,None
+935,Kevin James,['(1965-04-26)'],"['Actor, comedian, screenwriter, producer']",['Steffiana de la Cruz (m.\xa02004)'],Steffiana de la Cruz (m. 2004),None,None,None
+936,Breckin Meyer,['(1974-05-07)'],"['Actor, voice actor, writer, producer, drummer']",['Deborah Kaplan(m.\xa02001; div.\xa02014)'],Deborah Kaplan(m. 2001; div. 2014),None,None,None
+937,Christopher Reeve,"['(1952-09-25)', '(2004-10-10)']","['Actor, director, producer, screenwriter, author, activist, equestrian']",['Dana Morosini (m.\xa01992)'],Dana Morosini (m. 1992),None,None,None
+938,James McAvoy,['(1979-04-21)'],['Actor'],['Anne-Marie Duff (m.\xa02006–2016)'],Anne-Marie Duff (m. 2006–2016),None,None,None
+939,Rufus Sewell,['(1967-10-29)'],['Actor'],"['Yasmin Abdallah(m.\xa01999; div.\xa02000)', 'Amy Gardner(m.\xa02004; div.\xa02006)']",Yasmin Abdallah(m. 1999; div. 2000),Amy Gardner(m. 2004; div. 2006),None,None
+940,Ned Beatty,['(1937-07-06)'],['Actor'],"['Walta Chandler (m.\xa01959–1968)', 'Belinda Rowley (m.\xa01971–1979)', 'Dorothy ""Tinker"" Lindsey (m.\xa01979–1998)', 'Sandra Johnson (m.\xa01999)']",Walta Chandler (m. 1959–1968),Belinda Rowley (m. 1971–1979),"Dorothy ""Tinker"" Lindsey (m. 1979–1998)",Sandra Johnson (m. 1999)
+941,John Cleese,['(1939-10-27)'],"['Actor, voice actor, comedian, screenwriter, producer']","['Connie Booth(m.\xa01968; div.\xa01978)', 'Barbara Trentham(m.\xa01981; div.\xa01990)', 'Alyce Eichelberger(m.\xa01992; div.\xa02008)', 'Jennifer Wade (m.\xa02012)']",Connie Booth(m. 1968; div. 1978),Barbara Trentham(m. 1981; div. 1990),Alyce Eichelberger(m. 1992; div. 2008),Jennifer Wade (m. 2012)
+942,John Turturro,['(1957-02-28)'],['Actorwriterfilmmaker'],['Katherine Borowitz (m.\xa01985)'],Katherine Borowitz (m. 1985),None,None,None
+943,Jerry Lewis,"['(1926-03-16)', '(2017-08-20)']",['Comedian\nactor\nsinger\nfilmmaker\nhumanitarian'],"['Patti Palmer(m.\xa01944; div.\xa01980)', 'SanDee Pitnick (m.\xa01983)']",Patti Palmer(m. 1944; div. 1980),SanDee Pitnick (m. 1983),None,None
