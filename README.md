@@ -5,7 +5,7 @@ Celebrity divorce seems to be in the news every day, whether it’s a real divor
 In this repo, we first extract the top 1000 actors and actresses listed on IMDb (https://www.imdb.com/list/ls058011111/?sort=list_order,asc&mode=detail&page=1). Then for each actor or actress, we open his/her biography table on Wikipedia and scrape the basic information such as birth date, occupation, and spouse(s) including spouse name and married/divorced year.
 
 ## General divorce rate
-The divorce rate depends on if it’s the first, second, or third marriage, according to the following statistics:
+The divorce rate for the general popuation in the US depends on if it’s the first, second, or third marriage, according to the following statistics:
 
 First marriage divorce rate = `45% – 50%`;
 
